@@ -7,10 +7,6 @@ The Overall Market
 image:images/jobs.jpg[width="378"]
 
 
-The Overall Market
----------------------
-image:images/jobs.jpg[width="378"]
-
 Introduction to Speed
 ---------------------
 
@@ -31,3 +27,4 @@ The business of performance and quantifying it.
 
 
 (*1) The State of the Internet 4th Quarter 2011, Akamai
+image::images/jobs.jpg[scaledwidth="90%"]
