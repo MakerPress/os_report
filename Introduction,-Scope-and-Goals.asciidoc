@@ -1,12 +1,36 @@
+Hypothesis: Small businesses drive the U.S. economy; Open Source drives and enables small business.
+Paper driven by a “killer metric” that tells the story.
+
+* Economic impact is significant
+* Drives/supports revenue and growth
+* Offers savings and opportunity. 
+* Drives employment (direct and indirect)
+* Demonstrate the ubiquity of Open Source
+* Open Source makes apps that had been cost- or skill-prohibitive accessible (e.g. ecommerce), broadens opportunity
+* The “commercial wrappers” around open source are driving key aspects of the economy.
+* Creates tangential lift in associated industries, as well as the creation of industries.
+
+Points of Discussion
+~~~~~~~~~~~~~~~~~~~~
+
+There are two aspects of Open Source that we’re looking at:
+. Tools and applications that a small business owner selects and uses to manage a component of their business
+. The code that is used to support services they consume, such as Apache, Asterisk—and that larger organizations use to make services more affordable (e.g., you could not offer hosting at $5/month if our platform was not built on Open Source).
+
+Question: how do we frame these two for the purpose of this paper. Is the scope then too large, and it the argument effective without both aspects?
+
+We need to define what Small Business is for the purpose of this paper.
+
+So what? What’s next, where does this knowledge leave us? Transition to O’Reilly?
+
+Goals:
+~~~~~~
+ 
+* To assist Open Source communities in gaining credibility as important, but virtually silent, drivers of the GDP.
+* Demonstrate that the Clothesline Paradox applies to Open Source.
+* Empower Open Source projects by providing information about their role in the small business eco-system
+* Establish Bluehost  as an active advocate of the Open Source movement
+* Prove that Open Source gives more than it takes, by concentrating on the Net Contribution model.
 
 
-
-Strengthen the credibility of open source businesses as important drivers of GDP
-
-Show how open source drives and enables the creation of small businesses
-
-Empower open source projects by substantiating their role in the small business ecosystem
-
-Prove that open source gives more than it takes using the Net Contribution Model
-
-Establish Bluehost as an active advocate of the Open Source community
+Answer this question: Do small businesses who use Open Source apps have higher, equal or lower gross and net revenue.
