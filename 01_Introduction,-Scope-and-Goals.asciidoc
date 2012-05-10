@@ -3,6 +3,10 @@ Executive Summary
 This Radar Report includes data from our Jobs data-mart, Google trends, retail book trends and some general scraping and collecting of internet data to surface any trends surrounding the current State of the Web Performance Optimization market. If you figure that the global average connection speed is 2.3 Mbps and the global average peak connection speed is 11.7 Mbps[*], how fast will web sites need to be effectively serve data at the peak rate or to satisfy the connection rate lower end of the speed scale. 
 
 
+The Overall Market
+---------------------
+image:images/jobs.jpg[width="378"]
+
 
 
 Introduction to Speed
