@@ -1,0 +1,10 @@
+The business of performance and quantifying it.
+	Metrics of success
+	Metrics of failure
+	General Business KPIs
+
+The nature of speed and measuring it.
+	Collecting data
+	Analyzing data
+	Comparing equal metrics
+	
