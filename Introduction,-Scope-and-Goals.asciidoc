@@ -1,4 +1,20 @@
+Executive Summary
+-----------------
+This Radar Report includes data from our Jobs datamart, Google trends, retail book trends and some general scraping and collecting of internet data to surface any trends surrounding the current State of the Web Performance Optimization market. If you figure that the global average connection speed is 2.3 Mbps and the global average peak connection speed is 11.7 Mbps*, how fast will web sites need to be effectively serve data at the peak rate or to satisfy the connection rate lower end of the speed scale. 
+
+
+
+
+Introduction to Speed
+---------------------
+
+Nature of Speed
+~~~~~~~~~~~~~~~
+
 According to Wikipedia, speed is the rate of change, motion or activity. Optimization is the process of modifying a software system to make some aspect of it work more efficiently.  So let's take a look at the current set of tools, techniques and best practices that developers can use to optimize their web properties for speed and efficiency.  
+
+Quantifying Speed
+~~~~~~~~~~~~~~~~~
 
 
 The business of performance and quantifying it.
@@ -6,19 +22,6 @@ The business of performance and quantifying it.
 	Metrics of failure
 	General Business KPIs
 
-The nature of speed and measuring it.
-	Collecting data
-	Analyzing data
-	Comparing equal metrics
-	
 
-The nature of the WPO Market - developers needed!
-	Job Market data
-	Most sought after skills
-	Big or small - companies hiring
-	
 
-Finding and deploying Best Practices
-	Industry meetings
-	Best Practices findings
-	Where do you go now?
+* The State of the Internet 4th Quarter 2011, Akamai.
