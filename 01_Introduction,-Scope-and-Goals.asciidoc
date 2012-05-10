@@ -7,6 +7,9 @@ The Overall Market
 image:images/jobs.jpg[width="378"]
 
 
+image::images/jobs.jpg[scaledwidth="90%"]
+
+
 Introduction to Speed
 ---------------------
 
