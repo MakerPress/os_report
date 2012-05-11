@@ -1,5 +1,8 @@
 Executive Summary
 -----------------
+
+Our primary aim in this report is to demonstrate the magnitude of the impact Open Source technologies have had on small businesses everywhere.  Two billion people are connected to the internet.  Almost $8 trillion exchange hands each year through e-commerce.  In some market, about two-thirds of all businesses have a Web presence of some kind, and one-third of small and medium sized businesses extensively use Web technologies.
+
 This Radar Report includes data from our Jobs data-mart, Google trends, retail book trends and some general scraping and collecting of internet data to surface any trends surrounding the current State of the Web Performance Optimization market. If you figure that the global average connection speed is 2.3 Mbps and the global average peak connection speed is 11.7 Mbps(*1), how fast will web sites need to be effectively serve data at the peak rate or to satisfy the connection rate lower end of the speed scale. 
 
 The Overall Market
