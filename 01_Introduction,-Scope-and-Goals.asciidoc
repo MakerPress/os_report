@@ -20,7 +20,7 @@ image::images/jobs.jpg[width="378"]
 Introduction to Performance
 ---------------------
 
-This is a placeholder to see if this is working.
+This is a placeholder to see if this is working. Ad this just does not seem to get put.
 
 Nature of Speed
 ^^^^^^^^^^^^^^^
