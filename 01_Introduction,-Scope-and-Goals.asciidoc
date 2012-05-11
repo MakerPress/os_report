@@ -11,6 +11,8 @@ The Overall Market
 
 image::images/jobs.jpg[width="378"]
 
+Try text here and see if this helps.
+
 Introduction to Performance
 -----------------
 
@@ -24,6 +26,7 @@ According to Wikipedia, speed is the rate of change, motion or activity. Optimiz
 Quantifying Speed - Tools, Metrics and Best Practices
 -----------------
 
+And try more text here.
 
 The business of performance and quantifying it.
 -----------------
