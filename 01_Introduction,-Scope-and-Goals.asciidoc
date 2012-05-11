@@ -9,8 +9,6 @@ This Radar Report includes data from our Jobs data-mart, Google trends, retail b
 The Overall Market
 -----------------
 
-image::images/jobs.jpg[width="378"]
-
 Try text here and see if this helps.
 
 Introduction to Performance
