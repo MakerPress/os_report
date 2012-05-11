@@ -2,8 +2,6 @@
 Executive Summary
 -----------------
 
-Test three.
-
 Two billion people are connected to the internet.  Almost $8 trillion exchange hands each year through e-commerce. Having a web property that is highly responsive to users, runs flawlessly 24x7, and enables mobile commerce is the baseline for what you can expect to develop and deploy in today's Internet economy.  The Internet's total contribution to the World GDP is bigger that the GDP of Spain or Canada and is growing faster than Brazil.  And yet the internet is still in its infancy, but a critical element to world economic growth. But is web performance keeping up with the sheer growth in size and complexity of the Internet? 
 
 This Radar Report includes data from our Jobs data-mart, Google trends, retail book trends and some general scraping and collecting of internet data to surface any trends surrounding the current State of the Web Performance Optimization market. If you figure that the global average connection speed is 2.3 Mbps and the global average peak connection speed is 11.7 Mbps*1, how fast will web sites need to be effectively serve data at the peak rate or to satisfy the connection rate lower end of the speed scale.  So let's take a look at the growth of the Web and the new burgeoning discipline of Web Performance Optimization - WPO.
@@ -14,7 +12,7 @@ The Overall Market
 image::images/jobs.jpg[width="378"]
 
 Introduction to Performance
----------------------
+----------------------------
 
 This is a placeholder to see if this is working. Ad this just does not seem to get put.
 
@@ -24,11 +22,11 @@ Nature of Speed
 According to Wikipedia, speed is the rate of change, motion or activity. Optimization is the process of modifying a software system to make some aspect of it work more efficiently.  So let's take a look at the current set of tools, techniques and best practices that developers can use to optimize their web properties for speed and efficiency.  
 
 Quantifying Speed - Tools, Metrics and Best Practices
-^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 The business of performance and quantifying it.
-^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * Metrics of success
 * Metrics of failure
