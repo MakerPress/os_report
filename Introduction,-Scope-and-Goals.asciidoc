@@ -1,5 +1,9 @@
-Hypothesis: Small businesses drive the U.S. economy; Open Source drives and enables small business.
-Paper driven by a “killer metric” that tells the story.
+Executive Summary
+~~~~~~~~~~~~~~~~~~~~
+
+Our primary aim in this report is to demonstrate the magnitude of the impact Open Source technologies have had on small businesses everywhere.  Two billion people are connected to the internet.  Almost $8 trillion exchange hands each year through e-commerce.  In some market, about two-thirds of all businesses have a Web presence of some kind, and one-third of small and medium sized businesses extensively use Web technologies.
+
+Hypothesis: Small businesses drive the U.S. economy; Open Source drives and enables small business.  The focus of this report will be to make sense, and weave stories from the vast amount of data gathered on trends that are directly related to technologies considered open source.  Data will trump opinion in the writing and readers will be clearly walked through numbers, charts, tables and graphs.  The result will be that the information presented will lead the reader to understand that Open Source can truly be the catalyst and driver of small businesses.  
 
 * Economic impact is significant
 * Drives/supports revenue and growth
@@ -31,6 +35,16 @@ Goals:
 * Empower Open Source projects by providing information about their role in the small business eco-system
 * Establish Bluehost  as an active advocate of the Open Source movement
 * Prove that Open Source gives more than it takes, by concentrating on the Net Contribution model.
+* Contribute back to the community that has helped bluehost grow and sustain a thriving business.
+* Tell the story of Open Source success with small businesses everywhere.
+* Identify the most prevalent OS Stacks used by successful small businesses.
+* Create awareness of the viability of using Open Source in a business environment.
+* Show how open source enables and accelerates small businesses. 
+* Educate an audience already prone to choose open source of the distinct financial advantages of Open Source.
+* Demonstrate that open source provides clear advantages using the Net Contribution Model
+* Establish Bluehost as an active advocate of the Open Source community and a close partner of O’Reilly Media.
+
+
 
 
 Answer this question: Do small businesses who use Open Source apps have higher, equal or lower gross and net revenue.
