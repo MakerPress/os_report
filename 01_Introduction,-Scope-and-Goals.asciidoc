@@ -12,7 +12,7 @@ The Overall Market
 
 Try text here and see if this helps.
 
-image::images/jobs.jpg[scaledwidth="90%"]
+image::images/jobs.jpg[width="387"]
 
 And the picture in the middle.
 
