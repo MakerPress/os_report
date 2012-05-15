@@ -12,11 +12,11 @@ The Overall Market
 
 The following image contains data from our Simplyhired Datamart and indicates the average number of job postings, on the Y axis, for each time sequence on the X axis.  I compared the performance topics with SysAdmin for a baseline so you can see fluctuations in the overall market and the growth rate of web performance optimizations topics and tools.  What this chart indicates is that 
 
-image::images/wpo2.jpg[width="687"]
+image::images/wpo2.jpg[]
 
 The next image places our Velocity Conferences that we've held during the past few years with the same Job data.  I do see a trend in that immediately following the conference we see a spike in WPO job postings.  And remember this is half of the DevOps and WPO audience that typically makes up our Velocity demographics.
 
-image::images/wpo3.jpg[width="687"]
+image::images/wpo3.jpg[]
 
 Introduction to Performance
 ---------------------------
