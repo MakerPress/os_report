@@ -21,7 +21,7 @@ image::images/wpo3.jpg[width="687"]
 Introduction to Performance
 ---------------------------
 
-This is a placeholder to see if this is working. Ad this just does not seem to get put.
+This is a placeholder to see if this is working. Ad this just does not seem to get put. And to make a change.
 
 Nature of Speed
 ---------------
