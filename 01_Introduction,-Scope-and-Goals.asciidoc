@@ -16,7 +16,7 @@ image::images/wpo2.jpg[]
 
 The next image places our Velocity Conferences that we've held during the past few years with the same Job data.  I do see a trend in that immediately following the conference we see a spike in WPO job postings.  And remember this is half of the DevOps and WPO audience that typically makes up our Velocity demographics.
 
-image::images/wpo3.jpg[]
+image::images/wpo4.jpg[]
 
 Introduction to Performance
 ---------------------------
