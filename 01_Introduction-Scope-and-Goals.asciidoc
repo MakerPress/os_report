@@ -4,7 +4,9 @@ Two billion people are connected to the internet.  Almost $8 trillion exchange h
 
 This Radar Report includes data from our Jobs data-mart, Google trends, retail book trends and some general scraping and collecting of internet data to surface any trends surrounding the current State of the Web Performance Optimization market. Closely related to WPO is Web Operations that basically ensures that your fast performing web property will continue to deliver 24x7. And even though web operations is closely related to WPO, we are not going to focus on that discipline in this report.  So let's take a look at the growth of the Web and the new burgeoning discipline of Web Performance Optimization - WPO.
 
-If you figure that the global average connection speed is 2.3 Mbps and the global average peak connection speed is 11.7 Mbps*1, how fast will web sites need to be effectively serve data at the peak rate or to satisfy the connection rate lower end of the speed scale.  
+If you figure that the global average connection speed is 2.3 Mbps and the global average peak connection speed is 11.7 Mbps*1, how fast will web sites need to be effectively serve data at the peak rate or to satisfy the connection rate lower end of the speed scale. 
+
+Nice Chart of overall market. 
 
 == Methodology
 To develop the Open Source Trending Report, OpenLogic analyzed popular as well as up-and-coming open source projects that are used as core infrastructure in enterprise applications in order to evaluate growth in enterprise interest and adoption. The three categories analyzed were web and application servers; application frameworks; and databases and big data. For each open source project, OpenLogic analyzed eight metrics that include public data, as well as aggregated data from OpenLogic’s tools and customer base of over 250 enterprises worldwide. The OpenLogic report used the following eight metrics:
