@@ -1,5 +1,4 @@
-Executive Summary
------------------
+== Executive Summary
 
 Two billion people are connected to the internet.  Almost $8 trillion exchange hands each year through e-commerce. Having a web property that is highly responsive to users, runs flawlessly 24x7, and enables mobile commerce is the baseline for what you can expect to develop and deploy in today's Internet economy.  The Internet's total contribution to the World GDP is bigger that the GDP of Spain or Canada and is growing faster than Brazil.  And yet the internet is still in its infancy, but a critical element to world economic growth. But is web performance keeping up with the sheer growth in size and complexity of the Internet? 
 
@@ -7,38 +6,64 @@ This Radar Report includes data from our Jobs data-mart, Google trends, retail b
 
 If you figure that the global average connection speed is 2.3 Mbps and the global average peak connection speed is 11.7 Mbps*1, how fast will web sites need to be effectively serve data at the peak rate or to satisfy the connection rate lower end of the speed scale.  
 
-The Overall Market
------------------
+== Methodology
+To develop the Open Source Trending Report, OpenLogic analyzed popular as well as up-and-coming open source projects that are used as core infrastructure in enterprise applications in order to evaluate growth in enterprise interest and adoption. The three categories analyzed were web and application servers; application frameworks; and databases and big data. For each open source project, OpenLogic analyzed eight metrics that include public data, as well as aggregated data from OpenLogic’s tools and customer base of over 250 enterprises worldwide. The OpenLogic report used the following eight metrics:
 
-The following image contains data from our Simplyhired Datamart and indicates the average number of job postings, on the Y axis, for each time sequence on the X axis.  I compared the performance topics with SysAdmin for a baseline so you can see fluctuations in the overall market and the growth rate of web performance optimizations topics and tools.  What this chart indicates is that 
+== Overall Growth Ranking
+. HBase
+. Node.js
+. nginx
+. Hadoop
+. Rails
+. MongoDB
+. Tomcat
+. MySQL
+. Apache
+. Spring
+. Grails      
+. PostgreSQL (tie with Grails)
+. Struts
+. JBoss
+. GlassFish
+. CouchDB
 
-image::images/wpo2.jpg[]
+=== Category Trends
+Within each category, OpenLogic also analyzed which projects were trending up (all or most of the metrics were up), trending level (some metrics were up and some were down), or trending down (all or most of the metrics were down). Below are the trends by category.
 
-The next image places our Velocity Conferences that we've held during the past few years with the same Job data.  I do see a trend in that immediately following the conference we see a spike in WPO job postings.  And remember this is half of the DevOps and WPO audience that typically makes up our Velocity demographics.
+== Application Server/Web Server Category
+Trending Up: Node.js and nginx
+Trending Level: Tomcat and Apache HTTP Server
+Trending Down: JBoss and GlassFish
+Analysis
 
-image::images/wpo4.jpg[]
+Node.js is helping to drive a resurgence of JavaScript. It acts as an application server for JavaScript apps, thereby increasing scalability and performance. Nginx is a high concurrency, low memory usage web server and reverse proxy that is gaining strong adoption across the internet.
 
-Introduction to Performance
----------------------------
+Tomcat and Apache HTTP server continue to be the 800-pound gorillas in their respective categories, but with a broad adoption base, their growth is more limited than some newer technologies.
 
-This is a placeholder to see if this is working. Ad this just does not seem to get put. And to make a change.
+The surprise in this category is the downward trend of JBoss. Although JBoss continues to be a popular option, we see more enterprises that are shifting off proprietary application servers chossing lightweight options like Tomcat.
 
-Nature of Speed
----------------
+== Frameworks Category
+Trending Up: Rails
+Trending Level: Spring, Grails, Struts
+Trending down: (none)
+Analysis
 
-According to Wikipedia, speed is the rate of change, motion or activity. Optimization is the process of modifying a software system to make some aspect of it work more efficiently.  So let's take a look at the current set of tools, techniques and best practices that developers can use to optimize their web properties for speed and efficiency.  
+It’s not a big surprise to see that Rails, an application framework for the Ruby language, is generating a lot of interest and growth. Rails is well suited to the highly scalable web applications that are becoming more prevalent in the enterprise. In addition, Rails attracts developers with its emphasis on convention over configuration, which can greatly accelerate development time.
 
-Quantifying Speed - Tools, Metrics and Best Practices
------------------
+Spring, Struts, and Grails all are trending level, showing that they continue to attract a steady level of interest in this category.
 
-And try more text here.
+== Databases and Big Data Category
+Trending Up: HBase, Hadoop, MongoDB
+Trending Level: MySQL, PostgreSQL
+Trending Down: CouchDB
+Analysis
 
-The business of performance and quantifying it.
------------------
+In this category many of the Big Data and No SQL projects came out on top of the overall growth rankings. Some of the growth these projects are enjoying can be attributed to the current hype around the entier Big Data category, but these technologies are also very quickly making their way onto the radar of enterprises.  These technologies are enabling brand new applications that were formerly much more difficult with traditional database and data analysis techniques. As a result, they are often chosen for new projects where they are no established database vendors to displace.
 
-* Metrics of success
-* Metrics of failure
-* General Business KPIs
+The one exception to the dominance of Big Data is the downward trend of CouchDB. CouchDB arrived on the scene a few years ago as one of the hot new NoSQL vendors. However, one of the main companies backing CouchDB is stepping away from their open source commitment and the project is a fit for a more limited set of use cases than some of the other NoSQL alternatives.  It’s possible that this project may regain its footing in 2012.
 
+MySQL and PostgreSQL both trended level. Despite the Oracle acquisition of MySQL, it still ranked ahead of PostgreSQL in our growth rankings.
 
-The State of the Internet 4th Quarter 2011, Akamai
+== Public data: Google search volume.
+OpenLogic Exchange (OLEX) and OSS Deep Discovery Scanner: The report evaluated OLEX search volume, views of packages, downloads, requests within corporations to use the project and matches against the project during scans. OLEX is a Software-as-a-Service solution for the comprehensive governance and provisioning of open source software used by many Fortune 100 companies.
+OpenLogic CloudSwing and Open Source Support Contracts: OpenLogic aggregated data on customers purchasing support contracts from OpenLogic for each project, as well as projects that users deployed through OpenLogic CloudSwing, an open PaaS platform.
