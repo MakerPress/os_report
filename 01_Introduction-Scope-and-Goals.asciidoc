@@ -8,10 +8,12 @@ If you figure that the global average connection speed is 2.3 Mbps and the globa
 
 Nice Chart of overall market. 
 
+If you figure that the global average connection speed is 2.3 Mbps and the global average peak connection speed is 11.7 Mbps*1, how fast will web sites need to be effectively serve data at the peak rate or to satisfy the connection rate lower end of the speed scale.  
+
 == Methodology
 To develop the Open Source Trending Report, OpenLogic analyzed popular as well as up-and-coming open source projects that are used as core infrastructure in enterprise applications in order to evaluate growth in enterprise interest and adoption. The three categories analyzed were web and application servers; application frameworks; and databases and big data. For each open source project, OpenLogic analyzed eight metrics that include public data, as well as aggregated data from OpenLogic’s tools and customer base of over 250 enterprises worldwide. The OpenLogic report used the following eight metrics:
 
-== Overall Growth Ranking
+== Overall Growth Of Open Source Technologies
 . HBase
 . Node.js
 . nginx
@@ -29,8 +31,12 @@ To develop the Open Source Trending Report, OpenLogic analyzed popular as well a
 . GlassFish
 . CouchDB
 
-=== Category Trends
+=== Geographic Trends
 Within each category, OpenLogic also analyzed which projects were trending up (all or most of the metrics were up), trending level (some metrics were up and some were down), or trending down (all or most of the metrics were down). Below are the trends by category.
+
+=== Category Trends
+
+
 
 == Application Server/Web Server Category
 Trending Up: Node.js and nginx
@@ -69,4 +75,7 @@ MySQL and PostgreSQL both trended level. Despite the Oracle acquisition of MySQL
 == Public data: Google search volume.
 OpenLogic Exchange (OLEX) and OSS Deep Discovery Scanner: The report evaluated OLEX search volume, views of packages, downloads, requests within corporations to use the project and matches against the project during scans. OLEX is a Software-as-a-Service solution for the comprehensive governance and provisioning of open source software used by many Fortune 100 companies.
 OpenLogic CloudSwing and Open Source Support Contracts: OpenLogic aggregated data on customers purchasing support contracts from OpenLogic for each project, as well as projects that users deployed through OpenLogic CloudSwing, an open PaaS platform.
+<<<<<<< HEAD
 r 2011, Akamai
+=======
+>>>>>>> 77751a31b65c4d96cbdc35436bcec99a6ebf42c5
