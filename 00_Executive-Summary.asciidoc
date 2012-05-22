@@ -15,7 +15,9 @@ If you figure that the global average connection speed is 2.3 Mbps and the globa
 
 === Nice Chart of overall market. 
 
-image::images\akamai.jpg[]
+image::images/akamai.jpg[scaledwidth="90%"]
+
+Image and Table are Unique IPv4 Addresses Seen by Akamai
 
 |=======
 |Rank	|Country/Region	|Q4 '11 Unique IP Addresses	|QoQ Change	|YoY Change
