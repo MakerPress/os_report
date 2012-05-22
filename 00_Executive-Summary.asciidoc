@@ -14,7 +14,7 @@ If you figure that the global average connection speed is 2.3 Mbps and the globa
 
 The following two images show drastically different pictures of the world. The image on the top shows the ranking of countries based on their relative market share for growth in the small businesses hosted services area.  The data compared 2010 with 2011 in the number of new Hosted Services that were established in each given year. The overall market share of each country provided a snapshot of how they ranked in percentage grow for the whole world market.  The noticeable change is that China fueled the growth in small business growth in hosted services.  The UK, Brazil, and Italy suffered the largest decreases in small business hosted services.  
 
-image::images/BluehostCountryGrowth.jpg[scaledwidth="40%"]
+image::images/BluehostCountryGrowth.jpg[scaledwidth="50%"]
 
 Image immediately above: Hosted SErvices Growth as seen by Bluehost.
 
