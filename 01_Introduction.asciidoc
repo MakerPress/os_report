@@ -1,0 +1,65 @@
+== Methodology
+To develop the Open Source Trending Report, OpenLogic analyzed popular as well as up-and-coming open source projects that are used as core infrastructure in enterprise applications in order to evaluate growth in enterprise interest and adoption. The three categories analyzed were web and application servers; application frameworks; and databases and big data. For each open source project, OpenLogic analyzed eight metrics that include public data, as well as aggregated data from OpenLogics tools and customer base of over 250 enterprises worldwide. The OpenLogic report used the following eight metrics:
+
+== Overall Growth Of Open Source Technologies
+. HBase
+. Node.js
+. nginx
+. Hadoop
+. Rails
+. MongoDB
+. Tomcat
+. MySQL
+. Apache
+. Spring
+. Grails 
+. PostgreSQL (tie with Grails)
+. Struts
+. JBoss
+. GlassFish
+. CouchDB
+
+=== Geographic Trends
+Within each category, OpenLogic also analyzed which projects were trending up (all or most of the metrics were up), trending level (some metrics were up and some were down), or trending down (all or most of the metrics were down). Below are the trends by category.
+
+=== Category Trends
+
+
+
+== Application Server/Web Server Category
+Trending Up: Node.js and nginx
+Trending Level: Tomcat and Apache HTTP Server
+Trending Down: JBoss and GlassFish
+Analysis
+
+Node.js is helping to drive a resurgence of JavaScript. It acts as an application server for JavaScript apps, thereby increasing scalability and performance. Nginx is a high concurrency, low memory usage web server and reverse proxy that is gaining strong adoption across the internet.
+
+Tomcat and Apache HTTP server continue to be the 800-pound gorillas in their respective categories, but with a broad adoption base, their growth is more limited than some newer technologies.
+
+The surprise in this category is the downward trend of JBoss. Although JBoss continues to be a popular option, we see more enterprises that are shifting off proprietary application servers chossing lightweight options like Tomcat.
+
+== Frameworks Category
+Trending Up: Rails
+Trending Level: Spring, Grails, Struts
+Trending down: (none)
+Analysis
+
+Its not a big surprise to see that Rails, an application framework for the Ruby language, is generating a lot of interest and growth. Rails is well suited to the highly scalable web applications that are becoming more prevalent in the enterprise. In addition, Rails attracts developers with its emphasis on convention over configuration, which can greatly accelerate development time.
+
+Spring, Struts, and Grails all are trending level, showing that they continue to attract a steady level of interest in this category.
+
+== Databases and Big Data Category
+Trending Up: HBase, Hadoop, MongoDB
+Trending Level: MySQL, PostgreSQL
+Trending Down: CouchDB
+Analysis
+
+In this category many of the Big Data and No SQL projects came out on top of the overall growth rankings. Some of the growth these projects are enjoying can be attributed to the current hype around the entier Big Data category, but these technologies are also very quickly making their way onto the radar of enterprises. These technologies are enabling brand new applications that were formerly much more difficult with traditional database and data analysis techniques. As a result, they are often chosen for new projects where they are no established database vendors to displace.
+
+The one exception to the dominance of Big Data is the downward trend of CouchDB. CouchDB arrived on the scene a few years ago as one of the hot new NoSQL vendors. However, one of the main companies backing CouchDB is stepping away from their open source commitment and the project is a fit for a more limited set of use cases than some of the other NoSQL alternatives. Its possible that this project may regain its footing in 2012.
+
+MySQL and PostgreSQL both trended level. Despite the Oracle acquisition of MySQL, it still ranked ahead of PostgreSQL in our growth rankings.
+
+== Public data: Google search volume.
+OpenLogic Exchange (OLEX) and OSS Deep Discovery Scanner: The report evaluated OLEX search volume, views of packages, downloads, requests within corporations to use the project and matches against the project during scans. OLEX is a Software-as-a-Service solution for the comprehensive governance and provisioning of open source software used by many Fortune 100 companies.
+OpenLogic CloudSwing and Open Source Support Contracts: OpenLogic aggregated data on customers purchasing support contracts from OpenLogic for each project, as well as projects that users deployed through OpenLogic CloudSwing, an open PaaS platform.
