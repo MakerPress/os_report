@@ -12,17 +12,17 @@ If you figure that the global average connection speed is 2.3 Mbps and the globa
 
 === Internet Growth by Region and Country 
 
-==== Growth of IPv4 Addresses (Akamai) and SME Growth, HOsted Services (Bluehost) 
+==== SME Growth, Hosted Services (Bluehost) and Growth of IPv4 Addresses (Akamai)
 
 The following two images show drastically different pictures of the world. The image on the top shows the ranking of countries based on their relative market share for growth in the small businesses hosted services area.  The data compared 2010 with 2011 in the number of new Hosted Services that were established in each given year. The overall market share of each country provided a snapshot of how they ranked in percentage grow for the whole world market.  The noticeable change is that China fueled the growth in small business growth in hosted services.  The UK, Brazil, and Italy suffered the largest decreases in small business hosted services.  
 
 image::images/BluehostCountryGrowth.jpg[scaledwidth="280"]
 
-Image immediately above: Hosted SErvices Growth as seen by Bluehost.
+Image immediately above: Hosted Services Growth as seen by Bluehost.
 
 image::images/akamai.jpg[scaledwidth="460"]
 
-Image and Table are Unique IPv4 Addresses Seen by Akamai footnote:[The State of the Internet, 4th Quarter, 2011 Report]
+The image and Table below represent the growth in unique IPv4 addresses as seen by Akamai Technologies, Inc. footnote:[The State of the Internet, 4th Quarter, 2011 Report]  This is how many new unique IPv4 addresses have been identified by Akamai, and does not include any of the IPv6 addresses nor the forced decline in IPv4 addresses being assigned because of austerity measures by APNIC because of pending exhaustion of available addresses. Akamai reports on the top 10 countries and their number of unique IP addresses created in 2011, and the relative change rate from both Q4 2010 vs. Q4 2011, and the full year change rate.
 
 |=======
 |Rank	|Country/Region	|Q4 '11 Unique IP Addresses	|QoQ Change	|YoY Change
