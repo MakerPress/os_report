@@ -15,7 +15,11 @@ If you figure that the global average connection speed is 2.3 Mbps and the globa
 
 === Nice Chart of overall market. 
 
-image::images/akamai.jpg[scaledwidth="90%"]
+|=======
+|image::images/akamai.jpg[scaledwidth="90%"]
+
+|image::images/BluehostCountryGrowth.jpg[scaledwidth="90%"]
+|=======
 
 Image and Table are Unique IPv4 Addresses Seen by Akamai
 
@@ -35,4 +39,3 @@ Image and Table are Unique IPv4 Addresses Seen by Akamai
 |=======
 
 If you figure that the global average connection speed is 2.3 Mbps and the global average peak connection speed is 11.7 Mbps*1, how fast will web sites need to be effectively serve data at the peak rate or to satisfy the connection rate lower end of the speed scale. 
-
