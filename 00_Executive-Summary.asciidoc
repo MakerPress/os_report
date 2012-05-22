@@ -23,7 +23,7 @@ Image immediately above: Hosted SErvices Growth as seen by Bluehost.
 
 image::images/akamai.jpg[scaledwidth="90%"]
 
-Image and Table are Unique IPv4 Addresses Seen by Akamai footnote:[The State of the Internet, 4th Quarter, 2011 Report]
+Image and Table are Unique IPv4 Addresses Seen by Akamai footnote:[note2,The State of the Internet, 4th Quarter, 2011 Report]
 
 |=======
 |Rank	|Country/Region	|Q4 '11 Unique IP Addresses	|QoQ Change	|YoY Change
