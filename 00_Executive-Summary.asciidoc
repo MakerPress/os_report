@@ -15,6 +15,20 @@ If you figure that the global average connection speed is 2.3 Mbps and the globa
 
 === Nice Chart of overall market. 
 
+|=======
+|Rank	|Country/Region	|Q4 '11 Unique IP Addresses	|QoQ Change	|YoY Change
+|	|Global	|628,358,806	|2.1%	|13%
+|1	|United States 	|145,069,663	|-0.3%	|5.7%
+|2	|China 	|84,405,405	|3.4%	|26%
+|3	|Japan 	|40,254,398	|-8.5%	|1.8%
+|4	|Germany 	|35,608,453	|3.2%	|5.2%
+|5	|United Kingdom 	|25,383,604	|13%	|14%
+|6	|France 	|24,797,259	|2.5%	|7.3%
+|7	|South Korea 	|18,948,552	|4.7%	|14%
+|8	|Brazil 	|17,116,579	|5.3%	|27%
+|9	|Italy 	|15,093,132	|5.2%	|23%
+|10	|Russia 	|13,889,458	|6.9%	|20%
+|=======
 
 If you figure that the global average connection speed is 2.3 Mbps and the global average peak connection speed is 11.7 Mbps*1, how fast will web sites need to be effectively serve data at the peak rate or to satisfy the connection rate lower end of the speed scale. 
 
