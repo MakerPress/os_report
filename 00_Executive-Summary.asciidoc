@@ -10,7 +10,9 @@ This Radar Report will shed light on the smalls businesses using Open Source tec
 
 If you figure that the global average connection speed is 2.3 Mbps and the global average peak connection speed is 11.7 Mbps*1, how fast will web sites need to be effectively serve data at the peak rate or to satisfy the connection rate lower end of the speed scale. 
 
-=== Internet Growth by Region and Country - IPv4 Addresses (Akamai) and SME Growth (Bluehost) 
+=== Internet Growth by Region and Country 
+
+==== IPv4 Addresses (Akamai) and SME Growth (Bluehost) 
 
 The following two images show drastically different pictures of the world. The image on the top shows the ranking of countries based on their relative market share for growth in the small businesses hosted services area.  The data compared 2010 with 2011 in the number of new Hosted Services that were established in each given year. The overall market share of each country provided a snapshot of how they ranked in percentage grow for the whole world market.  The noticeable change is that China fueled the growth in small business growth in hosted services.  The UK, Brazil, and Italy suffered the largest decreases in small business hosted services.  
 
