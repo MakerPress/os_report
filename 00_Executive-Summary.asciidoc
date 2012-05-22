@@ -18,7 +18,7 @@ image::images/BluehostCountryGrowth.jpg[scaledwidth="280"]
 
 Image immediately above: Hosted SErvices Growth as seen by Bluehost.
 
-image::images/akamai.jpg[scaledwidth="460%"]
+image::images/akamai.jpg[scaledwidth="460"]
 
 Image and Table are Unique IPv4 Addresses Seen by Akamai footnote:[The State of the Internet, 4th Quarter, 2011 Report]
 
