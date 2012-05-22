@@ -7,27 +7,27 @@ Roger Magoulas
 == Executive Summary
 
 
-In the US, a small business can be classified as one that is organized for profit; has a place of business in the U.S.; operates primarily within the U.S. or makes a significant contribution to the U.S. economy through payment of taxes or use of American products, materials or labor; is independently owned and operated; and is not dominant in its field on a national basis. The business may be a sole proprietorship, partnership, corporation, or any other legal form.  Other countries have similar definitions of what small business constitutes.  For the purpose of this report we are going use the preceding definition.  Small businesses vary widely though. Use of the internet seems to drive small business quicker than other factors.  On average, small businesses see an 10% increase in productivity from internet usage*, and grow and export twice as much as small businesses not using the internet.  Some have compared the internet's impact with the Guttenberg press, yet it is more analogous to the advent of electricity on our global economy.  On a global scale, internet penetration is linked with reducing poverty while encouraging small business development.  So many small businesses that are getting going turn to the internet as a means to their financial goals.  But what technologies are these small companies using?  How are they making the internet work for them?  Are they driving the internet or are the large behemoths?  
+In the US, a small business can be classified as one that is organized for profit; has a place of business in the U.S.; operates primarily within the U.S. or makes a significant contribution to the U.S. economy through payment of taxes or use of American products, materials or labor; is independently owned and operated; and is not dominant in its field on a national basis. The business may be a sole proprietorship, partnership, corporation, or any other legal form. footnote:['http://www.sba.gov/content/what-sbas-definition-small-business-concern [SBA.gov Definition]]  Other countries have similar definitions of what small business constitutes.  For the purpose of this report we are going use the preceding definition.  Small businesses vary widely though. Use of the internet seems to drive small business quicker than other factors.  On average, small businesses see an 10% increase in productivity from internet usage*, and grow and export twice as much as small businesses not using the internet.  Some have compared the internet's impact with the Guttenberg press, yet it is more analogous to the advent of electricity on our global economy.  On a global scale, internet penetration is linked with reducing poverty while encouraging small business development.  So many small businesses that are getting going turn to the internet as a means to their financial goals.  But what technologies are these small companies using?  How are they making the internet work for them?  Are they driving the internet or are the large behemoths?  
 
 This Radar Report will shed light on the smalls businesses using Open Source technologies to help them grow, prosper and contribute to the world around them.  The Report includes data from our Jobs data-mart, Google trends, retail book trends and some general scraping and collecting of internet data to surface any trends surrounding the current State of the Web Performance Optimization market. Closely related to WPO is Web Operations that basically ensures that your fast performing web property will continue to deliver 24x7. And even though web operations is closely related to WPO, we are not going to focus on that discipline in this report. So let's take a look at the growth of the Web and the new burgeoning discipline of Web Performance Optimization - WPO.
 
 If you figure that the global average connection speed is 2.3 Mbps and the global average peak connection speed is 11.7 Mbps*1, how fast will web sites need to be effectively serve data at the peak rate or to satisfy the connection rate lower end of the speed scale. 
 
-=== Internet Growth by Region and Country, Unique IPv4 Addresses. 
+=== Internet Growth by Region and Country - IPv4 Addresses (Akamai) and SME Growth (Bluehost) 
 
-The following two images show drastically different pictures of the world.   
+The following two images show drastically different pictures of the world. The image on the top shows the ranking of countries based on their relative market share for growth in the small businesses hosted services area.  The data compared 2010 with 2011 in the number of new Hosted Services that were established in each given year. The overall market share of each country provided a snapshot of how they ranked in percentage grow for the whole world market.  The noticeable change is that China fueled the growth in small business growth in hosted services.  The UK, Brazil, and Italy suffered the largest decreases in small business hosted services.  
 
 image::images/BluehostCountryGrowth.jpg[scaledwidth="90%"]
 
-Image: Growth Seen by Bluehost
+Image immediately above: Hosted SErvices Growth as seen by Bluehost.
 
 image::images/akamai.jpg[scaledwidth="90%"]
 
-Image and Table are Unique IPv4 Addresses Seen by Akamai
+Image and Table are Unique IPv4 Addresses Seen by Akamai footnote:[The State of the Internet, 4th Quarter, 2011 Report]
 
 |=======
 |Rank	|Country/Region	|Q4 '11 Unique IP Addresses	|QoQ Change	|YoY Change
-|	|Global	|628,358,806	|2.1%	|13%
+|0	|Global	|628,358,806	|2.1%	|13%
 |1	|United States 	|145,069,663	|-0.3%	|5.7%
 |2	|China 	|84,405,405	|3.4%	|26%
 |3	|Japan 	|40,254,398	|-8.5%	|1.8%
