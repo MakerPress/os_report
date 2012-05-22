@@ -1,3 +1,6 @@
+= Open Source Sweeping Impact on Growth, Jobs and Prosperity of Small and Medium Businesses
+
+
 == Executive Summary
 
 Two billion people are connected to the internet. Almost $8 trillion exchange hands each year through e-commerce. Having a web property that is highly responsive to users, runs flawlessly 24x7, and enables mobile commerce is the baseline for what you can expect to develop and deploy in today's Internet economy. The Internet's total contribution to the World GDP is bigger that the GDP of Spain or Canada and is growing faster than Brazil. And yet the internet is still in its infancy, but a critical element to world economic growth. But is web performance keeping up with the sheer growth in size and complexity of the Internet? 
