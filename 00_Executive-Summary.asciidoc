@@ -13,11 +13,11 @@ This Radar Report will shed light on the small businesses using Open Source tech
 
 The following two images show drastically different pictures of the world. The image on the top shows the ranking of countries based on their relative market share for growth in the small businesses hosted services area. The data compared 2010 with 2011 in the number of new Hosted Services that were established in each given year. The overall market share of each country provided a snapshot of how they ranked in percentage grow for the whole world market. The noticeable change is that China fueled the growth in small business growth in hosted services. The UK, Brazil, and Italy showed the largest decline in small business hosted services growth. 
 
-image::images/BluehostCountryGrowth.jpg[] 
+image::images/BluehostCountryGrowth.jpg[scalewidth="90%"] 
 
 Image immediately above: Hosted Services Growth as seen by Bluehost.
 
-image::images/akamai.jpg[] 
+image::images/akamai.jpg[scalewidth="90%"] 
 
 The image and table below represent the growth in unique IPv4 addresses as seen by Akamai Technologies, Inc.footnote:[http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CHUQFjAC&url=http%3A%2F%2Fwww.akamai.com%2Fstateoftheinternet%2F&ei=3_a7T6_bNomEgwf6gr2XDw&usg=AFQjCNFhZOaSASuFipDlxwxmKvPjVZ-9kw&sig2=L1rAoNJmfVAqUulXPh5fPA[The State of the Internet, 4th Quarter, 2011 Report]]  This is how many new unique IPv4 addresses have been identified by Akamai, and does not include any of the IPv6 addresses nor the forced decline in IPv4 addresses being assigned because of austerity measures by APNIC because of pending exhaustion of available addresses. Akamai reports on the top 10 countries and their number of unique IP addresses created in 2011, and the relative change rate from both Q4 2010 vs. Q4 2011, and the full year change rate. 
  
@@ -43,4 +43,4 @@ Classifieds, Client Management, Content Management, eCommerce, Education, Forms 
 
 So based on these categories, we see that the average number of domains per plan is 3.04 and lasts roughly 17.44 months at an average rate of $7.82 per month.  More than 77% of the plans have a database installed and they have 4.12 instances of their databases installed.  This indicates that there is some sort of dynamic exchange likely happening on these sites whether it is a guest book, product list or some other dynamically served/captured content.  Word Press dominates in the Content Management category with a 55% share, and the next closest is Joomla at 9%.
 
-image::images/AvgTerm.jpg[]
+image::images/AvgTerm.jpg[scalewidth="90%"]
