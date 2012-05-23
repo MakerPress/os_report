@@ -43,4 +43,4 @@ Classifieds, Client Management, Content Management, eCommerce, Education, Forms 
 
 So based on these categories, we see that the average number of domains per plan is 3.04 and lasts roughly 17.44 months at an average rate of $7.82 per month.  More than 77% of the plans have a database installed and they have 4.12 instances of their databases installed.  This indicates that there is some sort of dynamic exchange likely happening on these sites whether it is a guest book, product list or some other dynamically served/captured content.  Word Press dominates in the Content Management category with a 55% share, and the next closest is Joomla at 9%.
 
-image::images/AvgTerm.jpg[]
+image::images/AvgTerm.jpg[width="460"]
