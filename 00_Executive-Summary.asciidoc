@@ -1,39 +1,44 @@
-= Open Source Sweeping Impact on Growth, Jobs and Prosperity of Small and Medium Businesses
-Mike Hendrickson, Andy Oram, Roger Magoulas
+= Open Source Sweeping Impact on Growth, Jobs and Prosperity of Small and Medium Businesses, 
+Mike Hendrickson, Andy Oram, Roger Magoulas, 
+, 
+== Executive Summary, 
+, 
+There is evidence that small businesses create more jobs than the larger companies in a given economy footnote:[http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CFwQFjAA&url=http%3A%2F%2Fwww.socsci.uci.edu%2F~dneumark%2FREStat%2520small%2520businesses.pdf&ei=ou-7T_PsJsKogwfZprnQCg&usg=AFQjCNEYE0f1sZsfrg0MZD5Om35aLxNCtw&sig2=KDW2Ga6lYtWkqj_1k9k5DQ[D Neumark]]. In the tough Global economy that we now find ourselves in, the Internet as a economic tool creates 2.6 jobs for every one lost. So small businesses using the internet are the sliver-lining in an otherwise gloomy worldwide economic outlook. In the US, a small business can be classified as one that is organized for profit; has a place of business in the U.S.; operates primarily within the U.S. or makes a significant contribution to the U.S. economy through payment of taxes or use of American products, materials or labor; is independently owned and operated; and is not dominant in its field on a national basis. The business may be a sole proprietorship, partnership, corporation, or any other legal form. footnote:[http://www.sba.gov/content/what-sbas-definition-small-business-concern[SBA.gov]] Other countries have similar definitions of what small business constitutes.  For the purpose of this report we are going use the preceding definition. Small and Medium Enterprises (SME) vary widely though. Use of the internet seems to drive small business quicker than other factors. On average, small businesses see an 10% increase in productivity from internet usage footnote:[http://www.mckinsey.com/Insights/MGI/Research/Technology_and_Innovation/Internet_matters[McKinsey & Company's Internet Matters]], and grow and export twice as much as small businesses not using the internet.  Some have compared the internet's impact with the Guttenberg press, yet it is more analogous to the advent of electricity on our global economy. On a global scale, internet penetration is linked with reducing poverty while encouraging small business development. So many small businesses that are getting going turn to the internet as a means to their financial goals. But what technologies are these small companies using?  How are they making the internet work for them?  Are they driving the internet or are the large behemoths?  , 
+, 
+This Radar Report will shed light on the small businesses using Open Source technologies to help them grow, prosper and contribute to the world around them. The Report includes data from our Jobs data-mart, Google trends, retail book trends and some general scraping and collecting of data to surface any trends surrounding the the use of Open Source and its ability to ignite SME success. , 
+, 
+=== Internet Growth by Region and Country , 
+, 
+==== SME Growth, Hosted Services (Bluehost) and Growth of IPv4 Addresses (Akamai), 
+, 
+The following two images show drastically different pictures of the world. The image on the top shows the ranking of countries based on their relative market share for growth in the small businesses hosted services area. The data compared 2010 with 2011 in the number of new Hosted Services that were established in each given year. The overall market share of each country provided a snapshot of how they ranked in percentage grow for the whole world market. The noticeable change is that China fueled the growth in small business growth in hosted services. The UK, Brazil, and Italy showed the largest decline in small business hosted services growth.  , 
+, 
+image::images/BluehostCountryGrowth.jpg[scaledwidth="280"], 
+, 
+Image immediately above: Hosted Services Growth as seen by Bluehost., 
+, 
+image::images/akamai.jpg[scaledwidth="460"], 
+, 
+The image and table below represent the growth in unique IPv4 addresses as seen by Akamai Technologies, Inc.footnote:[http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CHUQFjAC&url=http%3A%2F%2Fwww.akamai.com%2Fstateoftheinternet%2F&ei=3_a7T6_bNomEgwf6gr2XDw&usg=AFQjCNFhZOaSASuFipDlxwxmKvPjVZ-9kw&sig2=L1rAoNJmfVAqUulXPh5fPA[The State of the Internet, 4th Quarter, 2011 Report]]  This is how many new unique IPv4 addresses have been identified by Akamai, and does not include any of the IPv6 addresses nor the forced decline in IPv4 addresses being assigned because of austerity measures by APNIC because of pending exhaustion of available addresses. Akamai reports on the top 10 countries and their number of unique IP addresses created in 2011, and the relative change rate from both Q4 2010 vs. Q4 2011, and the full year change rate., 
+, 
+|=======, 
+|Rank	|Country/Region	|Q4 '11 Unique IP Addresses	|QoQ Change	|YoY Change, 
+|0	|Global	|628,358,806	|2.1%	|13%, 
+|1	|United States 	|145,069,663	|-0.3%	|5.7%, 
+|2	|China 	|84,405,405	|3.4%	|26%, 
+|3	|Japan 	|40,254,398	|-8.5%	|1.8%, 
+|4	|Germany 	|35,608,453	|3.2%	|5.2%, 
+|5	|United Kingdom 	|25,383,604	|13%	|14%, 
+|6	|France 	|24,797,259	|2.5%	|7.3%, 
+|7	|South Korea 	|18,948,552	|4.7%	|14%, 
+|8	|Brazil 	|17,116,579	|5.3%	|27%, 
+|9	|Italy 	|15,093,132	|5.2%	|23%, 
+|10	|Russia 	|13,889,458	|6.9%	|20%, 
+|=======, 
+, 
+== Demographics of the Study, 
+, 
+Let's first take a look at what the data reveals about the typical open source customer.  To understand a little about Bluehost and the data we are looking at, you should understand that as a Hosting Service, there are more than 94 different software and services that you can select from when you sign up for a hosting plan.  There are 26 categories that separate the software and services.  These are Backups, Blogs, Business Tools, 
+Classifieds, Client Management, Content Management, eCommerce, Education, Forms and Surveys, Forums, Guestbooks, Help Center, Live Chat, Mailing Lists, Photo Galleries, Product Sourcing, Project Management, RSS, Security, Social Networking, Statistics, Utilities, Webmail, Website Builders, Website Design, and Wiki.
 
-== Executive Summary
-
-There is evidence that small businesses create more jobs than the larger companies in a given economy footnote:[http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CFwQFjAA&url=http%3A%2F%2Fwww.socsci.uci.edu%2F~dneumark%2FREStat%2520small%2520businesses.pdf&ei=ou-7T_PsJsKogwfZprnQCg&usg=AFQjCNEYE0f1sZsfrg0MZD5Om35aLxNCtw&sig2=KDW2Ga6lYtWkqj_1k9k5DQ[D Neumark]]. In the tough Global economy that we now find ourselves in, the Internet as a economic tool creates 2.6 jobs for every one lost. So small businesses using the internet are the sliver-lining in an otherwise gloomy worldwide economic outlook. In the US, a small business can be classified as one that is organized for profit; has a place of business in the U.S.; operates primarily within the U.S. or makes a significant contribution to the U.S. economy through payment of taxes or use of American products, materials or labor; is independently owned and operated; and is not dominant in its field on a national basis. The business may be a sole proprietorship, partnership, corporation, or any other legal form. footnote:[http://www.sba.gov/content/what-sbas-definition-small-business-concern[SBA.gov]] Other countries have similar definitions of what small business constitutes.  For the purpose of this report we are going use the preceding definition. Small and Medium Enterprises (SME) vary widely though. Use of the internet seems to drive small business quicker than other factors. On average, small businesses see an 10% increase in productivity from internet usage footnote:[http://www.mckinsey.com/Insights/MGI/Research/Technology_and_Innovation/Internet_matters[McKinsey & Company's Internet Matters]], and grow and export twice as much as small businesses not using the internet.  Some have compared the internet's impact with the Guttenberg press, yet it is more analogous to the advent of electricity on our global economy. On a global scale, internet penetration is linked with reducing poverty while encouraging small business development. So many small businesses that are getting going turn to the internet as a means to their financial goals. But what technologies are these small companies using?  How are they making the internet work for them?  Are they driving the internet or are the large behemoths?  
-
-This Radar Report will shed light on the small businesses using Open Source technologies to help them grow, prosper and contribute to the world around them. The Report includes data from our Jobs data-mart, Google trends, retail book trends and some general scraping and collecting of data to surface any trends surrounding the the use of Open Source and its ability to ignite SME success..
-
-=== Internet Growth by Region and Country 
-
-==== SME Growth, Hosted Services (Bluehost) and Growth of IPv4 Addresses (Akamai)
-
-The following two images show drastically different pictures of the world. The image on the top shows the ranking of countries based on their relative market share for growth in the small businesses hosted services area. The data compared 2010 with 2011 in the number of new Hosted Services that were established in each given year. The overall market share of each country provided a snapshot of how they ranked in percentage grow for the whole world market. The noticeable change is that China fueled the growth in small business growth in hosted services. The UK, Brazil, and Italy showed the largest decline in small business hosted services growth.  
-
-image::images/BluehostCountryGrowth.jpg[scaledwidth="280"]
-
-Image immediately above: Hosted Services Growth as seen by Bluehost.
-
-image::images/akamai.jpg[scaledwidth="460"]
-
-The image and table below represent the growth in unique IPv4 addresses as seen by Akamai Technologies, Inc.footnote:[http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CHUQFjAC&url=http%3A%2F%2Fwww.akamai.com%2Fstateoftheinternet%2F&ei=3_a7T6_bNomEgwf6gr2XDw&usg=AFQjCNFhZOaSASuFipDlxwxmKvPjVZ-9kw&sig2=L1rAoNJmfVAqUulXPh5fPA[The State of the Internet, 4th Quarter, 2011 Report]]  This is how many new unique IPv4 addresses have been identified by Akamai, and does not include any of the IPv6 addresses nor the forced decline in IPv4 addresses being assigned because of austerity measures by APNIC because of pending exhaustion of available addresses. Akamai reports on the top 10 countries and their number of unique IP addresses created in 2011, and the relative change rate from both Q4 2010 vs. Q4 2011, and the full year change rate.
-
-|=======
-|Rank	|Country/Region	|Q4 '11 Unique IP Addresses	|QoQ Change	|YoY Change
-|0	|Global	|628,358,806	|2.1%	|13%
-|1	|United States 	|145,069,663	|-0.3%	|5.7%
-|2	|China 	|84,405,405	|3.4%	|26%
-|3	|Japan 	|40,254,398	|-8.5%	|1.8%
-|4	|Germany 	|35,608,453	|3.2%	|5.2%
-|5	|United Kingdom 	|25,383,604	|13%	|14%
-|6	|France 	|24,797,259	|2.5%	|7.3%
-|7	|South Korea 	|18,948,552	|4.7%	|14%
-|8	|Brazil 	|17,116,579	|5.3%	|27%
-|9	|Italy 	|15,093,132	|5.2%	|23%
-|10	|Russia 	|13,889,458	|6.9%	|20%
-|=======
-
-The sma
+So based on these categories, we see that the average number of domains per plan is 3.04 and lasts roughly 17.44 months at an average rate of $17.44 per month.  More than 77% of the plans have a database installed, so there is some sort of dynamic exchange likely happening.  Word Press dominates in the Content Management category with a 55% share, and the next closest is Joomla at 9%.
