@@ -1,3 +1,2 @@
 
-
-image::images/infographic2.jpg[width="490"]
+image::images/infographic2.jpg[width="390"]
