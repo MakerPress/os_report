@@ -1,1 +1,2 @@
+
 image::images/infographic2.jpg[scaledwidth="90%"]
