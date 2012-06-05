@@ -1,2 +1,2 @@
 
-image::images/infographic2.jpg[width="390"]
+image::images/infographic2.jpg[scaledwidth="90%"]
