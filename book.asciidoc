@@ -1,5 +1,7 @@
+include::InfoGraphic1.asciidoc[]
+
 include::00_Executive-Summary.asciidoc[]
 
-include::01_Introduction.asciidoc[]
+include::InfoGraphic2.asciidoc[]
 
-include::InfoGraphic.asciidoc[]
+include::01_Introduction.asciidoc[]
