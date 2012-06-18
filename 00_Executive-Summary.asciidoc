@@ -60,7 +60,7 @@ The table immediately below shows the growth rate of the top 20 countries that a
  
 == Study Demographics 
  
-Let's first take a look at what the data reveals about the typical open source customer.  I think it is safe to call this data Open Source when you look at the hosting platform dimension.  Between 2001 and 2012 the market for hosting services offered by Bluehost did a complete reversal as seen in the image directly below.
+Let's first take a look at what the data reveals about the typical open source customer.  I think it is safe to call this data Open Source when you look at the hosting platform dimension.  Between 2001 and 2012 the market for hosting services offered by Bluehost shows the following geographical distribution.  The chart below shows what percentage Unix has in countries around the world.  Again, remember this is Data from Bluehost.  Any country with White as a color represents not enough data to assign a percentage to.  Interesting that that middle of Africa has a large swath of not enough data to make a difference.  Maybe a good opportunity to help this region of the world get their small businesses up and running with a hosted site.
 
 image::images/Unix_World.jpg[scalewidth="50%"]
 
