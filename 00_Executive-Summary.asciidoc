@@ -60,7 +60,7 @@ The table immediately below shows the growth rate of the top 20 countries that a
  
 == Study Demographics 
  
-Let's first take a look at what the data reveals about the typical open source customer.  I think it is safe to call this data Open Source when you look at the hosting platform dimension.  Between 2001 and 2002 the market for hosting services offered by Bluehost did a complete reversal as seen in the image directly below.
+Let's first take a look at what the data reveals about the typical open source customer.  I think it is safe to call this data Open Source when you look at the hosting platform dimension.  Between 2001 and 2012 the market for hosting services offered by Bluehost did a complete reversal as seen in the image directly below.
 
 image::images/Unix_World.jpg[scalewidth="50%"]
 
