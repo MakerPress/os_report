@@ -31,6 +31,32 @@ The image immediately above and table below represent the growth in unique IPv4 
 |9	|Italy 	|15,093,132	|5.2%	|23% 
 |10	|Russia 	|13,889,458	|6.9%	|20% 
 |======= 
+
+Now here are the top 20 hosted sites by country.  These countries are listed in order of number of sites (descending) and then Rank for their overall growth in the number of new hosted sites in 2011 compared with 2010.  Growth percentage is also shown so you can get some perspective on how quickly the top 20 are growing.
+
+|=======
+|Country	|Rank	|Growth %
+|United States	|1	|39.28%
+|Canada	|2	|40.13%
+|United Kingdom	|3	|61.06%
+|Australia	|5	|47.56%
+|China	|4	|70.89%
+|India	|6	|54.38%
+|Mexico	|7	|42.86%
+|Spain	|14	|37.84%
+|Singapore	|9	|51.03%
+|Israel	|10	|55.65%
+|Brazil	|11	|53.53%
+|Italy	|18	|41.29%
+|United Arab Emirates	|16	|45.04%
+|Taiwan, Province Of China	|13	|54.11%
+|Colombia	|20	|45.67%
+|Philippines	|17	|52.93%
+|Thailand	|8	|75.87%
+|New Zealand	|26	|41.94%
+|Indonesia	|12	|66.32%
+|Saudi Arabia	|25	|43.55%
+|=======
  
 == Study Demographics 
  
