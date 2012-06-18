@@ -11,7 +11,7 @@ This Radar Report will shed light on the small businesses using Open Source tech
 
 ==== SME Growth, Hosted Services (Bluehost) and Growth of IPv4 Addresses (Akamai) 
 
-The following two images show drastically different pictures of the world. The image on the top shows the ranking of countries based on their relative market share for growth in the small businesses hosted services area. The data compared 2010 with 2011 in the number of new Hosted Services that were established in each given year. The overall market share of each country provided a snapshot of how they ranked in percentage grow for the whole world market. The noticeable change is that China fueled the growth in small business growth in hosted services. The UK, Brazil, and Italy showed the largest decline in small business hosted services growth. 
+The following images shows two different pictures of the world. In this view, we compared 2010 with 2011 in the number of new Hosted Services that were established in each given year and compared that to Akamai's report on new IPv4 addresses established in 2011. Each blue number represents the country rank for the growth of new hosted services as reported by Bluehost.  The pink number represents the rank of growth in new IPv4 addresses reported by Akamai. What's notable here is that the UK was the only country that had better rank for new hosted services than their growth rank for new IPv4 addresses.  The US and China seem to be the most consistent in both ranks.  Japan, Germany, and France showed the largest decline in small business hosted services growth as compared to the number of new IPv4 addresses. 
 
 image::images/Akamai_Bluehost_1.jpg[scaledwidth="90%"]
 
@@ -32,7 +32,7 @@ The image immediately above and table below represent the growth in unique IPv4 
 |10	|Russia 	|13,889,458	|6.9%	|20% 
 |======= 
 
-Now here are the top 20 hosted sites by country.  These countries are listed in order of number of sites (descending) and then Rank for their overall growth in the number of new hosted sites in 2011 compared with 2010.  Growth percentage is also shown so you can get some perspective on how quickly the top 20 are growing.
+The table immediately below shows the growth rate of the top 20 countries that added new hosted services from 2010 to 2011.  These countries are listed in order of number of sites (descending) and then Rank for their overall growth in the number of new hosted sites in 2011 compared with 2010.  Growth percentage is also shown so you can get some perspective on how quickly the top 20 are growing.  Look at the rate at which China is adding new hosted service sites.  More than 70% growth for China between 2010 and 2011.
 
 |=======
 |Country	|Rank	|Growth %
