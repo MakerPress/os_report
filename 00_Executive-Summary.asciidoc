@@ -58,7 +58,9 @@ The table immediately below shows the growth rate of the top 20 countries that a
 |Saudi Arabia	|25	|43.55%
 |=======
 
-To get a little more perspective on the data and trends in the data, the following two charts show growth in Retail *Technical* Book Sales in North America as reported by Neilsen Bookscan, and Bluehost new users created with a North American filter applied.  The market for both is similar in that both represent a consumer that is acquiring something that requires some level of technical knowhow. As you can see by the trend lines for both charts, the Hosted Services is a much healthier area for growth than Retail Sales of technical books. Although these two measures are not correlated, they do provide some perspective on technology adoption between January of 2003 and June of 2012. We compared 2003 and on because our data on Retail Technical books does not reliably go back further.  Much of the data in the remaining report will be for 2001 and on because Bluehost has reliable data going back that far.
+To get a little more perspective on the data and trends in the data, the following four charts show growth in Retail *Technical* Book Sales in North America as reported by Nielsen Bookscan, and Bluehost new users created with a North American filter applied, and Job postings for the US and Technical Job postings for the US. To get a consistent view, the data shows 2009-01 through 2012-05 for all four charts.
+
+As you can see by the trend lines for three of the four charts, there is a positive growth, yet the Technical book Market shows a consistent decline.  Although these two measures are not correlated, they do provide some perspective on *technology adoption and demand*. We compared 2009 and on because our Job data is not as reliable the further we go back.  Much of the data in the remaining report will be for 2001 and on because Bluehost has reliable data going that far back.
 
 image::images/job_all_03-12.jpg[scaledwidth="90%",align="left"]  
 
