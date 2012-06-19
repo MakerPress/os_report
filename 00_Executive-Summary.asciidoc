@@ -62,7 +62,10 @@ To get a little more perspective on the data and trends in the data, the followi
 
 |=======
 |Bluehost New Users | Bookscan Technical Books sold in Retail
-|image::images/bluehost_2003_2012.jpg[scaledwidth="90%"] |image::images/bookscan_2003_2012.jpg[scaledwidth="90%"]
+|image::images/bluehost_2003_2012.jpg[scaledwidth="90%"]
+|image::images/bluehost_2003_2012.jpg[scaledwidth="90%"]
+|image::images/bookscan_2003_2012.jpg[scaledwidth="90%"]
+|image::images/bookscan_2003_2012.jpg[scaledwidth="90%"]
 |=======
 
 == Open Source Composition / Stack 
