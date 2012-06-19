@@ -62,6 +62,8 @@ To get a little more perspective on the data and trends in the data, the followi
 
 As you can see by the trend lines for three of the four charts, there is a positive growth, yet the Technical book Market shows a consistent decline.  Although these two measures are not correlated, they do provide some perspective on *technology adoption and demand*. We compared 2009 and on because our Job data is not as reliable the further we go back.  Much of the data in the remaining report will be for 2001 and on because Bluehost has reliable data going that far back.
 
+image::images/nasdaq_03-12.jpg[scaledwidth="90%",align="center"]
+
 image::images/job_all_03-12.jpg[scaledwidth="90%",align="left"]  
 
 image::images/job_tech_03-12.jpg[scaledwidth="90%",align="right"]
