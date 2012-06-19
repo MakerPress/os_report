@@ -60,13 +60,13 @@ The table immediately below shows the growth rate of the top 20 countries that a
 
 To get a little more perspective on the data and trends in the data, the following two charts show growth in Retail *Technical* Book Sales in North America as reported by Neilsen Bookscan, and Bluehost new users created with a North American filter applied.  The market for both is similar in that both represent a consumer that is acquiring something that requires some level of technical knowhow. As you can see by the trend lines for both charts, the Hosted Services is a much healthier area for growth than Retail Sales of technical books. Although these two measures are not correlated, they do provide some perspective on technology adoption between January of 2003 and June of 2012. We compared 2003 and on because our data on Retail Technical books does not reliably go back further.  Much of the data in the remaining report will be for 2001 and on because Bluehost has reliable data going back that far.
 
-image::images/job_all_03-12.jpg[scaledwidth="90%"]  
+image::images/job_all_03-12.jpg[scaledwidth="90%", align="left"]  
 
-image::images/job_tech_03-12.jpg[scaledwidth="90%"]
+image::images/job_tech_03-12.jpg[scaledwidth="90%", align="right"]
 
-image::images/bookscan_03-12.jpg[scaledwidth="90%"]
+image::images/bookscan_03-12.jpg[scaledwidth="90%", align="left"]
 
-image::images/bluehost_users_03-12.jpg[scaledwidth="90%"]
+image::images/bluehost_users_03-12.jpg[scaledwidth="90%", align="right"]
 
 == Open Source Composition / Stack 
  
