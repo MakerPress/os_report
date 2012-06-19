@@ -71,7 +71,7 @@ To understand a little about the data we are exploring, you should know that as 
 Let's first take a look at which countries are growing the quickest in hosted services.  You could view this as a proxy for small economies growing rapidly.
 
 
-
+image::images/top_20_Countries.jpg[scalewidth="50%"]
 
 
 
