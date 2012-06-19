@@ -57,7 +57,10 @@ The table immediately below shows the growth rate of the top 20 countries that a
 |Indonesia	|12	|66.32%
 |Saudi Arabia	|25	|43.55%
 |=======
- 
+
+To get a little more perspective on the data and trends in the data, the following two charts show growth in Retail *Technical* Book Sales as reported by Neilsen Bookscan, and Bluehost new hosting accounts created.  The market for both is similar in that both represent a consumer that is acquiring something that requires some level of technical knowhow. 
+
+
 == Open Source Composition / Stack 
  
 To understand a little about the data we are exploring, you should understand that as a Hosting Service, Bluehost offers more than 94 different software and services that users can select from when signing up for a hosting plan. There are 26 categories that separate the software and services. These are Backups, Blogs, Business Tools, Classifieds, Client Management, Content Management, eCommerce, Education, Forms and Surveys, Forums, Guestbooks, Help Center, Live Chat, Mailing Lists, Photo Galleries, Product Sourcing, Project Management, RSS, Security, Social Networking, Statistics, Utilities, Webmail, Website Builders, Website Design, and Wiki.
