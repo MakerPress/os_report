@@ -13,6 +13,8 @@ Before we go too much further into the data and analysis, it should be noted tha
 
 image::images/GlobalMShare.jpg[scaledwidth="90%",align="center"]
 
+The Bluehost data has a little more than a million records that we are going to share only relevant information from. There will be no user demographics or that sort of disclosure as it does not pertain to the purpose of this report.  We have a jobs data mart that contains electronic job listings for several years. This data mart contains terabytes of data and has undergone some extensive clean up to disambiguate words like Administration, Performance, Java, Ruby, etc. And we have use of our Nielsen Bookscan data mart which has point of sales data back to 2003. Google trends will also be used in relevant places throughout the report.
+
 === Internet Growth by Region and Country 
 
 ==== Small Business Growth, Hosted Services (Bluehost) and Growth of IPv4 Addresses (Akamai) 
