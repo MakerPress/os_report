@@ -60,6 +60,12 @@ The table immediately below shows the growth rate of the top 20 countries that a
 
 To get a little more perspective on the data and trends in the data, the following two charts show growth in Retail *Technical* Book Sales as reported by Neilsen Bookscan, and Bluehost new hosting accounts created.  The market for both is similar in that both represent a consumer that is acquiring something that requires some level of technical knowhow. 
 
+|=======
+|
+image::images/bluehost_2003_2012.jpg[scaledwidth="90%"]
+|
+image::images/bookscan_2003_2012.jpg[scaledwidth="90%"]
+|=======
 
 == Open Source Composition / Stack 
  
