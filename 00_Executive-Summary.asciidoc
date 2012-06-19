@@ -62,17 +62,17 @@ Below are five charts that will help set some perspective.  The first chart show
 
 As you can see by the trend lines for four of the five charts, the trendline is moving upward which indicates growth, yet the Technical book Market shows a consistent decline.  Although these measures are not correlated, they do provide some perspective on *technology adoption and demand*. Again, we compared 2009 to the present because our Job data is not as reliable the further we go back.  Much of the data in the remaining report will be for 2001 to present because Bluehost has reliable data for that period.
 
-image::images/nasdaq_03-12.jpg[scaledwidth="90%",align="left"]
+image::images/nasdaq_03-12.jpg[scaledwidth="50%",align="left"]
 
-image::images/google_trends.jpg[scaledwidth="90%",align="right"]
+image::images/google_trends.jpg[scaledwidth="50%",align="right"]
 
-image::images/job_all_03-12.jpg[scaledwidth="90%",align="left"]  
+image::images/job_all_03-12.jpg[scaledwidth="50%",align="left"]  
 
-image::images/job_tech_03-12.jpg[scaledwidth="90%",align="right"]
+image::images/job_tech_03-12.jpg[scaledwidth="50%",align="right"]
 
-image::images/books_03-12.jpg[scaledwidth="90%",align="left"]
+image::images/books_03-12.jpg[scaledwidth="50%",align="left"]
 
-image::images/bluehost_users_03-12.jpg[scaledwidth="90%",align="right"]
+image::images/bluehost_users_03-12.jpg[scaledwidth="50%",align="right"]
 
 == Open Source Composition / Stack 
  
