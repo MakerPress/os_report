@@ -72,7 +72,6 @@ Let's first take a look at which countries are growing the quickest in hosted se
 
 image::images/top_20_Globe.jpg[scalewidth="50%"]
 
-
 Next let's take a look at what the data reveals about the typical open source customer. Between 2001 and 2012 the market for hosting services offered by Bluehost shows the following geographical distribution. I think it is safe to say this data is strongly Open Source-oriented when you look at the hosting platform dimension.  By platform we mean Operating system selected to run a website. The chart below shows what percentage Unix has in countries around the world. Again, remember this is Data from Bluehost. Any country with White as a color is that way because there was not enough data to assign market share. Interesting to note that middle of Africa has a large swath of white indicating not enough data to assign market share. Maybe a good opportunity to help this region of the world get their small businesses economy up and running with hosted sites.
 
 image::images/Unix_World.jpg[scalewidth="50%"]
