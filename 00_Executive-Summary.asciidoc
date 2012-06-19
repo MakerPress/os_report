@@ -11,7 +11,7 @@ This Radar Report will shed light on the small businesses using Open Source tech
 
 Before we go too much further into the data and analysis, it should be noted that BlueHost has provided us we a substantial amount of data. First the data is fairly US-centric. That is more than 70% of the hosted sites are based in the US. But we need to keep in mind that the data is skewed towards English speaking countries like the US, UK, Canada, and Australia which are the top four countries.  The pie chart below shows the nature of the relative market share for the top five countries.  The remaining parts of the world makes up roughly 15% of the remaining market share.
 
-image::images/GlobalMShare.jpg[scaledwidth="90%"]
+image::images/GlobalMShare.jpg[scaledwidth="90%",align="center"]
 
 === Internet Growth by Region and Country 
 
