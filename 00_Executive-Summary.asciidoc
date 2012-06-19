@@ -68,11 +68,22 @@ image::images/bookscan_2003_2012.jpg[scaledwidth="90%"]
  
 To understand a little about the data we are exploring, you should know that as a Hosting Service, Bluehost offers more than 94 different software and services that users can select from when signing up for a hosting plan. There are 26 categories that separate the software and services. These are Backups, Blogs, Business Tools, Classifieds, Client Management, Content Management, eCommerce, Education, Forms and Surveys, Forums, Guestbooks, Help Center, Live Chat, Mailing Lists, Photo Galleries, Product Sourcing, Project Management, RSS, Security, Social Networking, Statistics, Utilities, Webmail, Website Builders, Website Design, and Wiki.
 
-Let's first take a look at what the data reveals about the typical open source customer. Between 2001 and 2012 the market for hosting services offered by Bluehost shows the following geographical distribution. I think it is safe to say this data is strongly Open Source-oriented when you look at the hosting platform dimension.  By platform we mean Operating system selected to run a website. The chart below shows what percentage Unix has in countries around the world. Again, remember this is Data from Bluehost. Any country with White as a color is that way because there was not enough data to assign market share. Interesting to note that middle of Africa has a large swath of white indicating not enough data to assign market share. Maybe a good opportunity to help this region of the world get their small businesses economy up and running with hosted sites.
+Let's first take a look at which countries are growing the quickest in hosted services.  You could view this as a proxy for small economies growing rapidly.
+
+
+
+
+
+
+
+Next let's take a look at what the data reveals about the typical open source customer. Between 2001 and 2012 the market for hosting services offered by Bluehost shows the following geographical distribution. I think it is safe to say this data is strongly Open Source-oriented when you look at the hosting platform dimension.  By platform we mean Operating system selected to run a website. The chart below shows what percentage Unix has in countries around the world. Again, remember this is Data from Bluehost. Any country with White as a color is that way because there was not enough data to assign market share. Interesting to note that middle of Africa has a large swath of white indicating not enough data to assign market share. Maybe a good opportunity to help this region of the world get their small businesses economy up and running with hosted sites.
 
 image::images/Unix_World.jpg[scalewidth="50%"]
 
-So based on these categories, we see that the average number of domains per plan is 3.04 and lasts roughly 17.44 months at an average rate of $7.82 per month. More than 77% of the plans have a database installed and they have 4.12 instances of their databases installed.  This indicates that there is some sort of dynamic exchange likely happening on these sites whether it is a guest book, product list or some other dynamically served/captured content.  Word Press dominates in the Content Management category with a 55% share, and the next closest is Joomla at 9%.
+So generally speaking, North America, Europe and especially Eastern Europe, are strongly Open Source when looking at whether a new hosted account selected Unix/Linux or Windows.  South America has a couple of pockets of strong Open Source but has in general the weakest adoption of Unix or strongest adoption of Windows.  Africa lacks a strong tendency either way but looks to be moving towards more Open Source than not.  The countries with the largest installed Windows platform are: Macedonia, Jordan, Libya, Sierra Leone, Suriname, Gauadeloupe, and Iran.
+
+
+based on these categories, we see that the average number of domains per plan is 3.04 and lasts roughly 17.44 months at an average rate of $7.82 per month. More than 77% of the plans have a database installed and they have 4.12 instances of their databases installed.  This indicates that there is some sort of dynamic exchange likely happening on these sites whether it is a guest book, product list or some other dynamically served/captured content.  Word Press dominates in the Content Management category with a 55% share, and the next closest is Joomla at 9%.
 
 The average term of service varies somewhat, but with the top 20 Countries, the ones with the most service months aggregated, it is fairly consistent at around 17 months with a standard deviation of 2.75 months.  The Worldwide average was 17.23 months with a standard deviation of 1.15. 
 
