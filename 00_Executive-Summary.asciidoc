@@ -9,7 +9,9 @@ This Radar Report will shed light on the small businesses using Open Source tech
 
 === Size and composition of the data sets
 
-First the data is fairly US-centric. That is more than 70 of the hosted sites are based in the US.
+Before we go too much further into the data and analysis, it should be noted that BlueHost has provided us we a substantial amount of data. First the data is fairly US-centric. That is more than 70% of the hosted sites are based in the US. But we need to keep in mind that the data is skewed towards English speaking countries like the US, UK, Canada, and Australia which are the top four countries.  The pie chart below shows the nature of the relative market share for the top five countries.  The remaining parts of the world makes up roughly 15% of the remaining market share.
+
+image::images/GlobalMShare.jpg[scaledwidth="90%"]
 
 === Internet Growth by Region and Country 
 
@@ -61,10 +63,6 @@ The table immediately below shows the growth rate of the top 20 countries that a
 |Indonesia	|12	|66.32%
 |Saudi Arabia	|25	|43.55%
 |=======
-
-Before we go too much further into the data and analysis, it should be noted that BlueHost has provided us we a substantial amount of data. But we need to keep in mind that the data is skewed towards North America and mostly the United States.  The pie chart below shows the nature of the relative market share for the top five countries.  The remaining part of the world makes up roughly 15% of the remaining market share.
-
-image::images/GlobalMShare.jpg[scaledwidth="90%"]
 
 Below are six charts that will help set some perspective. The first chart shows NASDAQ's closing for each week from 2009-01 through 2012-05 which is our study range for these six charts. The next chart shows the Google Trends results for the technologies offered to customers in the Bluehost Service plans. The remaining four charts show 1) job trends, 2) tech job trends, 3) tech book sales in retail, and 4) growth of Bluehost users.  
 
