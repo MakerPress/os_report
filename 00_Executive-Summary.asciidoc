@@ -78,14 +78,14 @@ Our job data set contains terabytes of text and is for the US only. Basically th
 
 As you can see in four of the six charts, the trend line is moving upward which indicates growth, yet the Technical book Market shows a consistent decline.  Although these measures are not correlated, they do provide some perspective on *technology adoption and demand*. Perhaps it is only a faint signal, but enough to at least consider. Again, we compared 2009 to the present because our Job data is not as reliable the further we go back.  Much of the data in the remaining report will be for 2001 to present because Bluehost has reliable data for that period. 
 
-image::images/nasdaq_03-12.jpg[scaledwidth="50%",align="left"]
-image::images/google_trends.jpg[scaledwidth="50%",align="right"]
+image::images/nasdaq_03-12.jpg[scaledwidth="50%"]
+image::images/google_trends.jpg[scaledwidth="50%"]
 
-image::images/job_all_03-12.jpg[scaledwidth="50%",align="left"]
-image::images/job_tech_03-12.jpg[scaledwidth="50%",align="right"]
+image::images/job_all_03-12.jpg[scaledwidth="50%"]
+image::images/job_tech_03-12.jpg[scaledwidth="50%"]
 
-image::images/books_03-12.jpg[scaledwidth="50%",align="left"]
-image::images/bluehost_users_03-12.jpg[scaledwidth="50%",align="right"]
+image::images/books_03-12.jpg[scaledwidth="50%"]
+image::images/bluehost_users_03-12.jpg[scaledwidth="50%"]
 
 == Open Source Composition / Stack 
  
@@ -101,16 +101,21 @@ So generally speaking, North America, Europe and especially Eastern Europe, are 
 
 === The Customer profile
 
-There are a few dimensions about the typical customer that will provide some insight into how they are doing as a business. Based on our Bluehost domain analysis, we see that the average number of domains per plan is 3.04 and lasts roughly 34.63 months at an average rate of $7.49 per month. More than 77% of the plans have a database installed and they have 4.12 instances of their databases installed.  This indicates that there is some sort of dynamic exchange likely happening on these sites whether it is a guest book, product list or some other dynamically served/captured content.  Word Press dominates in the Content Management category with a 55% share, and the next closest is Joomla at 9%.
+There are a few dimensions about the typical customer that will provide some insight into how they are doing as a business. Based on our Bluehost domain analysis, we see that the average number of domains per plan is around 3 and stays active roughly 35 months at an average rate of $7.49 per month. More than 77% of the hosting plans have a database installed and most users have roughtly 4 instances of their databases installed.  This indicates that there is some sort of dynamic exchange likely happening on these sites whether it is a guest book, product list or some other dynamically served/captured content.  Word Press dominates in the Content Management category with a 55% share, and the next closest is Joomla at 9%.
 
 The average term of service varies somewhat, but with the top 20 Countries, the ones with the most service months aggregated, it is fairly consistent at around 17 months with a standard deviation of 2.75 months.  The Worldwide average was 17.23 months with a standard deviation of 1.15. 
 
-image::images/average_months.jpg[scalewidth="90%",align="left"]
-image::images/average_price_month.jpg[scalewidth="90%",align="right"]
+image::images/average_months.jpg[scalewidth="90%"]
+image::images/average_price_month.jpg[scalewidth="90%"]
+image::images/average_domains.jpg[scalewidth="90%"]
+
+
+Sopa January 18.2012
+
 
 === The Stack profile
 
-In addition to the customer profile there is a technology stack profile. The term stack here means the layers of technology you put on top of a base of Unix/Linux or Windows.  For example, someone may have a stack of Linux with MySql managing a database, and PHP to insert or retrieve data from the database, and Wordpress on top for having discussions.  This is a simple and somewhat sloppy stack, because you can do more with each part that I touched on.  But for the purposes of illustrating a stack, it should suffice..
+In addition to the customer profile there is a technology stack profile. The term stack here means the layers of technology you put on top of a base of Unix/Linux or Windows. For example, someone may have a stack of Linux with MySql managing a database, and PHP to insert or retrieve data from the database, and Wordpress on top for having discussions. This is a simple and somewhat sloppy stack, because you can do more with each part that I touched on.  But for the purposes of illustrating a stack, it should suffice..
 
 Now that we have a perspective and a basic understanding of customer and stack profiles, let's move into the details of each of the technologies.
 
