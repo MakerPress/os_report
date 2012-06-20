@@ -110,7 +110,7 @@ image::images/average_price_month.jpg[scalewidth="90%",align="right"]
 
 === The Stack profile
 
-In addition to the customer profile there is a technology stack profile. The term stack here means the layers of technology you put on top of a base of Unix/Linux or Windows.  For example, someone may have a stack of Linux with MySql managing a database, and PHP to insert or retrieve data from the database, and Wordpress on top for having discussions.  This is a simple and somewhat sloppy stack, because you can do more with each part that I touched on.  But for the purposes of illustrating a stack, it should suffice.
+In addition to the customer profile there is a technology stack profile. The term stack here means the layers of technology you put on top of a base of Unix/Linux or Windows.  For example, someone may have a stack of Linux with MySql managing a database, and PHP to insert or retrieve data from the database, and Wordpress on top for having discussions.  This is a simple and somewhat sloppy stack, because you can do more with each part that I touched on.  But for the purposes of illustrating a stack, it should suffice..
 
 Now that we have a perspective and a basic understanding of customer and stack profiles, let's move into the details of each of the technologies.
 
