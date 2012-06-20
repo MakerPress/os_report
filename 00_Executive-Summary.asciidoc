@@ -78,7 +78,7 @@ Our job data set contains terabytes of text and is for the US only. Basically th
 
 As you can see in four of the six charts, the trend line is moving upward which indicates growth, yet the Technical book Market shows a consistent decline.  Although these measures are not correlated, they do provide some perspective on *technology adoption and demand*. Perhaps it is only a faint signal, but enough to at least consider. Again, we compared 2009 to the present because our Job data is not as reliable the further we go back.  Much of the data in the remaining report will be for 2001 to present because Bluehost has reliable data for that period. 
 
-image::images/nasdaq.jpg[scaledwidth="50%"]
+image::images/nasdaq1.jpg[scaledwidth="50%"]
 image::images/google_trends.jpg[scaledwidth="50%"]
 
 image::images/job_all_03-12.jpg[scaledwidth="50%"]
