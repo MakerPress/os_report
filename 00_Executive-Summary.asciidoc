@@ -13,7 +13,7 @@ This Radar Report will shed light on the small businesses using Open Source tech
 
 Before we go too much further into the data and analysis, it should be noted that BlueHost has provided us we a substantial amount of data. First the data is fairly US-centric. That is more than 70% of the hosted sites are based in the US. But we need to keep in mind that the data is skewed towards English speaking countries like the US, UK, Canada, and Australia which are the top four countries.  The pie chart below shows the nature of the relative market share for the top five countries.  The remaining parts of the world makes up roughly 15% of the remaining market share.
 
-image::images/GlobalMShare.jpg[scaledwidth="90%",align="center"]
+image::images/GlobalMShare.jpg[]
 
 The Bluehost data has a little more than a million records that we are going to share only relevant information from. There will be no user demographics or that sort of disclosure as it does not pertain to the purpose of this report.  We have a jobs data mart that contains electronic job listings for several years. This data mart contains terabytes of data and has undergone some extensive clean up to disambiguate words like Administration, Performance, Java, Ruby, etc. And we have use of our Nielsen Bookscan data mart which has point of sales data back to 2003. Google trends will also be used in relevant places throughout the report.
 
@@ -23,10 +23,11 @@ The Bluehost data has a little more than a million records that we are going to 
 
 The following image shows two different pictures of the world. In this view, we compared 2010 with 2011 in the number of new Hosted Services that were established in each given year and compared that to Akamai's report on new IPv4 addresses established in 2011. Each blue number represents the country rank for the growth of new hosted services as reported by Bluehost. The pink number represents the rank of growth in new IPv4 addresses reported by Akamai. What's notable here is that the UK was the only country that had better rank for new hosted services than their growth rank for new IPv4 addresses. The US and China seem to be the most consistent in both ranks. Japan, Germany, and France showed the largest decline in small business hosted services growth as compared to the number of new IPv4 addresses. 
 
-image::images/Akamai_Bluehost_1.jpg[scaledwidth="90%"]
+image::images/Akamai_Bluehost_1.jpg[]
 
 The image immediately above and table below represent the growth in unique IPv4 addresses as seen by Akamai Technologies, Inc.footnote:[http://www.akamai.com/stateoftheinternet/[The State of the Internet, 4th Quarter, 2011 Report]]  This is how many new unique IPv4 addresses have been identified by Akamai, and does not include any of the IPv6 addresses nor the forced decline in IPv4 addresses being assigned because of austerity measures by APNIC because of pending exhaustion of available addresses. Akamai reports on the top 10 countries and their number of unique IP addresses created in 2011, and the relative change rate from both Q4 2010 vs. Q4 2011, and the full year change rate. 
- 
+
+[options="Growth of Top 10 *new IPv4* Addresses"] 
 |======= 
 |Rank	|Country/Region	|Q4 '11 Unique IP Addresses	|QoQ Change	|YoY Change 
 |0	|Global	|628,358,806	|2.1%	|13% 
@@ -44,6 +45,7 @@ The image immediately above and table below represent the growth in unique IPv4 
 
 The table immediately below shows the growth rate of the top 20 countries that added new hosted services from 2010 to 2011. These countries are listed in order of number of sites (descending) and then Rank for their overall growth in the number of new hosted sites in 2011 compared with 2010. Growth percentage is also shown so you can get some perspective on how quickly the top 20 are growing. Look at the rate at which China is adding new hosted service sites. More than 70% growth for China between 2010 and 2011.
 
+[options="Growth of Top 20 *Hosted* Countries"]
 |=======
 |Country	|Rank	|Growth %
 |United States	|1	|39.28%
@@ -70,7 +72,7 @@ The table immediately below shows the growth rate of the top 20 countries that a
 
 Let's first take a look at which countries are growing the quickest in signing up for hosted services. You could view this as a proxy for small economies growing rapidly. The image shows which countries had the highest rank and what their relative growth rate was for the full-year comparing 2010 to 2011. Remember the pie chart from above, this chart now dives into growth. The order of countries, left to right, is based on overall size with the US on the bottom left being the largest, as we saw above, and Saudia Arabia being the last to make the top 20 countries. In addition to being ranked #1, The US had a growth rate of roughly 40% in 2011 when compared to 2010. China on the other hand, was ranked #5 but had a growth rate more than 70%. It does make you think about how long it will take China to move to the top spot. Anecdotally, the mid-50's taxi driver that has driven me and my colleagues around China the past few years, now has a Website. Could this just an enterprising taxi driver, or a sign that the masses in China will soon be grabbing themselves a hosted site. Of the top 20 growth countries, the three with the most growth percentage were Thailand, China and Indonesia. So something is certainly happening in Asia with small business growth. Perhaps a chicken and egg problem with the Middle class in Asia now desiring more of everything and they find themselves having resources to purchase hosted services. Or is this a case of new small businesses contributing to the the growth of the middle class in these Asian nations. Or most likely, both scenarios are in play.
 
-image::images/t_20_Globe.jpg[scalewidth="50%"]
+image::images/t_20_Globe.jpg[]
 
 Now let's look at the market in general to get some context. Below are six charts that will help set some perspective. The first chart shows NASDAQ's closing for each week from 2009-01 through 2012-05 which is our study range for these six charts. The next chart shows the Google Trends results for the technologies offered to customers in the Bluehost Service plans. The remaining four charts show 1) job trends, 2) tech job trends, 3) tech book sales in retail, and 4) growth of Bluehost users.  
 
@@ -78,14 +80,14 @@ Our job data set contains terabytes of text and is for the US only. Basically th
 
 As you can see in four of the six charts, the trend line is moving upward which indicates growth, yet the Technical book Market shows a consistent decline.  Although these measures are not correlated, they do provide some perspective on *technology adoption and demand*. Perhaps it is only a faint signal, but enough to at least consider. Again, we compared 2009 to the present because our Job data is not as reliable the further we go back.  Much of the data in the remaining report will be for 2001 to present because Bluehost has reliable data for that period. 
 
-image::images/nasdaq1.jpg[scaledwidth="50%"]
-image::images/google_trends.jpg[scaledwidth="50%"]
+image::images/nasdaq1.jpg[]
+image::images/google_trends.jpg[]
 
-image::images/job_all_03-12.jpg[scaledwidth="50%"]
-image::images/job_tech_03-12.jpg[scaledwidth="50%"]
+image::images/job_all_03-12.jpg[]
+image::images/job_tech_03-12.jpg[]
 
-image::images/books_03-12.jpg[scaledwidth="50%"]
-image::images/bluehost_users_03-12.jpg[scaledwidth="50%"]
+image::images/books_03-12.jpg[]
+image::images/bluehost_users_03-12.jpg[]
 
 == Open Source Composition / Stack 
  
@@ -95,7 +97,7 @@ To understand a little about the data we are exploring, you should know that as 
 
 Next let's take a look at what the data reveals about the typical open source customer. Between 2001 and 2012 the market for hosting services offered by Bluehost shows the following geographical distribution. I think it is safe to say this data is strongly Open Source-oriented when you look at the hosting platform dimension.  By platform we mean Operating system selected to run a website. The chart below shows what percentage Unix has in countries around the world. Again, remember this is Data from Bluehost. Any country with White as a color is that way because there was not enough data to assign market share. Interesting to note that middle of Africa has a large swath of white indicating not enough data to assign market share. Maybe a good opportunity to help this region of the world get their small businesses economy up and running with hosted sites.
 
-image::images/Unix_World.jpg[scalewidth="50%"]
+image::images/Unix_World.jpg[]
 
 So generally speaking, North America, Europe and especially Eastern Europe, are strongly Open Source when looking at whether a new hosted account selected Unix/Linux or Windows. South America has a couple of pockets of strong Open Source but has in general the weakest adoption of Unix or strongest adoption of Windows. Africa lacks a strong tendency either way but looks to be moving towards more Open Source than not. The countries with the largest installed Windows platform are: Macedonia, Jordan, Libya, Sierra Leone, Suriname, Gauadeloupe, and Iran.
 
@@ -105,9 +107,9 @@ There are a few dimensions about the typical customer that will provide some ins
 
 The average term of service varies somewhat, but with the top 20 Countries, the ones with the most service months aggregated, it is fairly consistent at around 17 months with a standard deviation of 2.75 months.  The Worldwide average was 17.23 months with a standard deviation of 1.15. 
 
-image::images/average_months.jpg[scalewidth="90%"]
-image::images/average_month_fee.jpg[scalewidth="90%"]
-image::images/average_domains_user.jpg[scalewidth="90%"]
+image::images/average_months.jpg[]
+image::images/average_month_fee.jpg[]
+image::images/average_domains_user.jpg[]
 
 These are new images and are consistently laid out.
 
