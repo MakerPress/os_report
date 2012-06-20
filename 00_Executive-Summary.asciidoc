@@ -113,7 +113,7 @@ image::images/average_domains_user.jpg[ ]
 
 These are new images and are consistently laid out.
 
-Sopa January 18.2012
+Sopa January 18.2012 and later.
 
 
 === The Stack profile
