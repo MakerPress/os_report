@@ -28,7 +28,7 @@ image::images/Akamai_Bluehost_1.jpg[scalewidth="90%"]
 
 The image immediately above and table below represent the growth in unique IPv4 addresses as seen by Akamai Technologies, Inc.footnote:[http://www.akamai.com/stateoftheinternet/[The State of the Internet, 4th Quarter, 2011 Report]]  This is how many new unique IPv4 addresses have been identified by Akamai, and does not include any of the IPv6 addresses nor the forced decline in IPv4 addresses being assigned because of austerity measures by APNIC because of pending exhaustion of available addresses. Akamai reports on the top 10 countries and their number of unique IP addresses created in 2011, and the relative change rate from both Q4 2010 vs. Q4 2011, and the full year change rate. 
 
-[options="Growth of Top 10 new IPv4 Addresses"] 
+[options="header"]
 |======= 
 |Rank	|Country/Region	|Q4 '11 Unique IP Addresses	|QoQ Change	|YoY Change 
 |0	|Global	|628,358,806	|2.1%	|13% 
@@ -46,7 +46,7 @@ The image immediately above and table below represent the growth in unique IPv4 
 
 The table immediately below shows the growth rate of the top 20 countries that added new hosted services from 2010 to 2011. These countries are listed in order of number of sites (descending) and then Rank for their overall growth in the number of new hosted sites in 2011 compared with 2010. Growth percentage is also shown so you can get some perspective on how quickly the top 20 are growing. Look at the rate at which China is adding new hosted service sites. More than 70% growth for China between 2010 and 2011.
 
-[options="Growth of Top 20 Hosted Countries"]
+[options="header"]
 |=======
 |Country	|Rank	|Growth %
 |United States	|1	|39.28%
