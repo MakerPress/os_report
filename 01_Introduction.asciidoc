@@ -1,60 +1,60 @@
 == Overall Growth Of Open Source Technologies
 
-=== Trending Up: 
+=== Trending Up:
 
-=== Trending Level: 
+=== Trending Level:
 
-=== Trending Down: 
+=== Trending Down:
 
 === Analysis
 
 == Geographic Trends
 
-=== Trending Up: 
+=== Trending Up:
 
-=== Trending Level: 
+=== Trending Level:
 
-=== Trending Down: 
+=== Trending Down:
 
 === Analysis
 
 == Application Server/Web Server Category
 
-=== Trending Up: 
+=== Trending Up:
 
-=== Trending Level: 
+=== Trending Level:
 
-=== Trending Down: 
+=== Trending Down:
 
 === Analysis
 
 
 == CMS Category
 
-=== Trending Up: 
+=== Trending Up:
 
-=== Trending Level: 
+=== Trending Level:
 
-=== Trending Down: 
+=== Trending Down:
 
 === Analysis
 
 == Databases and Big Data Category
 
-=== Trending Up: 
+=== Trending Up:
 
-=== Trending Level: 
+=== Trending Level:
 
-=== Trending Down: 
+=== Trending Down:
 
 === Analysis
 
 == Public data: Google search volume.
 
-=== Trending Up: 
+=== Trending Up:
 
-=== Trending Level: 
+=== Trending Level:
 
-=== Trending Down: 
+=== Trending Down:
 
 === Analysis
