@@ -1,6 +1,3 @@
-== Methodology
-To develop the Open Source Trending Report, OpenLogic analyzed popular as well as up-and-coming open source projects that are used as core infrastructure in enterprise applications in order to evaluate growth in enterprise interest and adoption. The three categories analyzed were web and application servers; application frameworks; and databases and big data. For each open source project, OpenLogic analyzed eight metrics that include public data, as well as aggregated data from OpenLogics tools and customer base of over 250 enterprises worldwide. The OpenLogic report used the following eight metrics:
-
 == Overall Growth Of Open Source Technologies
 . HBase
 . Node.js
@@ -25,23 +22,12 @@ Within each category, OpenLogic also analyzed which projects were trending up (a
 === Category Trends
 
 
-
 == Application Server/Web Server Category
-Trending Up: Node.js and nginx
-Trending Level: Tomcat and Apache HTTP Server
-Trending Down: JBoss and GlassFish
-Analysis
 
-Node.js is helping to drive a resurgence of JavaScript. It acts as an application server for JavaScript apps, thereby increasing scalability and performance. Nginx is a high concurrency, low memory usage web server and reverse proxy that is gaining strong adoption across the internet.
-
-Tomcat and Apache HTTP server continue to be the 800-pound gorillas in their respective categories, but with a broad adoption base, their growth is more limited than some newer technologies.
-
-The surprise in this category is the downward trend of JBoss. Although JBoss continues to be a popular option, we see more enterprises that are shifting off proprietary application servers chossing lightweight options like Tomcat.
-
-== Frameworks Category
-Trending Up: Rails
-Trending Level: Spring, Grails, Struts
-Trending down: (none)
+== CMS Category
+Trending Up:
+Trending Level:
+Trending down: 
 Analysis
 
 Its not a big surprise to see that Rails, an application framework for the Ruby language, is generating a lot of interest and growth. Rails is well suited to the highly scalable web applications that are becoming more prevalent in the enterprise. In addition, Rails attracts developers with its emphasis on convention over configuration, which can greatly accelerate development time.
