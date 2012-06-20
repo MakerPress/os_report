@@ -1,42 +1,60 @@
 == Overall Growth Of Open Source Technologies
 
-Trending Up: 
-Trending Level: 
-Trending Down: 
-Analysis
+=== Trending Up: 
 
-=== Geographic Trends
-Within each category, OpenLogic also analyzed which projects were trending up (all or most of the metrics were up), trending level (some metrics were up and some were down), or trending down (all or most of the metrics were down). Below are the trends by category.
+=== Trending Level: 
 
-=== Category Trends
+=== Trending Down: 
 
+=== Analysis
+
+== Geographic Trends
+
+=== Trending Up: 
+
+=== Trending Level: 
+
+=== Trending Down: 
+
+=== Analysis
 
 == Application Server/Web Server Category
 
-Trending Up:
-Trending Level:
-Trending down: 
-Analysis
+=== Trending Up: 
+
+=== Trending Level: 
+
+=== Trending Down: 
+
+=== Analysis
+
 
 == CMS Category
 
-Trending Up:
-Trending Level:
-Trending down: 
-Analysis
+=== Trending Up: 
 
+=== Trending Level: 
+
+=== Trending Down: 
+
+=== Analysis
 
 == Databases and Big Data Category
 
-Trending Up: 
-Trending Level: 
-Trending Down: 
-Analysis
+=== Trending Up: 
 
+=== Trending Level: 
+
+=== Trending Down: 
+
+=== Analysis
 
 == Public data: Google search volume.
 
-Trending Up: 
-Trending Level: 
-Trending Down: 
-Analysis
+=== Trending Up: 
+
+=== Trending Level: 
+
+=== Trending Down: 
+
+=== Analysis
