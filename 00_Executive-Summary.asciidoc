@@ -11,7 +11,7 @@ This Radar Report will shed light on the small businesses using Open Source tech
 
 === Size and composition of the data sets
 
-Before we go too much further into the data and analysis, it should be noted that BlueHost has provided us we a substantial amount of data. First the data is fairly US-centric. That is more than 70% of the hosted sites are based in the US. But we need to keep in mind that the data is skewed towards English speaking countries like the US, UK, Canada, and Australia which are the top four countries.  The pie chart below shows the nature of the relative market share for the top five countries.  The remaining parts of the world makes up roughly 15% of the remaining market share.
+Before we go too much further into the data and analysis, it should be noted that Bluehost has provided us we a substantial amount of data. First the data is fairly US-centric. That is more than 70% of the hosted sites are based in the US. But we need to keep in mind that the data is skewed towards English speaking countries like the US, UK, Canada, and Australia which are the top four countries.  The pie chart below shows the nature of the relative market share for the top five countries.  The remaining parts of the world makes up roughly 15% of the remaining market share.
 
 image::images/GlobalMShare.jpg[scalewidth="90%"]
 
@@ -112,7 +112,7 @@ To understand a little about the data we are exploring, you should know that as 
 
 === The preferred platform
 
-Next let's take a look at what the data reveals about the typical open source customer. Between 2001 and 2012 the market for hosting services offered by Bluehost shows the following geographical distribution. I think it is safe to say this data is strongly Open Source-oriented when you look at the hosting platform dimension.  By platform we mean Operating system selected to run a website. The chart below shows what percentage Unix has in countries around the world. Again, remember this is Data from Bluehost. Any country with White as a color is that way because there was not enough data to assign market share. Interesting to note that middle of Africa has a large swath of white indicating not enough data to assign market share. Maybe a good opportunity to help this region of the world get their small businesses economy up and running with hosted sites.
+Next let's take a look at what the data reveals about the typical open source customer. Between 2001 and 2012 the market for hosting services offered by Bluehost shows the following geographical distribution. I think it is safe to say this data is strongly Open Source-oriented when you look at the hosting platform dimension.  By platform we mean Operating system selected to run a website. The chart below shows what percentage Linux has in countries around the world. Again, remember this is data from Bluehost. Any country with White as a color is that way because there was not enough data to assign market share. Interesting to note that middle of Africa has a large swath of white indicating not enough data to assign market share. Maybe a good opportunity to help this region of the world get their small businesses economy up and running with hosted sites.
 
 image::images/Unix_World.jpg[scalewidth="90%"] 
 
