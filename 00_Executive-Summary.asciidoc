@@ -80,22 +80,31 @@ Now let's look at the market in general to get some context. Below are six chart
 
 Our job data set contains terabytes of text and is for the US only. Basically the tech jobs data are the result a filter of the whole job market where we selected only the technologies offered by Bluehost to their customers. This way we can compare similar growth trends. The third data set/chart contains Tech Book Retail sales reported by Nielsen Bookscan. This allows us to see if there is any similar seasonal effects. Lastly we have user growth rates for Bluehost Service plans. This shows how many new users are added to Bluehost accounts. Since only BlueHost and Google Trend data are global, we filtered the Bluehost data to be US only and between 2009-present. Obviously NASDAQ is limited to US only. Google does not provide the option of filtering on US only and the results are completely dominated by non-US data. The US did not make the top ten in Google Trends for the topics selected. From a City perspective, only San Francisco made the top ten at #6. So the Google Trend data is a little less localized for a true comparison. But still interesting to see that is more closely matches the Tech Retail Book Sales data. The interpretation of Google trends and Books sales could perhaps be, if fewer people are searching for a topic each subsequent year, fewer folks will be buying books on the subject. However, they still seem inclined to set up new hosted websites and advertise for available Job positions.
 
-As you can see in four of the six charts, the trend line is moving upward which indicates growth, yet the Technical book Market shows a consistent decline.  Although these measures are not correlated, they do provide some perspective on *technology adoption and demand*. Perhaps it is only a faint signal, but enough to at least consider. Again, we compared 2009 to the present because our Job data is not as reliable the further we go back.  Much of the data in the remaining report will be for 2001 to present because Bluehost has reliable data for that period. 
+As you can see in four of the six charts, the trend line is moving upward which indicates growth, yet the Technical book Market shows a consistent decline.  Although these measures are not correlated, they do provide some perspective on *technology adoption and demand*. Perhaps it is only a faint signal, but enough to at least consider. Again, we compared 2009 to the present because our Job data is not as reliable the further we go back. Much of the data in the remaining report will be for 2001 to present because Bluehost has reliable data for that period. 
 
 image::images/nasdaq1.jpg[scalewidth="90%"] 
 
+When you look at the NASDAQ closings for each week but plotted by month since 2009 and compare it to the Search Topics for the same technologies found in the Bluehost services offering, you see two charts going in different directions. Why I'd look at these two dimensions is for some context before looking specifically at the trends in Hosted Services.
+
 image::images/google_trends.jpg[scalewidth="90%"] 
 
+The next image is also for context setting. This is the total number of jobs and how they are going during the same time period above. Job advertisements are a good proxy for business growth.The chart immediately below is Average jobs posted per day, since 2009 but plotted on a monthly basis for better comparison to the other charts.
 
 image::images/job_all_03-12.jpg[scalewidth="90%"] 
 
+As you know, the chart above reflects all jobs posted between January of 2009 through May of 2012, and the chart below is the same timeframe, but for the technical topics found in the options Bluehost offers to their customers. There are slight differences in the two, but again this is to set some context for the overall market conditions.
+
 image::images/job_tech_03-12.jpg[scalewidth="90%"] 
 
+The prior image was all tech jobs advertised, and the one below shows the trend for tech Books sold in retail. This is fairly consistent with the Google Search terms for the topics offered by Bluehost. It goes with the notion that if developers, users, and consumers are not searching for topic X they are likely not going to be purchasing a book on it anytime soon.  The Search Chart and the Book sales chart demonstrate that.
 
 image::images/books_03-12.jpg[scalewidth="90%"] 
 
+So we have four perspectives on the market so far. Nasdaq closings which are consistently going up with a few aberrations. We have the number of job postings online going up. We have the number of tech job postings going up. We have Book sales and Google search for technical terms going down. Finally the chart below shows us the number of new users, small businesses, going up.
+
 image::images/bluehost_users_03-12.jpg[scalewidth="90%"] 
 
+What is interesting to note, is that all of the charts seem to have a similar trend. Roughly between July of 2011 and running through November of 2011 the trend was up for all measures. Perhaps the economy was providing signals that we were headed in the right direction. Yet oddly enough this is when the US had its credit rating lowered by Standard and Poors. And the US job creation was stagnant for most of this period. So why do we see the trends in these charts. We believe that small internet-based start-ups are a major contributor to the trends up for most of the charts, but NASDAQ is another matter that we will leave to the economists to figure out.
 
 == Open Source Composition / Stack 
  
