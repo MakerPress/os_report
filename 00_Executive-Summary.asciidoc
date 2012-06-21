@@ -121,6 +121,8 @@ So generally speaking, North America, Europe and especially Eastern Europe, are 
 
 === The Customer profile/dimension
 
+==== Sophistication level of the user base
+
 The typical customer for Hosted Services sees themselves to have Intermediate skills in developing a website. Nearly 31% see themselves as Beginners and 15% consider themselves as Advanced where as another 14% consider themselves as a professional Web Developer or Designer. So those last two categories combine for 29% of sophisticated users. If you add in the Intermediate skill-level individuals, you get a combined 69% for a fairly sophisticated sampling. 
 
 image::images/experience.jpg[scalewidth="90%"]
@@ -128,6 +130,8 @@ image::images/experience.jpg[scalewidth="90%"]
 So we know that the user base is fairly sophisticated, or roughly a combined 69% are. But nearly 75% of the user based built their own website. The chart below indicates that roughly 25% have someone else build their hosted web site. This is consistent with the notion that small businesses are using the internet as a mechanism to grow and prosper. The two categories that indicate more of a corporate dynamic is the 6% that had someone in their organization build it, or the 13% that paid a 3rd party to design and create the website.
 
 image::images/who_built.jpg[scalewidth="90%"]
+
+==== Other Customer Dimensions
 
 There are a few dimensions about the typical customer that will provide some insight into how they are doing as a business. Based on our Bluehost domain analysis, we see that the average number of domains per plan is around 3 and stays active roughly 35 months at an average rate of $7.49 per month. More than 77% of the hosting plans have a database installed and most users have roughly 4 instances of their databases installed.  This indicates that there is some sort of dynamic exchange likely happening on these sites whether it is a guest book, product list or some other dynamically served/captured content. There are about two and a quarter mailboxes on average per account with more than two million overall email accounts. Word Press dominates in the Content Management category with a 55% share, and the next closest is Joomla at 9%.
 
