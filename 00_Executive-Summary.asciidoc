@@ -112,11 +112,7 @@ So generally speaking, North America, Europe and especially Eastern Europe, are 
 
 === The Customer profile
 
-There are a few dimensions about the typical customer that will provide some insight into how they are doing as a business. Based on our Bluehost domain analysis, we see that the average number of domains per plan is around 3 and stays active roughly 35 months at an average rate of $7.49 per month. More than 77% of the hosting plans have a database installed and most users have roughtly 4 instances of their databases installed.  This indicates that there is some sort of dynamic exchange likely happening on these sites whether it is a guest book, product list or some other dynamically served/captured content.  Word Press dominates in the Content Management category with a 55% share, and the next closest is Joomla at 9%.
-
-The average term of service varies somewhat, but with the top 20 Countries, the ones with the most service months aggregated, it is fairly consistent at around 17 months with a standard deviation of 2.75 months.  The Worldwide average was 17.23 months with a standard deviation of 1.15. 
-
-image::images/average_months.jpg[scalewidth="90%"] 
+There are a few dimensions about the typical customer that will provide some insight into how they are doing as a business. Based on our Bluehost domain analysis, we see that the average number of domains per plan is around 3 and stays active roughly 35 months at an average rate of $7.49 per month. More than 77% of the hosting plans have a database installed and most users have roughly 4 instances of their databases installed.  This indicates that there is some sort of dynamic exchange likely happening on these sites whether it is a guest book, product list or some other dynamically served/captured content. There are about two and a quarter mailboxes on average per account with more than two million overall email accounts. Word Press dominates in the Content Management category with a 55% share, and the next closest is Joomla at 9%.
 
 image::images/average_month_fee.jpg[scalewidth="90%"] 
 
@@ -125,7 +121,7 @@ image::images/average_domains_user.jpg[scalewidth="90%"]
 
 These are new images and are consistently laid out.
 
-Sopa January 18.2012 and later.
+
 
 
 === The Stack profile
