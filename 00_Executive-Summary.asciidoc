@@ -135,8 +135,6 @@ When you look at the average number of domains each user signs up for.  There is
 
 image::images/average_domains_user.jpg[scalewidth="90%"] 
 
-These are new images and are consistently laid out.
-
 
 === The Stack profile/dimension
 
