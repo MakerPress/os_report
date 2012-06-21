@@ -114,14 +114,15 @@ So generally speaking, North America, Europe and especially Eastern Europe, are 
 
 There are a few dimensions about the typical customer that will provide some insight into how they are doing as a business. Based on our Bluehost domain analysis, we see that the average number of domains per plan is around 3 and stays active roughly 35 months at an average rate of $7.49 per month. More than 77% of the hosting plans have a database installed and most users have roughly 4 instances of their databases installed.  This indicates that there is some sort of dynamic exchange likely happening on these sites whether it is a guest book, product list or some other dynamically served/captured content. There are about two and a quarter mailboxes on average per account with more than two million overall email accounts. Word Press dominates in the Content Management category with a 55% share, and the next closest is Joomla at 9%.
 
-The typical customer which represents roughly 48% of the user base, is using these hosted services for Business without a shopping cart. This is mostly for information purposes rather than commerce. The next most frequent purpose for having a hosted site, is for personal use which represents about 22% of the user base. This is the individual who just wants a presence on the web for a variety of reasons.  The third most frequent purpose for hosted services is a Business with an online store which is about 12% of the user base. This is the small business who is selling and trans 
+The typical customer which represents roughly 48% of the user base, is using these hosted services for Business without a shopping cart. This is mostly for information purposes rather than commerce. The next most frequent purpose for having a hosted site, is for personal use which represents about 22% of the user base. This is the individual who just wants a presence on the web for a variety of reasons.  The third most frequent purpose for hosted services is a Business with an online store which is about 12% of the user base. This is the small business who is selling and making e-commerce transactions. 
 
 image::images/BH_purpose.jpg[scalewidth="90%"]
 
-image::images/average_month_fee.jpg[scalewidth="90%"] 
-
 You can see that the average hosting fee has decreased more than $1 on average in the previous two years.  This is both a function of economies of scale that Bluehost has achieved and can now offer slightly better pricing and being aware of the economic tough times that have prevailed most recently.
 
+image::images/average_month_fee.jpg[scalewidth="90%"] 
+
+When you looks 
 
 image::images/average_domains_user.jpg[scalewidth="90%"] 
 

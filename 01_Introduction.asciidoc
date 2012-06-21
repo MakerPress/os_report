@@ -1,3 +1,5 @@
+:bookseries: radar
+
 == Overall Growth Of Open Source Technologies
 
 === Trending Up:
