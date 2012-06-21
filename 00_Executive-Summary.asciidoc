@@ -116,12 +116,12 @@ There are a few dimensions about the typical customer that will provide some ins
 
 image::images/average_month_fee.jpg[scalewidth="90%"] 
 
+You can see that the average hosting fee has dropped in the previous two years.  This is both a function of economies of scale that Bluehost has achieved and can now offer slightly better pricing and being aware of the economic tough times that have prevailed most recently.
+
+
 image::images/average_domains_user.jpg[scalewidth="90%"] 
 
-
 These are new images and are consistently laid out.
-
-
 
 
 === The Stack profile
