@@ -6,7 +6,7 @@ The growth of Open Source tools during the past several years is not an easy mea
 
 The following charts demonstrate the health of open source systems for US jobs being advertised for the same technologies found on the Bluehost platform. This data contains all online jobs advertised for the previous three months [2012-06].
 
-image::images/TechJobsMovement.jpg[scalewidth="90%"]
+image::images/jobs_platform.jpg[scalewidth="90%"]
 
 The next image provides a comparison of the technologies found on Bluehost and how they are growing each year since 2009.  
 
