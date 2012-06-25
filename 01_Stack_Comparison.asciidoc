@@ -8,6 +8,10 @@ The following charts demonstrate the health of open source systems for US jobs b
 
 image::images/jobs_platform.jpg[scalewidth="90%"]
 
+Contrast the image above with the one immediately below.  The one below is based on the number of individuals electing to use the tools that are offered to them with a Bluehost account.
+
+image::images/users_technologies.jpg[scalewidth="90%"]
+
 === The Stack profile/dimension
 
 In addition to the customer profile there is a technology stack profile. The term stack here means the layers of technology you put on top of a base of Unix/Linux or Windows. For example, someone may have a stack of Linux with MySql managing a database, and PHP to insert or retrieve data from the database, and Wordpress on top for having discussions. This is a simple and somewhat sloppy stack, because you can do more with each part that I touched on.  But for the purposes of illustrating a stack, it should suffice..
@@ -44,6 +48,9 @@ Many of the technologies work well in suites or pairs. Like MySql and PHP for in
 |+ presta	|0	|0%	|0%	|3,134 
 |=======
 
+==== Analysis
+Not much of a market on Bluehost for SQLServer. The most common tool paired with SQLServer is Wordpress, yet Wordpress has nearly 400k users and only 1,000 Wordpress users also use SQLServer. Compare this with the data below for MySQL and you see a drastic difference.
+
 *MySql Users 593,218*
 [options="header"]
 |=======
@@ -60,6 +67,7 @@ Many of the technologies work well in suites or pairs. Like MySql and PHP for in
 |+ mediawiki	|4,618	|1%	|100%	|4,629
 |+ presta	|3,130	|1%	|100%	|3,134
 |=======
+
 ==== Analysis
 Not much of a market on Bluehost for SQLServer. The most common tool paired with SQLServer is Wordpress, yet Wordpress has nearly 400k users and only 1,000 Wordpress users also use SQLServer. Compare this with the data below for MySQL and you see a drastic difference.
 
