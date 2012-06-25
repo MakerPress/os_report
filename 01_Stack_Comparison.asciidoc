@@ -54,7 +54,7 @@ Not much of a market on Bluehost for SQLServer. The most common tool paired with
 *MySql Users 593,218*
 [options="header"]
 |=======
-|tool	|users	|mysql share	|tool share	
+|tool	|users	|mysql share	|tool share	|# Tools Users
 |+ wordpress	|395,935	|67%	|100%	|396,439
 |+ joomla	|72,040	|12%	|100%	|2,159
 |+ drupal	|23,902	|4%	|100%	|23,983
@@ -75,7 +75,7 @@ MySql is a dominant tool on Bluehost. MySql is also dominant in Job data and Goo
 *Perl Users 181,143*
 [options="header"]
 |=======
-|tool	|users	|perl share	|tool share	
+|tool	|users	|perl share	|tool share|# Tools Users	
 |+ wordpress	|87,023	|48%	|22%	|396,439
 |+ joomla	|29,805	|16%	|41%	|72,159
 |+ drupal	|19,462	|11%	|81%	|23,983
@@ -94,7 +94,7 @@ MySql is a dominant tool on Bluehost. MySql is also dominant in Job data and Goo
 *PHP Users 736,243*
 [options="header"]
 |=======
-|tool	|users	|php share	|tool share	
+|tool	|users	|php share	|tool share|# Tools Users	
 |+ wordpress	|385,990	|52%	|97%	|396,439
 |+ joomla	|69,822	|9%	|97%	|72,159
 |+ drupal	|23,983	|3%	|100%	|23,983
@@ -113,7 +113,7 @@ MySql is a dominant tool on Bluehost. MySql is also dominant in Job data and Goo
 *Ruby users 43,701*
 [options="header"]
 |=======
-|tool	|users	|ruby share	|tool share	
+|tool	|users	|ruby share	|tool share|# Tools Users	
 |+ wordpress	|25,994	|59%	|7%	|396,439
 |+ joomla	|9,501	|22%	|13%	|72,159
 |+ drupal	|5,387	|12%	|22%	|23,983
@@ -133,7 +133,7 @@ MySql is a dominant tool on Bluehost. MySql is also dominant in Job data and Goo
 *Javascript Users 638,965*	
 [options="header"]
 |=======		
-|tool	|users	|js share	|tool share	
+|tool	|users	|js share	|tool share|# Tools Users	
 |+ wordpress	|362,794	|57%	|92%	|396,439
 |+ joomla	|63,929	|10%	|89%	|72,159
 |+ drupal	|23,975	|4%	|100%	|23,983
@@ -152,7 +152,7 @@ MySql is a dominant tool on Bluehost. MySql is also dominant in Job data and Goo
 *ASP Users 58,694*
 [options="header"]
 |=======
-|tool	|users	|asp share	|tool share	
+|tool	|users	|asp share	|tool share|# Tools Users	
 |+ wordpress	|29,097	|50%	|7%	|396,439
 |+ joomla	|10,801	|18%	|15%	|72,159
 |+ drupal	|10,229	|17%	|43%	|23,983
