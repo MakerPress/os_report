@@ -2,6 +2,8 @@
 
 == Overall Growth Of Open Source Technologies
 
+The following charts demonstrate the health of open source systems for US jobs being advertised.
+
 === Trending Up:
 
 === Trending Level:
