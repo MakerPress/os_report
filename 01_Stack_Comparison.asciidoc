@@ -8,7 +8,7 @@ The following charts demonstrate the health of open source systems for US jobs b
 
 image::images/jobs_platform.jpg[scalewidth="90%"]
 
-Contrast the image above with the one immediately below.  The one below is based on the number of individuals electing to use the tools that are offered to them with a Bluehost account. The most noticeable difference is the large Job market for SqlServer dwarfs the seemingly non-consequential usage data on SqlServer from Bluehost.
+Contrast the image above with the one immediately below.  The one below is based on the number of individuals electing to use the tools that are offered to them with a Bluehost account. The most noticeable difference is the large Job market for SqlServer dwarfs the seemingly non-consequential usage data on SqlServer from Bluehost. And Wordpress is the largest CMS from a Jobs and Hosted Tool perspective, but is is a magnitude of roughly five times as significant on Bluehost. Wordpress on Bluehost has more users than Perl, Python, and Ruby combined.
 
 image::images/users_technologies.jpg[scalewidth="90%"]
 
