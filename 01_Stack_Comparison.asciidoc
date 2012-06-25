@@ -25,9 +25,9 @@ So generally speaking, North America, Europe and especially Eastern Europe, are 
 === Technology Cross Adoption:
 Many of the technologies work well in suites or pairs. Like MySql and PHP for instance. Yet there are some surprises when you look at what users install and couple with other technologies. The following tables are going to provide a bunch of data that will provide you with the opportunity to speculate on what is happening. We will offer our analysis after the tables of data.
 
-==== Tables
+==== Table Data
 
-sql server users	|7,965
+*SQLServer Users 7,965*
 [options="header"]
 |=======			
 |tool	|users	|sqlserv share	|tool share	|# Tools Users
@@ -44,7 +44,26 @@ sql server users	|7,965
 |+ presta	|0	|0%	|0%	|3,134 
 |=======
 
-=== Analysis
+*MySql Users 593,218*
+[options="header"]
+|=======
+|tool	|users	|mysql share	|tool share	
+|+ wordpress	|395,935	|67%	|100%	|396,439
+|+ joomla	|72,040	|12%	|100%	|2,159
+|+ drupal	|23,902	|4%	|100%	|23,983
+|+ phpbb	|28,822	|5%	|100%	|28,947
+|+ magento	|8,994	|2%	|100%	|9,007
+|+ osComm	|15,009	|3%	|100%	|15,068
+|+ moodle	|5,970	|1%	|100%	|5,982
+|+ smf	|5,189	|1%	|99%	|5,223
+|+ coppermine	|5,009	|1%	|100%	|5,030
+|+ mediawiki	|4,618	|1%	|100%	|4,629
+|+ presta	|3,130	|1%	|100%	|3,134
+|=======
+==== Analysis
+Not much of a market on Bluehost for SQLServer. The most common tool paired with SQLServer is Wordpress, yet Wordpress has nearly 400k users and only 1,000 Wordpress users also use SQLServer. Compare this with the data below for MySQL and you see a drastic difference.
+
+
 
 == Language Trends
 
