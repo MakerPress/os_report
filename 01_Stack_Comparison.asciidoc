@@ -69,7 +69,8 @@ Not much of a market on Bluehost for SQLServer. The most common tool paired with
 |=======
 
 ==== Analysis
-Not much of a market on Bluehost for SQLServer. The most common tool paired with SQLServer is Wordpress, yet Wordpress has nearly 400k users and only 1,000 Wordpress users also use SQLServer. Compare this with the data below for MySQL and you see a drastic difference.
+MySql is a dominant tool on Bluehost. MySql is also dominant in Job data and Google trends.
+
 
 *Perl Users 181,143*
 [options="header"]
@@ -127,6 +128,7 @@ Not much of a market on Bluehost for SQLServer. The most common tool paired with
 |=======
 
 ==== Analysis
+
 
 *Javascript Users 638,965*	
 [options="header"]
