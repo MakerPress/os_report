@@ -1,0 +1,66 @@
+:bookseries: radar
+
+== Overall Growth Of Open Source Technologies
+
+image::images/TechJobsMovement.jpg[scalewidth="90%"]
+
+The following charts demonstrate the health of open source systems for US jobs being advertised for the same technologies found on the Bluehost platform. New words.
+
+=== Trending Up:
+
+=== Trending Level:
+
+=== Trending Down:
+
+=== Analysis
+
+== Geographic Trends
+
+=== Trending Up:
+
+=== Trending Level:
+
+=== Trending Down:
+
+=== Analysis
+
+== Application Server/Web Server Category
+
+=== Trending Up:
+
+=== Trending Level:
+
+=== Trending Down:
+
+=== Analysis
+
+
+== CMS Category
+
+=== Trending Up:
+
+=== Trending Level:
+
+=== Trending Down:
+
+=== Analysis
+
+== Databases and Big Data Category
+
+=== Trending Up:
+
+=== Trending Level:
+
+=== Trending Down:
+
+=== Analysis
+
+== Public data: Google search volume.
+
+=== Trending Up:
+
+=== Trending Level:
+
+=== Trending Down:
+
+=== Analysis
