@@ -8,7 +8,19 @@ The following charts demonstrate the health of open source systems for US jobs b
 
 image::images/jobs_platform.jpg[scalewidth="90%"]
 
-The next image provides a comparison of the technologies found on Bluehost and how they are growing each year since 2009.  
+=== The Stack profile/dimension
+
+In addition to the customer profile there is a technology stack profile. The term stack here means the layers of technology you put on top of a base of Unix/Linux or Windows. For example, someone may have a stack of Linux with MySql managing a database, and PHP to insert or retrieve data from the database, and Wordpress on top for having discussions. This is a simple and somewhat sloppy stack, because you can do more with each part that I touched on.  But for the purposes of illustrating a stack, it should suffice..
+
+Now that we have a perspective and a basic understanding of customer and stack profiles, let's move into the details of each of the technologies.
+
+==== The preferred platform
+
+Next let's take a look at what the data reveals about the typical open source customer. Between 2001 and 2012 the market for hosting services offered by Bluehost shows the following geographical distribution. I think it is safe to say this data is strongly Open Source-oriented when you look at the hosting platform dimension. By platform we mean Operating system selected to run a website. The chart below shows what percentage Linux has in countries around the world. Again, remember this is data from Bluehost. Any country with White as a color is that way because there was not enough data to assign market share. Interesting to note that middle of Africa has a large swath of white indicating not enough data to assign market share. Maybe a good opportunity to help this region of the world get their small businesses economy up and running with hosted sites.
+
+image::images/OS_Plat_Share.jpg[scalewidth="90%"] 
+
+So generally speaking, North America, Europe and especially Eastern Europe, are strongly Open Source when looking at whether a new hosted account selected Unix/Linux or Windows. South America has a couple of pockets of strong Open Source but has in general the weakest adoption of Unix or strongest adoption of Windows. Africa lacks a strong tendency either way but looks to be moving towards more Open Source than not. The countries with the largest installed Windows platform are: Macedonia, Jordan, Libya, Sierra Leone, Suriname, Gauadeloupe, and Iran.
 
 === Trends:
 
