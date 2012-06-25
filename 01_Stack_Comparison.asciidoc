@@ -2,9 +2,9 @@
 
 == Overall Growth Of Open Source Technologies
 
-image::images/TechJobsMovement.jpg[scalewidth="90%"]
+The following charts demonstrate the health of open source systems for US jobs being advertised for the same technologies found on the Bluehost platform. This data contains all online jobs advertised for the previous three months [2012-06].
 
-The following charts demonstrate the health of open source systems for US jobs being advertised for the same technologies found on the Bluehost platform. New words.
+image::images/TechJobsMovement.jpg[scalewidth="90%"]
 
 === Trending Up:
 
