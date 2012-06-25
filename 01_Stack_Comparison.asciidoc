@@ -6,6 +6,12 @@ The following charts demonstrate the health of open source systems for US jobs b
 
 image::images/TechJobsMovement.jpg[scalewidth="90%"]
 
+The next image provides a comparison of the technologies found on Bluehost and how they are growing each year since 2009.  
+
+image::images/OverallTechGrowthPlatform.jpg[scalewidth="90%"]
+
+
+
 === Trending Up:
 
 === Trending Level:
