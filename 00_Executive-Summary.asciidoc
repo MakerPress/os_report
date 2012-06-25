@@ -163,6 +163,8 @@ image::images/OS_Plat_Share.jpg[scalewidth="90%"]
 
 So generally speaking, North America, Europe and especially Eastern Europe, are strongly Open Source when looking at whether a new hosted account selected Unix/Linux or Windows. South America has a couple of pockets of strong Open Source but has in general the weakest adoption of Unix or strongest adoption of Windows. Africa lacks a strong tendency either way but looks to be moving towards more Open Source than not. The countries with the largest installed Windows platform are: Macedonia, Jordan, Libya, Sierra Leone, Suriname, Gauadeloupe, and Iran.
 
+Now let's move on to the specific technologies found on Bluehost's platform and see what is happening with these technologies.
+
 
 
 

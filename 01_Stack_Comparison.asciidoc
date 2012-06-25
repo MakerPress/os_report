@@ -10,9 +10,12 @@ The next image provides a comparison of the technologies found on Bluehost and h
 
 image::images/OverallTechGrowthPlatform.jpg[scalewidth="90%"]
 
-
-
 === Trending Up:
+As you can see, Magento is trending upwards for the past couple of years as is WordPress and Drupal to a lessor extent. Again this is the number of Jobs that have been advertised.
+
+Here is the trend for Magento, normalized for the past few years.
+
+image::images/magento_trend.jpg[scalewidth="90%"]
 
 === Trending Level:
 
