@@ -22,11 +22,31 @@ image::images/OS_Plat_Share.jpg[scalewidth="90%"]
 
 So generally speaking, North America, Europe and especially Eastern Europe, are strongly Open Source when looking at whether a new hosted account selected Unix/Linux or Windows. South America has a couple of pockets of strong Open Source but has in general the weakest adoption of Unix or strongest adoption of Windows. Africa lacks a strong tendency either way but looks to be moving towards more Open Source than not. The countries with the largest installed Windows platform are: Macedonia, Jordan, Libya, Sierra Leone, Suriname, Gauadeloupe, and Iran.
 
-=== Trends:
+=== Technology Cross Adoption:
+Many of the technologies work well in suites or pairs. Like MySql and PHP for instance. Yet there are some surprises when you look at what users install and couple with other technologies. The following tables are going to provide a bunch of data that will provide you with the opportunity to speculate on what is happening. We will offer our analysis after the tables of data.
+
+==== Tables
+
+sql server users	|7,965
+[options="header"]
+|=======			
+|tool	|users	|sqlserv share	|tool share	|# Tools Users
+|+ wordpress	|1,048	|13%	|0%	|396,439
+|+ joomla	|324	|4%	|0%	|72,159
+|+ drupal	|0	|0%	|0%	|23,983
+|+ phpbb	|220	|3%	|1%	|28,947
+|+ magento	|4	|0%	|0%	|9,007
+|+ osComm	|178	|2%	|1%	|15,068
+|+ moodle	|2	|0%	|0%	|5,982
+|+ smf	|0	|0%	|0%	|5,223
+|+ coppermine	|0	|0%	|0%	|5,030
+|+ mediawiki	|10	|0%	|0%	|4,629
+|+ presta	|0	|0%	|0%	|3,134 
+|=======
 
 === Analysis
 
-== Geographic Trends
+== Language Trends
 
 === Trends:
 
