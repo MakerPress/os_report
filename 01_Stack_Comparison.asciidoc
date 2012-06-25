@@ -2,74 +2,44 @@
 
 == Overall Growth Of Open Source Technologies
 
+The growth of Open Source tools during the past several years is not an easy measure to obtain. The follow analysis will be a combination of Job data along with user data from Bluehost. 
+
 The following charts demonstrate the health of open source systems for US jobs being advertised for the same technologies found on the Bluehost platform. This data contains all online jobs advertised for the previous three months [2012-06].
 
 image::images/TechJobsMovement.jpg[scalewidth="90%"]
 
 The next image provides a comparison of the technologies found on Bluehost and how they are growing each year since 2009.  
 
-image::images/OverallTechGrowthPlatform.jpg[scalewidth="90%"]
-
-=== Trending Up:
-As you can see, Magento is trending upwards for the past couple of years as is WordPress and Drupal to a lessor extent. Again this is the number of Jobs that have been advertised.
-
-Here is the trend for Magento, normalized for the past few years.
-
-image::images/magento_trend.jpg[scalewidth="90%"]
-
-=== Trending Level:
-
-=== Trending Down:
+=== Trends:
 
 === Analysis
 
 == Geographic Trends
 
-=== Trending Up:
-
-=== Trending Level:
-
-=== Trending Down:
+=== Trends:
 
 === Analysis
 
 == Application Server/Web Server Category
 
-=== Trending Up:
-
-=== Trending Level:
-
-=== Trending Down:
+=== Trends:
 
 === Analysis
 
-
 == CMS Category
 
-=== Trending Up:
-
-=== Trending Level:
-
-=== Trending Down:
+=== Trends:
 
 === Analysis
 
 == Databases and Big Data Category
 
-=== Trending Up:
-
-=== Trending Level:
-
-=== Trending Down:
+=== Trends:
 
 === Analysis
 
 == Public data: Google search volume.
 
-=== Trending Up:
-
-=== Trending Level:
-
-=== Trending Down:
+=== Trends:
 
 === Analysis
