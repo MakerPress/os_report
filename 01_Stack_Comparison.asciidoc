@@ -27,7 +27,7 @@ image::images/OS_Plat_Share.jpg[scalewidth="90%"]
 So generally speaking, North America, Europe and especially Eastern Europe, are strongly Open Source when looking at whether a new hosted account selected Unix/Linux or Windows. South America has a couple of pockets of strong Open Source but has in general the weakest adoption of Unix or strongest adoption of Windows. Africa lacks a strong tendency either way but looks to be moving towards more Open Source than not. The countries with the largest installed Windows platform are: Macedonia, Jordan, Libya, Sierra Leone, Suriname, Gauadeloupe, and Iran.
 
 === Technology Cross Adoption:
-Many of the technologies work well in suites or pairs. Like MySql and PHP for instance. Yet there are some surprises when you look at what users install and couple with other technologies. The following tables are going to provide a bunch of data that will provide you with the opportunity to speculate on what is happening. We will offer our analysis after the tables of data.
+Many of the technologies work well in suites or pairs. For instance, MySql and PHP are a commonly paired technology tools. Yet there are some surprises when you look at what users install and couple with other technologies. The following tables are going to provide a bunch of data that will provide you with the opportunity to speculate on what is happening. We will offer our analysis after the tables of data.
 
 ==== Table Data
 
@@ -71,7 +71,100 @@ Not much of a market on Bluehost for SQLServer. The most common tool paired with
 ==== Analysis
 Not much of a market on Bluehost for SQLServer. The most common tool paired with SQLServer is Wordpress, yet Wordpress has nearly 400k users and only 1,000 Wordpress users also use SQLServer. Compare this with the data below for MySQL and you see a drastic difference.
 
+*Perl Users 181,143*
+[options="header"]
+|=======
+|tool	|users	|perl share	|tool share	
+|+ wordpress	|87,023	|48%	|22%	|396,439
+|+ joomla	|29,805	|16%	|41%	|72,159
+|+ drupal	|19,462	|11%	|81%	|23,983
+|+ phpbb	|14,800	|8%	|51%	|28,947
+|+ magento	|4,738	|3%	|53%	|9,007
+|+ osComm	|14,800	|8%	|98%	|15,068
+|+ moodle	|5,962	|3%	|100%	|5,982
+|+ smf	|3,795	|2%	|73%	|5,223
+|+ coppermine	|4,037	|2%	|80%	|5,030
+|+ mediawiki	|4,433	|2%	|96%	|4,629
+|+ presta	|1,599	|1%	|51%	|3,134
+|=======
 
+==== Analysis
+
+*PHP Users 736,243*
+[options="header"]
+|=======
+|tool	|users	|php share	|tool share	
+|+ wordpress	|385,990	|52%	|97%	|396,439
+|+ joomla	|69,822	|9%	|97%	|72,159
+|+ drupal	|23,983	|3%	|100%	|23,983
+|+ phpbb	|26,591	|4%	|92%	|28,947
+|+ magento	|8,979	|1%	|100%	|9,007
+|+ osComm	|13,109	|2%	|87%	|15,068
+|+ moodle	|5,977	|1%	|100%	|5,982
+|+ smf	|5,222	|1%	|100%	|5,223
+|+ coppermine	|5,030	|1%	|100%	|5,030
+|+ mediawiki	|4,576	|1%	|99%	|4,629
+|+ presta	|3,133	|0%	|100%	|3,134
+|=======
+
+==== Analysis
+
+*Ruby users 43,701*
+[options="header"]
+|=======
+|tool	|users	|ruby share	|tool share	
+|+ wordpress	|25,994	|59%	|7%	|396,439
+|+ joomla	|9,501	|22%	|13%	|72,159
+|+ drupal	|5,387	|12%	|22%	|23,983
+|+ phpbb	|4,510	|10%	|16%	|28,947
+|+ magento	|1,703	|4%	|19%	|9,007
+|+ osComm	|1,321	|3%	|9%	|15,068
+|+ moodle	|1,646	|4%	|28%	|5,982
+|+ smf	|1,824	|4%	|35%	|5,223
+|+ coppermine	|1,875	|4%	|37%	|5,030
+|+ mediawiki	|1,512	|3%	|33%	|4,629
+|+ presta	|585	|1%	|19%	|3,134
+|=======
+
+==== Analysis
+
+*Javascript Users 638,965*	
+[options="header"]
+|=======		
+|tool	|users	|js share	|tool share	
+|+ wordpress	|362,794	|57%	|92%	|396,439
+|+ joomla	|63,929	|10%	|89%	|72,159
+|+ drupal	|23,975	|4%	|100%	|23,983
+|+ phpbb	|23,525	|4%	|81%	|28,947
+|+ magento	|8,921	|1%	|99%	|9,007
+|+ osComm	|11,334	|2%	|75%	|15,068
+|+ moodle	|5,971	|1%	|100%	|5,982
+|+ smf	|5,221	|1%	|100%	|5,223
+|+ coppermine	|5,026	|1%	|100%	|5,030
+|+ mediawiki	|4,508	|1%	|97%	|4,629
+|+ presta	|3,126	|0%	|100%	|3,134
+|=======
+
+==== Analysis
+
+*ASP Users 58,694*
+[options="header"]
+|=======
+|tool	|users	|asp share	|tool share	
+|+ wordpress	|29,097	|50%	|7%	|396,439
+|+ joomla	|10,801	|18%	|15%	|72,159
+|+ drupal	|10,229	|17%	|43%	|23,983
+|+ phpbb	|4,682	|8%	|16%	|28,947
+|+ magento	|2,283	|4%	|25%	|9,007
+|+ osComm	|2,966	|5%	|20%	|15,068
+|+ moodle	|1,629	|3%	|27%	|5,982
+|+ smf	|1,290	|2%	|25%	|5,223
+|+ coppermine	|1,196	|2%	|24%	|5,030
+|+ mediawiki	|1,228	|2%	|27%	|4,629
+|+ presta	|855	|1%	|27%	|3,134
+|=======
+
+==== Analysis
 
 == Language Trends
 
