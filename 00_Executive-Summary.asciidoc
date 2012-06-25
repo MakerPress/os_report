@@ -141,7 +141,13 @@ The most perplexing chart to make sense from is the average number of domains th
 
 image::images/average_domains_user.jpg[scalewidth="90%"] 
 
-The revenue size of these hosted sites varies as is evident in the chart below.
+The revenue size of these hosted sites varies as is evident in the chart below.  The responses below are directly from the Hosted users that filled out survey.  There were more than 2000 surveys filled out, so there is a fairly good sample size to extrapolate to general trends.
+
+image::images/RevenueSize.jpg[scalewidth="90%"]
+
+While the users were filling out their survey, the Browser dimension was captured automatically.  The following chart is a bit surprising in that it is heavily dominated by FireFox.
+
+image::images/Browser.jpg[scalewidth="90%"]
 
 === The Stack profile/dimension
 
