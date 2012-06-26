@@ -179,25 +179,13 @@ image::images/languageChoice.jpg[scalewidth="90%"]
 In addition to choice of Language, the chart below shows a logarithmic view of the programming languages and their growth for the years between 2001-01 and 2012-06.  The most notable spike was in 2004 and Python's sudden burst up the scale. Javascript had a similar spike around the same time, but start at a higher level and did not spike as significantly. Python grew by a magnitude of 10 during the first few months and Javascript kept doubling its size every couple of months. This could be to Bluehost acquiring smaller hosting companies that had particular language orientations. It does not look like organic growth, but rather engineered growth.
 
 image::images/languageGrowth.jpg[scalewidth="90%"]
- 
 
-=== Trends:
-
-=== Analysis
-
-== Application Server/Web Server Category
 
 === Trends:
 
 === Analysis
 
 == CMS Category
-
-=== Trends:
-
-=== Analysis
-
-== Databases and Big Data Category
 
 === Trends:
 
