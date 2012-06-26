@@ -180,6 +180,8 @@ In addition to choice of Language, the chart below shows a logarithmic view of t
 
 image::images/languageGrowth.jpg[scalewidth="90%"]
 
+.This infographic needs a title
+image::images/infographic1.jpg[scaledwidth="90%"]
 
 === Trends:
 
