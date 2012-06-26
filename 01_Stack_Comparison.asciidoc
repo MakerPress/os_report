@@ -69,7 +69,7 @@ Not much of a market on Bluehost for SQLServer. The most common tool paired with
 |=======
 
 ==== Analysis
-MySql is a dominant tool on Bluehost. MySql is also dominant in Job data and Google trends.
+MySql is a dominant tool on Bluehost. MySql is also dominant in Job data and Google trends. The combination of MySql and Wordpress is installed by more than two-thirds of all Bluehost users. Nearly 98% of all users have MySql installed with some other tool from the available options at Bluehost.
 
 
 *Perl Users 181,143*
@@ -90,6 +90,8 @@ MySql is a dominant tool on Bluehost. MySql is also dominant in Job data and Goo
 |=======
 
 ==== Analysis
+Perl has a pretty even distribution of tools that are used in conjunction with the language. After Wordpress, the numbers drop but are fairly well distributed among the remaining 10 tools. Perl is the third largest language in this data set, after PHP and Javascript.
+
 
 *PHP Users 736,243*
 [options="header"]
@@ -109,6 +111,7 @@ MySql is a dominant tool on Bluehost. MySql is also dominant in Job data and Goo
 |=======
 
 ==== Analysis
+PHP is the largest language and tool on Bluehost. Wordpress is the most often paired tool with PHP. The drop off from Wordpress to the remaining 10 tools is quite steep and the second most coupled tool is Joomla at only 9% of the PHP market.  76% of PHP users have MySql installed and 95% of MySql users have PHP in use on Bluehost systems.
 
 *Ruby users 43,701*
 [options="header"]
@@ -128,7 +131,7 @@ MySql is a dominant tool on Bluehost. MySql is also dominant in Job data and Goo
 |=======
 
 ==== Analysis
-
+Ruby is the smallest language on Bluehost. It follows the same distribution trend as all the other tools. A large percent of Wordpress followed by a drop off for the next 10 tools.
 
 *Javascript Users 638,965*	
 [options="header"]
@@ -148,6 +151,7 @@ MySql is a dominant tool on Bluehost. MySql is also dominant in Job data and Goo
 |=======
 
 ==== Analysis
+After PHP, this is second largest language in use on Bluehost. And the trend is that Javascript is growing in importance. This growth could be because of HTML5 composition of Javascript, CSS and HTML. Roughly 92% of Javascript users also use PHP and 80% of PHP users use Javascript. 81% of Javascript users also have MySql databases and 88% of the MySql database developers use Javascript.
 
 *ASP Users 58,694*
 [options="header"]
@@ -167,6 +171,7 @@ MySql is a dominant tool on Bluehost. MySql is also dominant in Job data and Goo
 |=======
 
 ==== Analysis
+After PHP, this is second largest language in use on Bluehost. And the trend is that Javascript is growing in importance. This growth could be because of HTML5 composition of Javascript, CSS and HTML. Roughly 92% of Javascript users also use PHP and 80% of PHP users use Javascript. 81% of Javascript users also have MySql databases and 88% of the MySql database developers use Javascript.
 
 == Language Trends
 
