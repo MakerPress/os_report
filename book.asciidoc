@@ -1,7 +1,3 @@
 include::00_Executive-Summary.asciidoc[]
 
 include::01_Stack_Comparison.asciidoc[]
-
-include::InfoGraphic1.asciidoc[]
-
-include::InfoGraphic2.asciidoc[]
