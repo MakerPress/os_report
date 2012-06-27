@@ -148,3 +148,7 @@ image::images/RevenueSize.jpg[scalewidth="90%"]
 While the users were filling out their survey, the Browser dimension was captured automatically.  The following chart is a bit surprising in that it is heavily dominated by FireFox.
 
 image::images/Browser.jpg[scalewidth="90%"]
+
+.This infographic needs a title
+image::images/infographic1.jpg[]
+
