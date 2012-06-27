@@ -125,6 +125,16 @@ So we know that the user base is fairly sophisticated, or roughly a combined 69%
 
 image::images/who_built.jpg[scalewidth="90%"]
 
+==== Commerce is Important to Small Businesses
+
+need to write this section.
+
+this shows 
+
+image::images/Commerce.jpg[scalewidth="90%"] 
+
+Percent of respondents:  53 paypal, 12% Check or Money order via mail, CC Online = Credit Card online, CC Phone = Credit card usage via the phone.
+
 ==== Other Customer Dimensions
 
 Need to write. Backend = linux
