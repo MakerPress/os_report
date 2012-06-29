@@ -162,6 +162,6 @@ While the users were filling out their survey, the Browser dimension was capture
 
 image::images/Browser.jpg[scalewidth="90%"]
 
-.This infographic needs a title
+.
 image::images/infographic1.jpg[]
 
