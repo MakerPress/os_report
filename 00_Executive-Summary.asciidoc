@@ -133,7 +133,7 @@ this shows
 
 image::images/Commerce.jpg[scalewidth="90%"] 
 
-The typical open source website used the methods of payment shown above.  Nearly 53% use PayPal to generate revenue, 12% Check or Money order via mail, CC Online = Credit Card online, CC Phone = Credit card usage via the phone.
+The typical open source website used the methods of payment shown above.  Nearly 53% use PayPal to generate revenue, and 12% gave their paying customers the option of using a Check or Money order that needed to be sent via traditional postal mail.  CC Online = Credit Card online, CC Phone = Credit card usage via the phone.
 
 ==== Other Customer Dimensions
 
