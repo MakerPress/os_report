@@ -133,7 +133,7 @@ this shows
 
 image::images/Commerce.jpg[scalewidth="90%"] 
 
-Percent of respondents:  53 paypal, 12% Check or Money order via mail, CC Online = Credit Card online, CC Phone = Credit card usage via the phone.
+The typical open source website used the methods of payment shown above.  Nearly 53% use PayPal to generate revenue, 12% Check or Money order via mail, CC Online = Credit Card online, CC Phone = Credit card usage via the phone.
 
 ==== Other Customer Dimensions
 
@@ -162,6 +162,6 @@ While the users were filling out their survey, the Browser dimension was capture
 
 image::images/Browser.jpg[scalewidth="90%"]
 
-.This infographic needs a title
+.
 image::images/infographic1.jpg[]
 
