@@ -172,7 +172,7 @@ After PHP, this is second largest language in use on Bluehost. And the trend is 
 After PHP, this is second largest language in use on Bluehost. And the trend is that Javascript is growing in importance. This growth could be because of HTML5 composition of Javascript, CSS and HTML. Roughly 92% of Javascript users also use PHP and 80% of PHP users use Javascript. 81% of Javascript users also have MySql databases and 88% of the MySql database developers use Javascript.
 
 .
-image::images/infographic2.jpg[]
+image::images/infographic_02.jpg[]
 
 == Language Trends
 The top level trends for the which programming languages are contributing to the small business growth referenced in this work, are found iin the chart immediately below. As you can see, PHP leads JavaScript by roughly 6% points. The two combined account for roughly 80% of the language activity on Bluehost.
