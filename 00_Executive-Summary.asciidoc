@@ -116,13 +116,13 @@ image::images/WhenBizStarts.jpg[scalewidth="90%"]
 
 There are a few dimensions about the typical customer that will provide some insight into how they are doing as a business. Based on our Bluehost domain analysis, we see that the average number of domains per plan is around 3 and stays active roughly 35 months at an average rate of $7.49 per month. More than 77% of the hosting plans have a database installed and most users have roughly 4 instances of their databases installed.  This indicates that there is some sort of dynamic exchange likely happening on these sites whether it is a guest book, product list or some other dynamically served/captured content. There are about two and a quarter mailboxes on average per account with more than two million overall email accounts. Word Press dominates in the Content Management category with a 55% share, and the next closest is Joomla at 9%.
 
-You can see that the average hosting fee has decreased more than $1 on average in the previous two years.  This is both a function of economies of scale that Bluehost has achieved and can now offer slightly better pricing and being aware of the economic tough times that have prevailed most recently. This pricing decrease may also be contributing to the growth of new users being added in the last couple of years as shown in the chart below. Although there is a slight downturn in new users being added in 2012, the overall trend for new users is going up.
-
-image::images/average_month_fee.jpg[scalewidth="90%"] 
-
 The most perplexing chart to make sense from is the average number of domains that each user obtains.  The chart immediately below shows an odd distribution where there were steady increases each year up to 2008 and then steady decreases from 2009 until 2012. 
 
 image::images/average_domains_user.jpg[scalewidth="90%"] 
+
+You can see that the average hosting fee has decreased more than $1 on average in the previous two years.  This is both a function of economies of scale that Bluehost has achieved and can now offer slightly better pricing and being aware of the economic tough times that have prevailed most recently. This pricing decrease may also be contributing to the growth of new users being added in the last couple of years as shown in the chart below. Although there is a slight downturn in new users being added in 2012, the overall trend for new users is going up.
+
+image::images/average_month_fee.jpg[scalewidth="90%"] 
 
 ==== Sophistication level of the user base
 
@@ -134,14 +134,15 @@ So we know that the user base is fairly sophisticated, or roughly a combined 69%
 
 image::images/who_built.jpg[scalewidth="90%"]
 
+To get a little more perspective on the average website owners, we looked at the survey results to the question of "What role does your website play in your business or organization?" and plotted the answers on the chart below. The number one response at roughly 23% of the respondents was to provided more information to their prospective or existing customers. Roughly 20% built a website to help build their brand and add to their credibility as a business. The third most common reason to have a website was to generate leads for new members or customers.
 
 image::images/ReasonforSite.jpg[scalewidth="90%"]
 
-In addition to revenue size, we can better identify the the nature of the SMBs by looking at whey they say they do with a website. There are roughly 12% of the respondents that use their Site with a online store to generate revenue. An additional 2% representing non-profits have online donations or e-commerce.
+In addition to reason why someone has a web property, we can better identify the the nature of the SMBs by looking at what they indicate they do with their website. There are roughly 12% of the respondents that use their Site with a online store to generate revenue. An additional 2% representing non-profits have online donations or e-commerce. But nearly 48% have a site without an online store. That does not mean they don't make money from Google Ad Words, Facebook ads, or some other mechanism that generates revenue. We are going to look closer at the role Google Ad words may have on SMBs.
 
 image::images/purpose.jpg[scalewidth="90%"]
 
-The revenue size of these hosted sites varies as is evident in the chart below.  The responses below are directly from the Hosted users that filled out survey.  There were close to 4000 surveys filled out, so there is a fairly good sample size to extrapolate to general trends.
+The revenue size of these hosted sites varies as is evident in the chart below.  The responses below are directly from the Hosted users that filled out survey.  There were close to 4000 surveys filled out, so there is a fairly good sample size to extrapolate to general trends. And if you look closely you will see that roughly 4% of the respondents indicate that they are making annual revenues of more than $1 million USD. So I think our data set truly does reflect the SMB as defined above.
 
 image::images/RevenueSize.jpg[scalewidth="90%"]
 
