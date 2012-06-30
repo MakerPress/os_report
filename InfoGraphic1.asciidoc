@@ -1,3 +1,3 @@
 :bookseries: radar
 
-image::images/infographic1.jpg[scaledwidth="90%"]
+image::images/infographic_01.jpg[scaledwidth="90%"]
