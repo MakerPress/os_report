@@ -148,7 +148,7 @@ image::images/RevenueSize.jpg[scalewidth="90%"]
 
 ==== Commerce is Important to SMBs
 
-The typical customer which represents roughly 48% of the user base, is using these hosted services for Business without a shopping cart. This is mostly for information purposes rather than commerce. The next most frequent purpose for having a hosted site, is for personal use which represents about 22% of the user base. This is the individual who just wants a presence on the web for a variety of reasons. The third most frequent purpose for hosted services is a Business with an online store which is about 12% of the user base. This is the SMB who is selling and making e-commerce transactions. 
+The typical customer which represents roughly 48% of the user base, is using these hosted services for Business without a shopping cart. This is mostly for information purposes rather than commerce. The next most frequent purpose for having a hosted site, is for personal use which represents about 22% of the user base. This is the individual who just wants a presence on the web for a variety of reasons. The third most frequent purpose for hosted services is a Business with an online store which is about 12% of the user base. This is the SMB who is selling and making e-commerce transactions.
 
 image::images/Commerce.jpg[scalewidth="90%"] 
 
