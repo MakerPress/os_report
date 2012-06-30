@@ -164,6 +164,6 @@ image::images/survey_Platform.jpg[scalewidth="90%"]
 
 While the users were filling out their survey, the Browser dimension was captured automatically. The following chart is a bit surprising in that it is heavily dominated by FireFox.
 
-.
+. Needs a title
 image::images/infographic_01.jpg[]
 
