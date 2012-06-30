@@ -108,12 +108,6 @@ What is interesting to note, is that all of the charts seem to have a similar tr
  
 To understand a little about the data we are exploring, you should know that as a Hosting Service, Bluehost offers more than 94 different software and services that users can select from when signing up for a hosting plan. There are 26 categories that separate the software and services. These are Backups, Blogs, Business Tools, Classifieds, Client Management, Content Management, eCommerce, Education, Forms and Surveys, Forums, Guestbooks, Help Center, Live Chat, Mailing Lists, Photo Galleries, Product Sourcing, Project Management, RSS, Security, Social Networking, Statistics, Utilities, Webmail, Website Builders, Website Design, and Wiki.
 
-==== Commerce is Important to SMBs
-
-The typical customer which represents roughly 48% of the user base, is using these hosted services for Business without a shopping cart. This is mostly for information purposes rather than commerce. The next most frequent purpose for having a hosted site, is for personal use which represents about 22% of the user base. This is the individual who just wants a presence on the web for a variety of reasons.  The third most frequent purpose for hosted services is a Business with an online store which is about 12% of the user base. This is the SMB who is selling and making e-commerce transactions. 
-
-image::images/Commerce.jpg[scalewidth="90%"] 
-
 === The Customer profile/dimension
 
 Let's first look as some dimensions about the typical Bluehost user to see if they match our perceptions of an Open Source user/developer. Looking at the year in which a SMB got started provides an interesting glimpse of the lasting power of SMBs. Note that there were a few SMBs established before 1950 which speaks to long-lived entities that see the value of using the Web in their business. The peak for when SMBs were established was in 2010 and the three year period of 2009 through 2011 was the most active for startups. 
@@ -121,6 +115,14 @@ Let's first look as some dimensions about the typical Bluehost user to see if th
 image::images/WhenBizStarts.jpg[scalewidth="90%"]
 
 There are a few dimensions about the typical customer that will provide some insight into how they are doing as a business. Based on our Bluehost domain analysis, we see that the average number of domains per plan is around 3 and stays active roughly 35 months at an average rate of $7.49 per month. More than 77% of the hosting plans have a database installed and most users have roughly 4 instances of their databases installed.  This indicates that there is some sort of dynamic exchange likely happening on these sites whether it is a guest book, product list or some other dynamically served/captured content. There are about two and a quarter mailboxes on average per account with more than two million overall email accounts. Word Press dominates in the Content Management category with a 55% share, and the next closest is Joomla at 9%.
+
+You can see that the average hosting fee has decreased more than $1 on average in the previous two years.  This is both a function of economies of scale that Bluehost has achieved and can now offer slightly better pricing and being aware of the economic tough times that have prevailed most recently. This pricing decrease may also be contributing to the growth of new users being added in the last couple of years as shown in the chart below. Although there is a slight downturn in new users being added in 2012, the overall trend for new users is going up.
+
+image::images/average_month_fee.jpg[scalewidth="90%"] 
+
+The most perplexing chart to make sense from is the average number of domains that each user obtains.  The chart immediately below shows an odd distribution where there were steady increases each year up to 2008 and then steady decreases from 2009 until 2012. 
+
+image::images/average_domains_user.jpg[scalewidth="90%"] 
 
 ==== Sophistication level of the user base
 
@@ -132,35 +134,36 @@ So we know that the user base is fairly sophisticated, or roughly a combined 69%
 
 image::images/who_built.jpg[scalewidth="90%"]
 
+
+image::images/ReasonforSite.jpg[scalewidth="90%"]
+
+In addition to revenue size, we can better identify the the nature of the SMBs by looking at whey they say they do with a website. There are roughly 12% of the respondents that use their Site with a online store to generate revenue. An additional 2% representing non-profits have online donations or e-commerce.
+
+image::images/purpose.jpg[scalewidth="90%"]
+
+The revenue size of these hosted sites varies as is evident in the chart below.  The responses below are directly from the Hosted users that filled out survey.  There were close to 4000 surveys filled out, so there is a fairly good sample size to extrapolate to general trends.
+
+image::images/RevenueSize.jpg[scalewidth="90%"]
+
+
+==== Commerce is Important to SMBs
+
+The typical customer which represents roughly 48% of the user base, is using these hosted services for Business without a shopping cart. This is mostly for information purposes rather than commerce. The next most frequent purpose for having a hosted site, is for personal use which represents about 22% of the user base. This is the individual who just wants a presence on the web for a variety of reasons.  The third most frequent purpose for hosted services is a Business with an online store which is about 12% of the user base. This is the SMB who is selling and making e-commerce transactions. 
+
+image::images/Commerce.jpg[scalewidth="90%"] 
+
+SMBs are seeing a similar trend happening in the way they operate as large enterprises are experiencing. Employees are using their own devices, tools, and assets in their jobs. 82% of the our survey respondents use a typical browser found on a Desktop environment, and 18% used a mobile browser. But part of the consumerization is that Windows was the dominant platform, yet Firefox and Chrome were the top two browsers. This is not a typical enterprise 'user install' which would be Windows and IE or Mac and Safari. Our data here shows that the backend enterprise stack is Linux and a host of tools, but the front end is dominated by Macs, iPads and mobile devices. This is the trend that enterprise IT is seeing as well.
+
 ==== Other Customer Dimensions
 
 ==== Consumer IT
-
-SMBs are seeing a similar trend happening in the way they operate as large enterprises are experiencing. Employees are using their own devices, tools, and assets in their jobs. 82% of the our survey respondents use a typical browser found on a Desktop environment, and 18% used a mobile browser. But part of the consumerization is that Windows was the dominant platform, yet Firefox and Chrome were the top two browsers. This is not a typical enterprise 'user install' which would be Windows and IE or Mac and Safari. Our data here shows that the backend enterprise stack is Linux and a host of tools, but the front end is dominated by Macs, iPads and mobile devices. This is the trend that enterprise IT is seeing as well.
 
 image::images/survey_Browser.jpg[scalewidth="90%"]
 
 image::images/survey_Platform.jpg[scalewidth="90%"]
 
-
-
-image::images/purpose.jpg[scalewidth="90%"]
-
-You can see that the average hosting fee has decreased more than $1 on average in the previous two years.  This is both a function of economies of scale that Bluehost has achieved and can now offer slightly better pricing and being aware of the economic tough times that have prevailed most recently. This pricing decrease may also be contributing to the growth of new users being added in the last couple of years as shown in the chart below. Although there is a slight downturn in new users being added in 2012, the overall trend for new users is going up.
-
-image::images/average_month_fee.jpg[scalewidth="90%"] 
-
-The most perplexing chart to make sense from is the average number of domains that each user obtains.  The chart immediately below shows an odd distribution where there were steady increases each year up to 2008 and then steady decreases from 2009 until 2012. 
-
-image::images/average_domains_user.jpg[scalewidth="90%"] 
-
-The revenue size of these hosted sites varies as is evident in the chart below.  The responses below are directly from the Hosted users that filled out survey.  There were more than 2000 surveys filled out, so there is a fairly good sample size to extrapolate to general trends.
-
-image::images/RevenueSize.jpg[scalewidth="90%"]
-
 While the users were filling out their survey, the Browser dimension was captured automatically.  The following chart is a bit surprising in that it is heavily dominated by FireFox.
 
-image::images/Browser.jpg[scalewidth="90%"]
 
 .
 image::images/infographic1.jpg[]
