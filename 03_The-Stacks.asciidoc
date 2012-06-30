@@ -1,3 +1,6 @@
+:bookseries: radar
+
+== The Stacks - Customers and Technology
 
 
 === Size and composition of the data sets
