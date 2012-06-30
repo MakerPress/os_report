@@ -8,6 +8,24 @@
 
 ==== Low Cost Hosting Savings
 
+. open source has kept comm'l sw prices low, savings would be more extreme if no competition
+. consider look at cms mkt dominated by open source, need a platform share source
+
 ==== Example using Google Adwords to show impact
 
+
 <not sure where to put: relate economic impact and ad impact to Bluehost customer base>
+	
+Working area:
+
+savings formula:
+%ecommerce on bh * 7.5
+%cms on bh * 2
+%else on bh * 1.5
+
+Notes:
+Per Jared, skip domain test, use 80% of joomla and drupal as business users, use 60% of customers with no tool and a domain, if not pulled by other queries.
+- use a step wise process to load bus users in a new table and label them: ecom, cms, email. (Need % for cost saving analysis)
+
+http://blogs.parallels.com/serviceprovider/month/may-2012
+Rough estimate of SMBs with no web site: average(40%, 54%, 30%) = 41%, or w/out UK data: average(40%, 30%) = 35%
