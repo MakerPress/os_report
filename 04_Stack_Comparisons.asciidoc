@@ -1,0 +1,218 @@
+:bookseries: radar
+
+== Overall Growth Of Open Source Technologies
+
+The growth of Open Source tools during the past several years is not an easy measure to obtain. The follow analysis will be a combination of Job data along with user data from Bluehost. 
+
+The following charts demonstrate the health of open source systems for US jobs being advertised for the same technologies found on the Bluehost platform. This data contains all online jobs advertised for the previous three months [2012-06].
+
+image::images/jobs_platform.jpg[scalewidth="90%"]
+
+Contrast the image above with the one immediately below.  The one below is based on the number of individuals electing to use the tools that are offered to them with a Bluehost account. The most noticeable difference is the large Job market for SqlServer dwarfs the seemingly non-consequential usage data on SqlServer from Bluehost. And Wordpress is the largest CMS from a Jobs and Hosted Tool perspective, but is is a magnitude of roughly five times as significant on Bluehost. Wordpress on Bluehost has more users than Perl, Python, and Ruby combined.
+
+image::images/users_technologies.jpg[scalewidth="90%"]
+
+=== The Stack profile/dimension
+
+In addition to the customer profile there is a technology stack profile. The term stack here means the layers of technology you put on top of a base of Unix/Linux or Windows. For example, someone may have a stack of Linux with MySql managing a database, and PHP to insert or retrieve data from the database, and Wordpress on top for having discussions. This is a simple and somewhat sloppy stack, because you can do more with each part that I touched on.  But for the purposes of illustrating a stack, it should suffice..
+
+Now that we have a perspective and a basic understanding of customer and stack profiles, let's move into the details of each of the technologies.
+
+==== The preferred platform
+
+Next let's take a look at what the data reveals about the typical open source customer. Between 2001 and 2012 the market for hosting services offered by Bluehost shows the following geographical distribution. I think it is safe to say this data is strongly Open Source-oriented when you look at the hosting platform dimension. By platform we mean Operating system selected to run a website. The chart below shows what percentage Linux has in countries around the world. Again, remember this is data from Bluehost. Any country with White as a color is that way because there was not enough data to assign market share. Interesting to note that middle of Africa has a large swath of white indicating not enough data to assign market share. Maybe a good opportunity to help this region of the world get their small businesses economy up and running with hosted sites.
+
+image::images/hosted_linux_unix.jpg[scalewidth="90%"] 
+
+So generally speaking, North America, Europe and especially Eastern Europe, are strongly Open Source when looking at whether a new hosted account selected Unix/Linux or Windows. South America has a couple of pockets of strong Open Source but has in general the weakest adoption of Unix or strongest adoption of Windows. Africa lacks a strong tendency either way but looks to be moving towards more Open Source than not. The countries with the largest installed Windows platform are: Macedonia, Jordan, Libya, Sierra Leone, Suriname, Gauadeloupe, and Iran.
+
+=== Technology Cross Adoption:
+Many of the technologies work well in suites or pairs. For instance, MySql and PHP are a commonly paired technology tools. Yet there are some surprises when you look at what users install and couple with other technologies. The following tables are going to provide a bunch of data that will provide you with the opportunity to speculate on what is happening. We will offer our analysis after the tables of data.
+
+==== Table Data
+
+===== SQLServer Users 7,965
+[options="header"]
+|=======			
+|tool	|users	|sqlserv share	|tool share	|# Tools Users
+|+ wordpress	|1,048	|13%	|0%	|396,439
+|+ joomla	|324	|4%	|0%	|72,159
+|+ drupal	|0	|0%	|0%	|23,983
+|+ phpbb	|220	|3%	|1%	|28,947
+|+ magento	|4	|0%	|0%	|9,007
+|+ osComm	|178	|2%	|1%	|15,068
+|+ moodle	|2	|0%	|0%	|5,982
+|+ smf	|0	|0%	|0%	|5,223
+|+ coppermine	|0	|0%	|0%	|5,030
+|+ mediawiki	|10	|0%	|0%	|4,629
+|+ presta	|0	|0%	|0%	|3,134 
+|=======
+
+===== Analysis
+Not much of a market on Bluehost for SQLServer. The most common tool paired with SQLServer is Wordpress, yet Wordpress has nearly 400k users and only 1,000 Wordpress users also use SQLServer. Compare this with the data below for MySQL and you see a drastic difference.
+
+===== MySql Users 593,218
+[options="header"]
+|=======
+|tool	|users	|mysql share	|tool share	|# Tools Users
+|+ wordpress	|395,935	|67%	|100%	|396,439
+|+ joomla	|72,040	|12%	|100%	|2,159
+|+ drupal	|23,902	|4%	|100%	|23,983
+|+ phpbb	|28,822	|5%	|100%	|28,947
+|+ magento	|8,994	|2%	|100%	|9,007
+|+ osComm	|15,009	|3%	|100%	|15,068
+|+ moodle	|5,970	|1%	|100%	|5,982
+|+ smf	|5,189	|1%	|99%	|5,223
+|+ coppermine	|5,009	|1%	|100%	|5,030
+|+ mediawiki	|4,618	|1%	|100%	|4,629
+|+ presta	|3,130	|1%	|100%	|3,134
+|=======
+
+===== Analysis
+MySql is a dominant tool on Bluehost. MySql is also dominant in Job data and Google trends. The combination of MySql and Wordpress is installed by more than two-thirds of all Bluehost users. Nearly 98% of all users have MySql installed with some other tool from the available options at Bluehost.
+
+===== Perl Users 181,143
+[options="header"]
+|=======
+|tool	|users	|perl share	|tool share|# Tools Users	
+|+ wordpress	|87,023	|48%	|22%	|396,439
+|+ joomla	|29,805	|16%	|41%	|72,159
+|+ drupal	|19,462	|11%	|81%	|23,983
+|+ phpbb	|14,800	|8%	|51%	|28,947
+|+ magento	|4,738	|3%	|53%	|9,007
+|+ osComm	|14,800	|8%	|98%	|15,068
+|+ moodle	|5,962	|3%	|100%	|5,982
+|+ smf	|3,795	|2%	|73%	|5,223
+|+ coppermine	|4,037	|2%	|80%	|5,030
+|+ mediawiki	|4,433	|2%	|96%	|4,629
+|+ presta	|1,599	|1%	|51%	|3,134
+|=======
+
+===== Analysis
+Perl has a pretty even distribution of tools that are used in conjunction with the language. After Wordpress, the numbers drop but are fairly well distributed among the remaining 10 tools. Perl is the third largest language in this data set, after PHP and Javascript.
+
+===== PHP Users 736,243
+[options="header"]
+|=======
+|tool	|users	|php share	|tool share|# Tools Users	
+|+ wordpress	|385,990	|52%	|97%	|396,439
+|+ joomla	|69,822	|9%	|97%	|72,159
+|+ drupal	|23,983	|3%	|100%	|23,983
+|+ phpbb	|26,591	|4%	|92%	|28,947
+|+ magento	|8,979	|1%	|100%	|9,007
+|+ osComm	|13,109	|2%	|87%	|15,068
+|+ moodle	|5,977	|1%	|100%	|5,982
+|+ smf	|5,222	|1%	|100%	|5,223
+|+ coppermine	|5,030	|1%	|100%	|5,030
+|+ mediawiki	|4,576	|1%	|99%	|4,629
+|+ presta	|3,133	|0%	|100%	|3,134
+|=======
+
+===== Analysis
+PHP is the largest language and tool on Bluehost. Wordpress is the most often paired tool with PHP. The drop off from Wordpress to the remaining 10 tools is quite steep and the second most coupled tool is Joomla at only 9% of the PHP market.  76% of PHP users have MySql installed and 95% of MySql users have PHP in use on Bluehost systems.
+
+===== Ruby users 43,701
+[options="header"]
+|=======
+|tool	|users	|ruby share	|tool share|# Tools Users	
+|+ wordpress	|25,994	|59%	|7%	|396,439
+|+ joomla	|9,501	|22%	|13%	|72,159
+|+ drupal	|5,387	|12%	|22%	|23,983
+|+ phpbb	|4,510	|10%	|16%	|28,947
+|+ magento	|1,703	|4%	|19%	|9,007
+|+ osComm	|1,321	|3%	|9%	|15,068
+|+ moodle	|1,646	|4%	|28%	|5,982
+|+ smf	|1,824	|4%	|35%	|5,223
+|+ coppermine	|1,875	|4%	|37%	|5,030
+|+ mediawiki	|1,512	|3%	|33%	|4,629
+|+ presta	|585	|1%	|19%	|3,134
+|=======
+
+===== Analysis
+Ruby is the smallest language on Bluehost. It follows the same distribution trend as all the other tools. A large percent of Wordpress followed by a drop off for the next 10 tools.
+
+===== Javascript Users 638,965	
+[options="header"]
+|=======		
+|tool	|users	|js share	|tool share|# Tools Users	
+|+ wordpress	|362,794	|57%	|92%	|396,439
+|+ joomla	|63,929	|10%	|89%	|72,159
+|+ drupal	|23,975	|4%	|100%	|23,983
+|+ phpbb	|23,525	|4%	|81%	|28,947
+|+ magento	|8,921	|1%	|99%	|9,007
+|+ osComm	|11,334	|2%	|75%	|15,068
+|+ moodle	|5,971	|1%	|100%	|5,982
+|+ smf	|5,221	|1%	|100%	|5,223
+|+ coppermine	|5,026	|1%	|100%	|5,030
+|+ mediawiki	|4,508	|1%	|97%	|4,629
+|+ presta	|3,126	|0%	|100%	|3,134
+|=======
+
+===== Analysis
+After PHP, this is second largest language in use on Bluehost. And the trend is that Javascript is growing in importance. This growth could be because of HTML5 composition of Javascript, CSS and HTML. Roughly 92% of Javascript users also use PHP and 80% of PHP users use Javascript. 81% of Javascript users also have MySql databases and 88% of the MySql database developers use Javascript.
+
+===== ASP Users 58,694
+[options="header"]
+|=======
+|tool	|users	|asp share	|tool share|# Tools Users	
+|+ wordpress	|29,097	|50%	|7%	|396,439
+|+ joomla	|10,801	|18%	|15%	|72,159
+|+ drupal	|10,229	|17%	|43%	|23,983
+|+ phpbb	|4,682	|8%	|16%	|28,947
+|+ magento	|2,283	|4%	|25%	|9,007
+|+ osComm	|2,966	|5%	|20%	|15,068
+|+ moodle	|1,629	|3%	|27%	|5,982
+|+ smf	|1,290	|2%	|25%	|5,223
+|+ coppermine	|1,196	|2%	|24%	|5,030
+|+ mediawiki	|1,228	|2%	|27%	|4,629
+|+ presta	|855	|1%	|27%	|3,134
+|=======
+
+===== Analysis
+After PHP, this is second largest language in use on Bluehost. And the trend is that Javascript is growing in importance. This growth could be because of HTML5 composition of Javascript, CSS and HTML. Roughly 92% of Javascript users also use PHP and 80% of PHP users use Javascript. 81% of Javascript users also have MySql databases and 88% of the MySql database developers use Javascript.
+
+== Language Trends
+The top level trends for the which programming languages are contributing to the small business growth referenced in this work, are found iin the chart immediately below. As you can see, PHP leads JavaScript by roughly 6% points. The two combined account for roughly 80% of the language activity on Bluehost.
+
+image::images/languageChoice.jpg[scalewidth="90%"]
+
+In addition to choice of Language, the chart below shows a logarithmic view of the programming languages and their growth for the years between 2001-01 and 2012-06.  The most notable spike was in 2004 and Python's sudden burst up the scale. Javascript had a similar spike around the same time, but start at a higher level and did not spike as significantly. Python grew by a magnitude of 10 during the first few months and Javascript kept doubling its size every couple of months. This could be to Bluehost acquiring smaller hosting companies that had particular language orientations. It does not look like organic growth, but rather engineered growth.
+
+image::images/languageGrowth.jpg[scalewidth="90%"]
+
+=== Trends:
+
+image::images/javascript.jpg[scalewidth="90%"]
+image::images/perl.jpg[scalewidth="90%"]
+image::images/php.jpg[scalewidth="90%"]
+image::images/python.jpg[scalewidth="90%"]
+image::images/ruby.jpg[scalewidth="90%"]
+image::images/asp.jpg[scalewidth="90%"]
+image::images/csharp.jpg[scalewidth="90%"]
+
+=== Analysis
+
+== CMS Category
+
+image::images/wordpress.jpg[scalewidth="90%"]
+image::images/joomla.jpg[scalewidth="90%"]
+image::images/drupal.jpg[scalewidth="90%"]
+image::images/magento.jpg[scalewidth="90%"]
+
+=== Trends:
+
+
+
+
+=== Analysis
+
+== Public data: Google search volume.
+
+HTTP ARchive
+
+=== Trends:
+
+=== Analysis
+
+.Needs a sub title
+image::images/infographic_02.jpg[scalewidth="90%"]
