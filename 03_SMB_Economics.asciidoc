@@ -1,0 +1,13 @@
+:bookseries: radar
+
+== Small Business Should be Online
+
+=== Open Source helps keep costs low enough for SMBs to participate
+
+==== Blunt model showing with an estimate of economic impact
+
+==== Low Cost Hosting Savings
+
+==== Example using Google Adwords to show impact
+
+<not sure where to put: relate economic impact and ad impact to Bluehost customer base>
