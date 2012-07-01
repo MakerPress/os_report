@@ -1,8 +1,6 @@
 :bookseries: radar
 
-== Small Business Should be Online
-
-=== Open Source helps keep costs low enough for SMBs to participate
+== Open Source helps keep costs low enough for SMBs to participate
 
 ==== Blunt model showing with an estimate of economic impact
 
@@ -13,12 +11,6 @@
 
 ==== Example using Google Adwords to show impact
 
-
-Bluehost Economic Impact of Open Source
-
-Narrative Arc
-<roger 6/30 10am note>
-After quick IM w/ Ben, consider different tack on narrative arc:
 Web/Online presence pays off (Ben’s model showing Google leverage)
 Point #3: Spending on Google AdWords work best if users go to a landing page, with a clear call-to-action. In addition, having a web site allows SMB owners to conduct simple A/B tests to increase conversion rates. Assuming that the average SMB owner who controls their own landing pages is able to meet Google's "conservative estimate" ( 8 * (what you spend on AdWords) )
 (5.4 billion in 2010 ad spending) * (29% of ad spending goes to Google AdWords) * (47% of SMB's without their own web site) * 8 =  $6 billion dollars of economic benefit lost, because companies don't have a web site,
@@ -33,9 +25,7 @@ In some applications spaces important to SMBs, e.g., eCommerce platforms and CMS
 For SMBs, virtualization and hosting provide access to technology skills and more efficient resource utilization (i.e., “sharing” a server) that also enable lower costs and wider access to a web presence (not related to open source, but a worthwhile point)
 Looking at last few years, we build a model showing the cost differential created by Open Source options for the software infrastructure for creating a web presence
 
-<end note>
-
-Small Business Should be Online
+=== Small Business Should be Online
 Open Source helps keep costs low enough for SMBs to build web presence for promotions, advertising and displaying company/product information
 Blunt model showing with an estimate of economic impact
 Low Cost Hosting Savings
@@ -49,7 +39,7 @@ Example using Google Adwords to show impact of being online as economic lift
 <not sure where to put: relate economic impact and ad impact to Bluehost customer base>
 These are popular tools
 
-Economic Impact
+=== Economic Impact
 
 Open Source Savings Factor Formula:
 Open Source Market Share
@@ -74,7 +64,7 @@ For that portion of SMBs IT budget spent on application hardware and software in
 
 The price differential may be useful for comparing commercial and open source applications, however, resources, training, support and other factors may blunt the cost savings.
 
-Methodology (simple):
+=== Methodology (simple):
 Assumptions:
 
 Bluehost users mix of ecommerce, CMS and web presence a reasonable proxy for US SMB market
@@ -83,35 +73,40 @@ Average hours used / day: 18
 Half of SMBs with ecommerce or transactions systems have small enough data volumes to use free versions of commercial databases, e.g., SQL Server Express (10 Gb limit)
 Half of SMBs with CMSs have small enough data volumes to use free commercial databases
 
-Methodology (detail):
+=== Methodology (detail):
 
 For price differentials, use Amazon EC2 pricing for Linux and Windows, June 29, 2012 prices
 Used Light Utilization Reserved Instance Pricing for 1 year term
 most appropriate for looking at web presence, instance is always available, but only accumulates charges when used
+
 Use 18 hours/day usage pattern; if full usage more economical to choose heavier use options
 SMBs with a heavy web presence will choose Medium or High Utilization options to reduce hourly costs; formula shows a bigger markup for the Medium option
 3% * 11.54 + 35% * 2.39 + 61% * 1.83 = 2.39
 consider averaging the two? avg: 222%
+
 For open source we used Linux pricing
+
 For proprietary/commercial we used Windows pricing in three flavors:
-Windows
-Includes access to SQL Server Express and IIS; SQL Server Express is limited to 10 Gb of storage
-Windows with SQL Web Usage
-appropriate for CMS and other web support
-Windows with SQL Standard Usage
-Appropriate for ecommerce and other transaction systems
+. Windows Includes access to SQL Server Express and IIS; SQL Server Express is limited to 10 Gb of storage
+. Windows with SQL Web Usage appropriate for CMS and other web support
+. Windows with SQL Standard Usage Appropriate for ecommerce and other transaction systems
+
 Took average of price differentials for Small and Medium Instances
 Ecommerce share - based on share of Bluehost ecommerce customers as a share of all business customers who chose a business tool (ecommerce or CMS app) or had other signs of a business presence (domain + mailbox activity)
+
 Ecommerce systems require a database for transactions, for the proprietary option we used SQL Server w/ full access
+
 CMS share - based on share of Bluehost CMS customers as a share of all business customers who chose a business tool (ecommerce or CMS app) or had other signs of a business presence (domain + mailbox activity)
+
 CMS systems rely on a database to store data, for the propietary options we used SQL Server w/ web access, if SQL Server Express, which is free w/ the standard Windows EC2 package, then the price differential would be the same as for just Windows with no database
 issues:
+
 For many small businesses, SQL Server Express may have enough storage to be useful, reducing the need for the costlier web and full-use database options, consider multiplying the share for CMS and eCommerce by 50%
 see spreadsheet ~/analysis_projects/bluehost_study/briefs/economic_impact.xls for details
 
 
 	
-	* Open Source Market Share
+==== Open Source Market Share
  
 Notes:
 Per Jared, skip domain test, use 80% of joomla and drupal as business users, use 60% of customers with no tool and a domain, if not pulled by other queries.
@@ -126,7 +121,7 @@ http://www.waterandstone.com/open-source-cms-resources/articles/smaller-budgets-
 40% of SMB plan to use social media in 2012, 25% expressed discomfort w/ using social tools; social networks for affordability, access to customers, referrals
 http://www.zoomerang.com/uploadedFiles/docs/smb-business-perspective-2011-and-2012.pdf
 
-Facts and Sources
+==== Facts and Sources
 SMB Online Presence
 40% of SMBs have no web site
 Mar/2012 survey of 1&1 internet
@@ -153,7 +148,7 @@ Rough estimate of SMBs with no web site: average(40%, 54%, 30%) = 41%, or w/out 
 I think this will work.
 
 
-Web hosting costs
+==== Web hosting costs
 The average SMB spends $45/month on web hosting
 
 Bluehost customers average rate of $7.49 per month so does mean anything
@@ -162,11 +157,12 @@ The average respondent without an online presence guessed that a business Web si
 Mar/2012 survey of 1&1 internet
 http://www.transmutationsciences.com/design/smbs-without-websites-are-you-one-of-the-40-percent/
 
-SMB IT Spending
+==== SMB IT Spending
 $138B, $38B on IT Services (from an IDC report) for 2012
 http://www.eweek.com/c/a/Midmarket/Tablet-Software-Purchases-to-Drive-SMB-IT-Spending-in-2012-IDC-281131/
 $154.6B US Small Business ICT Spend (AMI Partners)
 http://www.ami-partners.com/downloads/isignal_Q1-2011.pdf
-Business counts by year, state size:
+
+==== Business counts by year, state size:
 http://www2.census.gov/ces/bds/firm/bds_f_iszst_release.csv
 smb/census_size_state_firms.csv
