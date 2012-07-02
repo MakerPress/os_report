@@ -1,3 +1,4 @@
 :bookseries: radar
 
-image::images/infographic_01.jpg[scaledwidth="90%"]
+.Rapid Growth
+image::images/infographic_01.jpg[scalewidth="90%"]

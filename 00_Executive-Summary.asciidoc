@@ -25,5 +25,3 @@ Sources needed: stats on overall size and revenues of ISP business, web hosting,
 
 If possible, would be interesting to compare revenues of these segments to the signature companies listed above. This would give us a sense of the innovation premium vs the base case value of open source.
 
-.Rapid Growth
-image::images/infographic_01.jpg[scalewidth="90%"]
