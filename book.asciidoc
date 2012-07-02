@@ -1,5 +1,7 @@
 include::00_Executive-Summary.asciidoc[]
 
-include::01_Stack_Comparison.asciidoc[]
+include::01_SMB_Economics.asciidoc[]
 
-include::02_SMB_Economics.asciidoc[]
+include::02_The-Stacks.asciidoc[]
+
+include::03_Stack_Comparisons.asciidoc[]
