@@ -214,5 +214,3 @@ HTTP ARchive
 
 === Analysis
 
-.Needs a sub title
-image::images/infographic_02.jpg[scalewidth="90%"]
