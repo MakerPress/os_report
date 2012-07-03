@@ -206,11 +206,3 @@ image::images/magento.jpg[scalewidth="90%"]
 
 === Analysis
 
-== Public data: Google search volume.
-
-HTTP ARchive
-
-=== Trends:
-
-=== Analysis
-
