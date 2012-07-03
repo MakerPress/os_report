@@ -30,53 +30,50 @@ _... we conservatively estimate that for every $1 a business spends on AdWords, 
 The product of (1) * (2) * (3) = Economic impact of Google AdWords = *EconImp_Goog_SMB*
 
 Finally, we estimate what _was left of the table_. We estimate that as follows: 
-
-'(# of SMB’s without a web site )
+---
+(# of SMB’s without a web site )
    * ( EconImp_Goog_SMB  /  ( # of SMB’s with a web site )
-= (AdWords economic impact left on the table)'
+= (AdWords economic impact left on the table)
+---
 
 This is an estimate, because we are assuming that EconImp_Goog_SMB came solely from SMB’s with web sites. (You still can use AdWords even if you don’t have a web site, but you probably need to be able to optimize your “landing pages” to maximize “conversion” and get to the “8” multiple from Google.)
-
-Commercial vendors need to keep prices in check due to competition from open source projects 
-
-Open source projects help keep prices for commercial products in check>
-In some applications spaces important to SMBs, e.g., eCommerce platforms and CMS systems, open source tools have become significant share
-For SMBs, virtualization and hosting provide access to technology skills and more efficient resource utilization (i.e., “sharing” a server) that also enable lower costs and wider access to a web presence (not related to open source, but a worthwhile point)
-Looking at last few years, we build a model showing the cost differential created by Open Source options for the software infrastructure for creating a web presence
 
 == Open Source helps keep costs low enough for SMBs to participate
 Small and medium sized businesses (SMBs) are faced with a dizzying array of open source and commercial options when choosing the software they need to run and grow their business. And US SMBs IT investments are expected to exceed 138B in 2012 footnote:[http://www.biztechreports.com/analyst\_news\_\_views/analys\_news\_\_views_archive\_4132012[Justin Jaffe IDC]]. Somwhere around 25% of that on computer systems and support. (various sources have SMB IT spend on between 25% and 33% of all IT spending, and that it’s growing faster than for large enterprises and heading to the cloud and hosting due to personnel and cost factors)
 
 For that portion of SMBs IT budget spent on application hardware and software infrastructure, the servers, networking, operating system, web servers and data management tools, we developed a cost differential ratio: commercial products cost about twice as much as open source options [or open source options cost about half what the commercial products on the same hardware). there’s a subtle point here, for just the software, the differential is likely greater, e.g., if hardware, virtualization and networks represent 50% of what you’re paying for from Amazon, the price differential is more like Consider the formula a blunt instrument that provide an indication of cost saving available to SMBs when they consider technology options. We developed the formula using the technology choices for ecommerce, CMS and other applications discovered by analyzing nearly one million Bluehost customer preferences.
 
-The price differential may be useful for comparing commercial and open source applications, however, resources, training, support and other factors may blunt the cost savings.
+The price differential may be useful for comparing commercial and open source applications, however, resources, training, support and other factors may blunt the cost savings. Commercial vendors need to keep prices in check due to competition from open source projects 
 
-=== Methodology (simple):
-Assumptions:
+In some applications spaces important to SMBs, e.g., eCommerce platforms and CMS systems, open source tools have become significant share
+For SMBs, virtualization and hosting provide access to technology skills and more efficient resource utilization (i.e., “sharing” a server) that also enable lower costs and wider access to a web presence (not related to open source, but a worthwhile point)
+Looking at last few years, we build a model showing the cost differential created by Open Source options for the software infrastructure for creating a web presence
 
-Bluehost users mix of ecommerce, CMS and web presence which represents a reasonable proxy for a US SMB market
+=== Savings Methodology (simple):
 
-. ecommerce: 7%
-. CMS: 70%
+Here are our simple Assumptions used to determine how much savings can be realized using Open Source.
+
+Bluehost users mix of ecommerce, CMS and web presence which represents a reasonable proxy for a US SMB market.
+
+. 7% of users have an ecommerce solution.
+. 70% use a CMS to manage their content.
 . web presence only: 23%
 
-Amazon EC2 pricing a reasonable proxy for the difference in open source and commercial server software infrastructure, i.e., operating systems
-Average hours used / day: 18
+Amazon EC2 pricing a reasonable proxy for the difference in open source and commercial server software infrastructure, i.e., operating systems.  We figure that the average SMB is serving pages roughly 18 hours a day. We believe there is not a heavy reliance on localized versions of a web site by the SMBs.
 
 Half of SMBs with ecommerce or transactions systems have small enough data volumes to use free versions of commercial databases, e.g., SQL Server Express with 10 Gb limit.
 
-Half of SMBs with CMSs have small enough data volumes to use free commercial databases
+Half of SMBs with CMSs have small enough data volumes to use free commercial databases, such as MySql or others.
 
-=== Methodology (detail):
+=== Savings Methodology (detail):
 
-For price differentials, use Amazon EC2 pricing for Linux and Windows, June 29, 2012 prices
-Used Light Utilization Reserved Instance Pricing for 1 year term
-most appropriate for looking at web presence, instance is always available, but only accumulates charges when used
+For price differentials, we used Amazon EC2 pricing, from June 29, 2012 for Linux and Windows platforms.
 
-Use 18 hours/day usage pattern; if full usage more economical to choose heavier use options
-SMBs with a heavy web presence will choose Medium or High Utilization options to reduce hourly costs; formula shows a bigger markup for the 
+We used Light Utilization Reserved Instance Pricing for 1 year term, which is most appropriate for looking at web presence. An instance is always available, but only accumulates charges when used.
 
-Medium option
+We used the average 18 hours/day usage pattern; if full usage was in play it would more economical to choose heavier use options from Amazon.
+SMBs with a heavy web presence will choose Medium or High Utilization options to reduce hourly costs; our formula shows a bigger markup for the Medium option.
+
 3% * 11.54 + 35% * 2.39 + 61% * 1.83 = 2.39
 
 consider averaging the two? avg: 222%
