@@ -2,39 +2,38 @@
 
 === Economic Impact of Open Source
 
-For SMBs, a Web/Online presence pays off immensely.  We are going to look at some factors to demonstrate how not only having a web presence makes a significant difference for SMBs, but the use of Open Source is an additional driver for success. Constant cost-pressures during the last 15 years from open source projects has made a web presence affordable, and the business opportunities a web presence provides, possible for many SMBs, including the growing Home Based Business (HBB) segment. So let's figure that a SMB uses Google AdWords to help boost their revenue. And we know that spending on Google AdWords work best if users go to a landing page, with a clear call-to-action. In addition, having a web site allows SMB owners to conduct simple A/B tests to increase conversion rates. Assuming that the average SMB owner who controls their own landing pages is able to meet Google's _conservative estimate_ ( 8 * (what you spend on AdWords) ). So what does this mean when you aggregate all SMBs that have a Web Presence or more importantly, those that do not have a presence are losing potential huge revenue gains. So let's look at a formula that could help us get more insight into the revenue gains or losses due to a web presence. Note that 70% of ad spend is not on Google AdWords, so there must be benefits that come from those marketing dollars as well, but we do not capture those benefits below.
+For SMBs, a web/online presence pays off immensely. We are going to look at some factors and demonstrate how having a web presence makes such a significant difference for SMBs, and how the use of Open Source is an additional driver for success. Constant cost pressures during the last 15 years from open source projects has made a web presence affordable, and the business opportunities that a web presence provides are now possible for many SMBs, including the growing home-based business (HBB) segment. So let's figure that a SMB uses Google AdWords to help boost their revenue. And we know that spending on Google AdWords work best if users go to a landing page, with a clear call to action. In addition, having a website allows SMB owners to conduct simple A/B tests to increase conversion rates. Assuming that the average SMB owner who controls their own landing pages is able to meet Google's _conservative estimate_ ( 8 * (what you spend on AdWords) ). So what does this mean when you aggregate all SMBs that have a web presence, or more importantly, those that do not have a presence are losing potential huge revenue gains. So let's look at a formula that could help us get more insight into the revenue gains or losses due to a web presence. Note that 70% of ad spend is not on Google AdWords, so there must be benefits that come from those marketing dollars as well, but we do not capture those benefits below.
 
-'(Total ad spending by SMB’s)
+'(Total ad spending by SMBs)
        * (share of ad spending on Google AdWords)
        *  8 (this is the Google multiplier: $1 of ad spending => $8)
   = Economic impact of Google AdWords'
 
-Next we estimate the dollars that *could* have gone to SMB’s who don’t have a web site. Let’s look at each of these parts:
+Next we estimate the dollars that *could* have gone to SMBs that don’t have a website. Let’s look at each of these parts:
 
 [start=1]
-. *Total ad spending by SMB’s* => average of these two
+. *Total ad spending by SMBs* => average of these two
 $5.4 billion in 2010, according to this article footnote:[http://www.biakelsey.com/Company/Press-Releases/110830-Digital-Advertising,-Performance-and-Retention-Solutions-Will-Be-70-Percent-of-SMB-Marketing-Budgets-by-2015.asp[BIA/Kelsey]]
 
-$2,300 * # of SMB’s in 2011. This survey estimates *online* ad spend at $2300 per SMB in 2011.
+$2,300 * # of SMBs in 2011. This survey estimates *online* ad spend at $2300 per SMB in 2011.
 
 [start=2]
-. *Share of ad spending on Google AdWords* ~ 29%. This is a product of the numbers below.
-By 2010 37% of online ad spending will go to paid search footnote:[http://www.emarketer.com/Reports/Viewer.aspx?R=2000488&page=5[eMarketer]]
+. *Share of ad spending on Google AdWords* ~29%. This is a product of the numbers below.
+By 2010, 37% of online ad spending will go to paid search footnote:[http://www.emarketer.com/Reports/Viewer.aspx?R=2000488&page=5[eMarketer]]
 
 Google owns 80% of ad spend on paid search footnote:[http://www.advmediaproductions.com/blog/google-dominates-paid-search-advertising-with-80-market-share-unaffected-by-the-rise-of-bing/[ADV Media]]
 
 [start=3]
 . *Google multiplier = 8* footnote:[http://www.google.com/economicimpact/methodology.html[Google]]
-_... we conservatively estimate that for every $1 a business spends on AdWords, they receive $8 in profit through Google Search and AdWords. Thus, to derive the economic value received by advertisers, we multiply our AdWords revenue on Google.com search results in 2011–what advertisers spent–by 8._
+_... we conservatively estimate that for every $1 a business spends on AdWords, it receives $8 in profit through Google Search and AdWords. Thus, to derive the economic value received by advertisers, we multiply our AdWords revenue on Google.com search results in 2011–what advertisers spent–by 8._
 
 The product of (1) * (2) * (3) = Economic impact of Google AdWords = *EconImp_Goog_SMB*
 
-Finally, we estimate what _was left of the table_. We estimate that as follows: 
----
-(# of SMB’s without a web site )
-   * ( EconImp_Goog_SMB  /  ( # of SMB’s with a web site )
-= (AdWords economic impact left on the table)
----
+Finally, we estimate what _was left off the table_. We estimate that as follows: 
+
+'(# of SMBs without a website )
+   * ( EconImp_Goog_SMB  /  ( # of SMBs with a website )
+= (AdWords economic impact left on the table)'
 
 This is an estimate, because we are assuming that EconImp_Goog_SMB came solely from SMB’s with web sites. (You still can use AdWords even if you don’t have a web site, but you probably need to be able to optimize your “landing pages” to maximize “conversion” and get to the “8” multiple from Google.)
 
