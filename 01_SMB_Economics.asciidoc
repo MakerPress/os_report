@@ -63,8 +63,8 @@ Web/Online presence pays off (Ben’s model showing Google leverage)
 Point #3: Spending on Google AdWords work best if users go to a landing page, with a clear call-to-action. In addition, having a web site allows SMB owners to conduct simple A/B tests to increase conversion rates. Assuming that the average SMB owner who controls their own landing pages is able to meet Google's "conservative estimate" ( 8 * (what you spend on AdWords) )
 (5.4 billion in 2010 ad spending) * (29% of ad spending goes to Google AdWords) * (47% of SMB's without their own web site) * 8 =  $6 billion dollars of economic benefit lost, because companies don't have a web site,
 Assumption 29% of ad spending goes to Google AdWords)
-* 2008 eMarketer Report, estimated that by 2012, 37% of online ad spend will go to paid search   http://www.emarketer.com/Reports/Viewer.aspx?R=2000488&page=5
-* Google owns 80% of ad spend on paid search    http://www.advmediaproductions.com/blog/google-dominates-paid-search-advertising-with-80-market-share-unaffected-by-the-rise-of-bing/
+* 2008 eMarketer Report, estimated that by 2012, 37% of online ad spend will go to paid search   http://www.emarketer.com/Reports/Viewer.aspx?R=2000488&page=5 [online ad spend]
+* Google owns 80% of ad spend on paid search    http://www.advmediaproductions.com/blog/google-dominates-paid-search-advertising-with-80-market-share-unaffected-by-the-rise-of-bing/ [paid search]
 *      37% * 80% = 29.6%
 Made possible by lower costs (and virtualizations)
 Constant pressure on costs the last 15 years from open source projects has made a web presence affordable, and the business opportunities a web presence provides, possible for many SMBs, including the growing Home Based Business (HBB) segment
@@ -113,17 +113,17 @@ adjusted ecommerce share** (3%) * proprietary software cost differential (full d
 Factoids
 81% of SMB company bosses prefer to research products over the internet before purchase (Serif)
 contrast w/ action that a smaller percentage of SMBs have a web presence
-http://webcache.googleusercontent.com/search?q=cache:3aU31xc7tp0J:www.microsoft.com/business/en-gb/Content/Pages/news.aspx%3Fcbcid%3D1043+smb's+without+a+web+site&cd=4&hl=en&ct=clnk&gl=us&client=safari
+http://webcache.googleusercontent.com/search?q=cache:3aU31xc7tp0J:www.microsoft.com/business/en-gb/Content/Pages/news.aspx%3Fcbcid%3D1043+smb's+without+a+web+site&cd=4&hl=en&ct=clnk&gl=us&client=safari [percent of smbs]
 Recession speeds Linux adoption as firms lower costs, not deployments
-http://www.waterandstone.com/open-source-cms-resources/articles/smaller-budgets-not-smaller-deployments
+http://www.waterandstone.com/open-source-cms-resources/articles/smaller-budgets-not-smaller-deployments [linux in recession]
 40% of SMB plan to use social media in 2012, 25% expressed discomfort w/ using social tools; social networks for affordability, access to customers, referrals
-http://www.zoomerang.com/uploadedFiles/docs/smb-business-perspective-2011-and-2012.pdf
+http://www.zoomerang.com/uploadedFiles/docs/smb-business-perspective-2011-and-2012.pdf [business perscpective]
 
 ==== Facts and Sources
 SMB Online Presence
 40% of SMBs have no web site
 Mar/2012 survey of 1&1 internet
-http://www.transmutationsciences.com/design/smbs-without-websites-are-you-one-of-the-40-percent/
+http://www.transmutationsciences.com/design/smbs-without-websites-are-you-one-of-the-40-percent/ [40% not online]
 
 FYI.  transmutationsciences and 1&1 Internet are both hosting companies reporting on their survey.  Do we really want to use a survey of a competitor to Bluehost in this?  Just asking.
 
@@ -140,7 +140,7 @@ UK data. Our data is roughly 90% US and Canada. This seems like a stretch too.
 
 30% of SMBs have no online presence
 Parallels Cloud Service Provider Blog
-http://blogs.parallels.com/serviceprovider/month/may-2012
+http://blogs.parallels.com/serviceprovider/month/may-2012 [service providers]
 Rough estimate of SMBs with no web site: average(40%, 54%, 30%) = 41%, or w/out UK data: average(40%, 30%) = 35%
 
 I think this will work.
@@ -152,16 +152,16 @@ Bluehost customers average rate of $7.49 per month so does mean anything
 
 The average respondent without an online presence guessed that a business Web site would cost $67 per month, according to the study, while 91 percent of respondents guessed it would cost more than $10 per month.  According to the study, the average SMB with an online presence spends $45 per month for Web hosting.
 Mar/2012 survey of 1&1 internet
-http://www.transmutationsciences.com/design/smbs-without-websites-are-you-one-of-the-40-percent/
+http://www.transmutationsciences.com/design/smbs-without-websites-are-you-one-of-the-40-percent/ [smb web usage]
 
 ==== SMB IT Spending
 $138B, $38B on IT Services (from an IDC report) for 2012
-http://www.eweek.com/c/a/Midmarket/Tablet-Software-Purchases-to-Drive-SMB-IT-Spending-in-2012-IDC-281131/
+http://www.eweek.com/c/a/Midmarket/Tablet-Software-Purchases-to-Drive-SMB-IT-Spending-in-2012-IDC-281131/ [tablet purchases]
 $154.6B US Small Business ICT Spend (AMI Partners)
-http://www.ami-partners.com/downloads/isignal_Q1-2011.pdf
+http://www.ami-partners.com/downloads/isignal_Q1-2011.pdf [downlads]
 
 ==== Business counts by year, state size:
-http://www2.census.gov/ces/bds/firm/bds_f_iszst_release.csv
-smb/census_size_state_firms.csv
+http://www2.census.gov/ces/bds/firm/bds_f_iszst_release.csv [census data]
+smb/census_size_state_firms.csv [state census]
 
 Now that we have spent a little time looking at the economics open source can have on a small business, let's not take a look at the technology stack they use, and the typical site owner profile.
