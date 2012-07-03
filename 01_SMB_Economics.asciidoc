@@ -12,17 +12,19 @@ For SMBs, a Web/Online presence pays off immensely.  We are going to look at som
 Next we estimate the dollars that *could* have gone to SMB’s who don’t have a web site. Let’s look at each of these parts:
 
 [start=1]
-. (Total ad spending by SMB’s) => average of these two
+. *Total ad spending by SMB’s* => average of these two
 $5.4 billion in 2010, according to this article footnote:[http://www.biakelsey.com/Company/Press-Releases/110830-Digital-Advertising,-Performance-and-Retention-Solutions-Will-Be-70-Percent-of-SMB-Marketing-Budgets-by-2015.asp[BIA/Kelsey]]
 
 $2,300 * # of SMB’s in 2011. This survey estimates *online* ad spend at $2300 per SMB in 2011.
 
-. (Share of ad spending on Google AdWords) ~ 29%. This is a product of the numbers below.
+[start=2]
+. *Share of ad spending on Google AdWords* ~ 29%. This is a product of the numbers below.
 By 2010 37% of online ad spending will go to paid search footnote:[http://www.emarketer.com/Reports/Viewer.aspx?R=2000488&page=5[eMarketer]]
 
 Google owns 80% of ad spend on paid search footnote:]http://www.advmediaproductions.com/blog/google-dominates-paid-search-advertising-with-80-market-share-unaffected-by-the-rise-of-bing/ [ADV Media]]
 
-. (Google multiplier = 8) footnote:[http://www.google.com/economicimpact/methodology.html [Google]]
+[start=3]
+. *Google multiplier = 8* footnote:[http://www.google.com/economicimpact/methodology.html[Google]]
 _... we conservatively estimate that for every $1 a business spends on AdWords, they receive $8 in profit through Google Search and AdWords. Thus, to derive the economic value received by advertisers, we multiply our AdWords revenue on Google.com search results in 2011–what advertisers spent–by 8._
 
 The product of (1) * (2) * (3) = Economic impact of Google AdWords = *EconImp_Goog_SMB*
