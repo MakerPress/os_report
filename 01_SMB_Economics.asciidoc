@@ -4,12 +4,12 @@
 
 For SMBs, a Web/Online presence pays off immensely.  We are going to look at some factors to demonstrate how not only having a web presence makes a significant difference for SMBs, but the use of Open Source is an additional driver for success. Constant cost-pressures during the last 15 years from open source projects has made a web presence affordable, and the business opportunities a web presence provides, possible for many SMBs, including the growing Home Based Business (HBB) segment. So let's figure that a SMB uses Google AdWords to help boost their revenue. And we know that spending on Google AdWords work best if users go to a landing page, with a clear call-to-action. In addition, having a web site allows SMB owners to conduct simple A/B tests to increase conversion rates. Assuming that the average SMB owner who controls their own landing pages is able to meet Google's _conservative estimate_ ( 8 * (what you spend on AdWords) ). So what does this mean when you aggregate all SMBs that have a Web Presence or more importantly, those that do not have a presence are losing potential huge revenue gains. So let's look at a formula that could help us get more insight into the revenue gains or losses due to a web presence. Note that 70% of ad spend is not on Google AdWords, so there must be benefits that come from those marketing dollars as well, but we do not capture those benefits below.
 
-$$$
+'
 (Total ad spending by SMB’s)
        * (share of ad spending on Google AdWords)
        *  8 (this is the Google multiplier: $1 of ad spending => $8)
   = Economic impact of Google AdWords
-$$$
+'
 
 Next we estimate the dollars that *could* have gone to SMB’s who don’t have a web site. Let’s look at each of these parts:
 
@@ -27,13 +27,11 @@ _... we conservatively estimate that for every $1 a business spends on AdWords, 
 
 The product of (1) * (2) * (3) = Economic impact of Google AdWords = *EconImp_Goog_SMB*
 
-Finally, we estimate what “was left of the table”. We estimate that as follows: 
+Finally, we estimate what _was left of the table_. We estimate that as follows: 
 
-+++
-(# of SMB’s without a web site )
+'(# of SMB’s without a web site )
    * ( EconImp_Goog_SMB  /  ( # of SMB’s with a web site )
-= (AdWords economic impact left on the table)
-+++
+= (AdWords economic impact left on the table)'
 
 This is an estimate, because we are assuming that EconImp_Goog_SMB came solely from SMB’s with web sites. (You still can use AdWords even if you don’t have a web site, but you probably need to be able to optimize your “landing pages” to maximize “conversion” and get to the “8” multiple from Google.)
 
