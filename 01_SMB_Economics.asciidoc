@@ -1,5 +1,56 @@
 :bookseries: radar
 
+=== Economic Impact of Open Source
+
+For SMBs, a Web/Online presence pays off immensely.  We are going to look at some factors to demonstrate how not only having a web presence makes a significant difference for SMBs, but the use of Open Source is an additional driver for success. Constant cost-pressures during the last 15 years from open source projects has made a web presence affordable, and the business opportunities a web presence provides, possible for many SMBs, including the growing Home Based Business (HBB) segment. So let's figure that a SMB uses Google AdWords to help boost their revenue. And we know that spending on Google AdWords work best if users go to a landing page, with a clear call-to-action. In addition, having a web site allows SMB owners to conduct simple A/B tests to increase conversion rates. Assuming that the average SMB owner who controls their own landing pages is able to meet Google's _conservative estimate_ ( 8 * (what you spend on AdWords) ). So what does this mean when you aggregate all SMBs that have a Web Presence or more importantly, those that do not have a presence are losing potential huge revenue gains. So let's look at a formula that could help us get more insight into the revenue gains or losses due to a web presence. Note that 70% of ad spend is not on Google AdWords, so there must be benefits that come from those marketing dollars as well, but we do not capture those benefits below.
+
++++
+(Total ad spending by SMB’s)
+       * (share of ad spending on Google AdWords)
+       *  8 (this is the Google multiplier: $1 of ad spending => $8)
+  = Economic impact of Google AdWords
++++
+
+Next we estimate the dollars that *could* have gone to SMB’s who don’t have a web site. Let’s look at each of these parts:
+
+[start=1]
+.(Total ad spending by SMB’s) => average of these two
+$5.4 billion in 2010, according to this article footnote:[http://www.biakelsey.com/Company/Press-Releases/110830-Digital-Advertising,-Performance-and-Retention-Solutions-Will-Be-70-Percent-of-SMB-Marketing-Budgets-by-2015.asp [BIA/Kelsey]]
+$2,300 * # of SMB’s in 2011  (this survey estimates ONLINE ad spend at $2300 per SMB in 2011)
+
+.(Share of ad spending on Google AdWords) ~ 29% (product of the numbers below)
+by 2010 37% of online ad spending will go to paid search footnote:[http://www.emarketer.com/Reports/Viewer.aspx?R=2000488&page=5 [eMarketer]]
+Google owns 80% of ad spend on paid search footnote:[http://www.advmediaproductions.com/blog/google-dominates-paid-search-advertising-with-80-market-share-unaffected-by-the-rise-of-bing/ [ADV Media]]
+
+.(Google multiplier = 8) footnote:[http://www.google.com/economicimpact/methodology.html [Google]]
+_... we conservatively estimate that for every $1 a business spends on AdWords, they receive $8 in profit through Google Search and AdWords. Thus, to derive the economic value received by advertisers, we multiply our AdWords revenue on Google.com search results in 2011–what advertisers spent–by 8._
+
+The product of (1) * (2) * (3) = Economic impact of Google AdWords = *EconImp_Goog_SMB*
+
+Finally, we estimate what “was left of the table”. We estimate that as follows: 
+
++++
+(# of SMB’s without a web site )
+   * ( EconImp_Goog_SMB  /  ( # of SMB’s with a web site )
+= (AdWords economic impact left on the table)
++++
+
+This is an estimate, because we are assuming that EconImp_Goog_SMB came solely from SMB’s with web sites. (You still can use AdWords even if you don’t have a web site, but you probably need to be able to optimize your “landing pages” to maximize “conversion” and get to the “8” multiple from Google.)
+
+Commercial vendors need to keep prices in check due to competition from open source projects 
+
+Open source projects help keep prices for commercial products in check>
+In some applications spaces important to SMBs, e.g., eCommerce platforms and CMS systems, open source tools have become significant share
+For SMBs, virtualization and hosting provide access to technology skills and more efficient resource utilization (i.e., “sharing” a server) that also enable lower costs and wider access to a web presence (not related to open source, but a worthwhile point)
+Looking at last few years, we build a model showing the cost differential created by Open Source options for the software infrastructure for creating a web presence
+
+Google Adwords from Ben
+
+(Total ad spending by SMB’s)
+       * (share of ad spending on Google AdWords)
+       *  8 (this is the Google multiplier: $1 of ad spending => $8)
+  = Economic impact of Google AdWords
+
 == Open Source helps keep costs low enough for SMBs to participate
 Small and medium sized businesses (SMBs) are faced with a dizzying array of open source and commercial options when choosing the software they need to run and grow their business. And US SMBs IT investments are expected to exceed 138B in 2012 footnote:[http://www.biztechreports.com/analyst\_news\_\_views/analys\_news\_\_views_archive\_4132012[Justin Jaffe IDC]]. Somwhere around 25% of that on computer systems and support. (various sources have SMB IT spend on between 25% and 33% of all IT spending, and that it’s growing faster than for large enterprises and heading to the cloud and hosting due to personnel and cost factors)
 
@@ -11,6 +62,11 @@ The price differential may be useful for comparing commercial and open source ap
 Assumptions:
 
 Bluehost users mix of ecommerce, CMS and web presence which represents a reasonable proxy for a US SMB market
+
+.ecommerce: 7%
+.CMS: 70%
+.web presence only: 23%
+
 Amazon EC2 pricing a reasonable proxy for the difference in open source and commercial server software infrastructure, i.e., operating systems
 Average hours used / day: 18
 Half of SMBs with ecommerce or transactions systems have small enough data volumes to use free versions of commercial databases, e.g., SQL Server Express (10 Gb limit)
@@ -108,9 +164,7 @@ adjusted ecommerce share** (3%) * proprietary software cost differential (full d
 
 ==== Open Source Market Share
  
-
-
-Factoids
+*Factoids*
 81% of SMB company bosses prefer to research products over the internet before purchase (Serif)
 contrast w/ action that a smaller percentage of SMBs have a web presence
 http://webcache.googleusercontent.com/search?q=cache:3aU31xc7tp0J:www.microsoft.com/business/en-gb/Content/Pages/news.aspx%3Fcbcid%3D1043+smb's+without+a+web+site&cd=4&hl=en&ct=clnk&gl=us&client=safari [percent of smbs]
