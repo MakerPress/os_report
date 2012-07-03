@@ -218,12 +218,31 @@ When looking at all these languages there are a couple of points that stand out.
 
 == CMS Category
 
-image::images/wordpress.jpg[scalewidth="90%"]
-image::images/joomla.jpg[scalewidth="90%"]
-image::images/drupal.jpg[scalewidth="90%"]
-image::images/magento.jpg[scalewidth="90%"]
+The CMS category is dominated by WordPress. Whether you look at job trends, Google Trends, or Bluehost user data, WordPress is the preferred platform.
+
+image::images/CMS_Google_Trends.jpg[scalewidth="90%"]
+
+image::images/CMS_avg_Jobs.jpg[scalewidth="90%"]
+
 
 === Trends:
+
+
+
+image::images/wordpress.jpg[scalewidth="90%"]
+
+
+
+image::images/joomla.jpg[scalewidth="90%"]
+
+
+
+image::images/drupal.jpg[scalewidth="90%"]
+
+
+
+image::images/magento.jpg[scalewidth="90%"]
+
 
 
 

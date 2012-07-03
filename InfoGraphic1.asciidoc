@@ -1,4 +1,4 @@
 :bookseries: radar
 
-.Rapid Growth
+.New Domains Growth Rate
 image::images/infographic_01.jpg[scalewidth="90%"]
