@@ -176,18 +176,29 @@ The top level trends for the which programming languages are contributing to the
 
 image::images/languageChoice.jpg[scalewidth="90%"]
 
-In addition to choice of Language, the chart below shows a logarithmic view of the programming languages and their growth for the years between 2001-01 and 2012-06.  The most notable spike was in 2004 and Python's sudden burst up the scale. Javascript had a similar spike around the same time, but start at a higher level and did not spike as significantly. Python grew by a magnitude of 10 during the first few months and Javascript kept doubling its size every couple of months. This could be to Bluehost acquiring smaller hosting companies that had particular language orientations. It does not look like organic growth, but rather engineered growth.
+In addition to choice of Language, the chart below shows a logarithmic view of the programming languages and their growth for the years between 2001-01 and 2012-06.  The most notable spike was in 2004 and Python's sudden burst up the scale. Javascript had a similar spike around the same time, but start at a higher level and did not spike as significantly. Python grew by a magnitude of 10 during the first few months and Javascript kept doubling its size every couple of months. This could be to Bluehost acquiring smaller hosting companies that had particular language orientations. It does not look like organic growth, but rather engineered growth. One other language stands out a bit. Perl seems to have hit a wall *pun-intended* round 2007 and has been flat or on a slight trend down.
 
 image::images/languageGrowth.jpg[scalewidth="90%"]
 
+Now lets look at all the languages that are in job postings during the previous three years. You will notice that in each of these charts there is a faint green area chart behind the bars. Those green areas show the peaks and valleys of all jobs, not just tech or the specific language. This way you get a sense if the whole US economy is trending up or down and does the language mirror that trend.
+
 === Trends:
 
+Javascript seems to be a close proxy to what is happening in the overall market. There are few monthly instances where Javascript is counter to the overall market. May 2012 is the most recent anomaly. Pay attention to the scale as the other languages are not quite as big, so the charts may look similar, but scale is important.
+   
 image::images/javascript.jpg[scalewidth="90%"]
+
+
 image::images/perl.jpg[scalewidth="90%"]
+
 image::images/php.jpg[scalewidth="90%"]
+
 image::images/python.jpg[scalewidth="90%"]
+
 image::images/ruby.jpg[scalewidth="90%"]
+
 image::images/asp.jpg[scalewidth="90%"]
+
 image::images/csharp.jpg[scalewidth="90%"]
 
 === Analysis
