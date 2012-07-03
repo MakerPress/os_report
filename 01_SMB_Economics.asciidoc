@@ -4,12 +4,10 @@
 
 For SMBs, a Web/Online presence pays off immensely.  We are going to look at some factors to demonstrate how not only having a web presence makes a significant difference for SMBs, but the use of Open Source is an additional driver for success. Constant cost-pressures during the last 15 years from open source projects has made a web presence affordable, and the business opportunities a web presence provides, possible for many SMBs, including the growing Home Based Business (HBB) segment. So let's figure that a SMB uses Google AdWords to help boost their revenue. And we know that spending on Google AdWords work best if users go to a landing page, with a clear call-to-action. In addition, having a web site allows SMB owners to conduct simple A/B tests to increase conversion rates. Assuming that the average SMB owner who controls their own landing pages is able to meet Google's _conservative estimate_ ( 8 * (what you spend on AdWords) ). So what does this mean when you aggregate all SMBs that have a Web Presence or more importantly, those that do not have a presence are losing potential huge revenue gains. So let's look at a formula that could help us get more insight into the revenue gains or losses due to a web presence. Note that 70% of ad spend is not on Google AdWords, so there must be benefits that come from those marketing dollars as well, but we do not capture those benefits below.
 
-'
-(Total ad spending by SMB’s)
+'(Total ad spending by SMB’s)
        * (share of ad spending on Google AdWords)
        *  8 (this is the Google multiplier: $1 of ad spending => $8)
-  = Economic impact of Google AdWords
-'
+  = Economic impact of Google AdWords'
 
 Next we estimate the dollars that *could* have gone to SMB’s who don’t have a web site. Let’s look at each of these parts:
 
@@ -42,13 +40,6 @@ In some applications spaces important to SMBs, e.g., eCommerce platforms and CMS
 For SMBs, virtualization and hosting provide access to technology skills and more efficient resource utilization (i.e., “sharing” a server) that also enable lower costs and wider access to a web presence (not related to open source, but a worthwhile point)
 Looking at last few years, we build a model showing the cost differential created by Open Source options for the software infrastructure for creating a web presence
 
-Google Adwords from Ben
-
-(Total ad spending by SMB’s)
-       * (share of ad spending on Google AdWords)
-       *  8 (this is the Google multiplier: $1 of ad spending => $8)
-  = Economic impact of Google AdWords
-
 == Open Source helps keep costs low enough for SMBs to participate
 Small and medium sized businesses (SMBs) are faced with a dizzying array of open source and commercial options when choosing the software they need to run and grow their business. And US SMBs IT investments are expected to exceed 138B in 2012 footnote:[http://www.biztechreports.com/analyst\_news\_\_views/analys\_news\_\_views_archive\_4132012[Justin Jaffe IDC]]. Somwhere around 25% of that on computer systems and support. (various sources have SMB IT spend on between 25% and 33% of all IT spending, and that it’s growing faster than for large enterprises and heading to the cloud and hosting due to personnel and cost factors)
 
@@ -61,13 +52,15 @@ Assumptions:
 
 Bluehost users mix of ecommerce, CMS and web presence which represents a reasonable proxy for a US SMB market
 
-.ecommerce: 7%
-.CMS: 70%
-.web presence only: 23%
+. ecommerce: 7%
+. CMS: 70%
+. web presence only: 23%
 
 Amazon EC2 pricing a reasonable proxy for the difference in open source and commercial server software infrastructure, i.e., operating systems
 Average hours used / day: 18
-Half of SMBs with ecommerce or transactions systems have small enough data volumes to use free versions of commercial databases, e.g., SQL Server Express (10 Gb limit)
+
+Half of SMBs with ecommerce or transactions systems have small enough data volumes to use free versions of commercial databases, e.g., SQL Server Express with 10 Gb limit.
+
 Half of SMBs with CMSs have small enough data volumes to use free commercial databases
 
 === Methodology (detail):
@@ -77,15 +70,21 @@ Used Light Utilization Reserved Instance Pricing for 1 year term
 most appropriate for looking at web presence, instance is always available, but only accumulates charges when used
 
 Use 18 hours/day usage pattern; if full usage more economical to choose heavier use options
-SMBs with a heavy web presence will choose Medium or High Utilization options to reduce hourly costs; formula shows a bigger markup for the Medium option
+SMBs with a heavy web presence will choose Medium or High Utilization options to reduce hourly costs; formula shows a bigger markup for the 
+
+Medium option
 3% * 11.54 + 35% * 2.39 + 61% * 1.83 = 2.39
+
 consider averaging the two? avg: 222%
 
 For open source we used Linux pricing
 
 For proprietary/commercial we used Windows pricing in three flavors:
+
 . Windows Includes access to SQL Server Express and IIS; SQL Server Express is limited to 10 Gb of storage
+
 . Windows with SQL Web Usage appropriate for CMS and other web support
+
 . Windows with SQL Standard Usage Appropriate for ecommerce and other transaction systems
 
 Took average of price differentials for Small and Medium Instances
@@ -109,17 +108,9 @@ Per Jared, skip domain test, use 80% of joomla and drupal as business users, use
 ==== Low Cost Hosting Savings
 
 . open source has kept comm'l sw prices low, savings would be more extreme if no competition
+
 . consider look at cms mkt dominated by open source, need a platform share source
 
-==== Example using Google Adwords to show impact
-
-Web/Online presence pays off (Ben’s model showing Google leverage)
-Point #3: Spending on Google AdWords work best if users go to a landing page, with a clear call-to-action. In addition, having a web site allows SMB owners to conduct simple A/B tests to increase conversion rates. Assuming that the average SMB owner who controls their own landing pages is able to meet Google's "conservative estimate" ( 8 * (what you spend on AdWords) )
-(5.4 billion in 2010 ad spending) * (29% of ad spending goes to Google AdWords) * (47% of SMB's without their own web site) * 8 =  $6 billion dollars of economic benefit lost, because companies don't have a web site,
-Assumption 29% of ad spending goes to Google AdWords)
-* 2008 eMarketer Report, estimated that by 2012, 37% of online ad spend will go to paid search   http://www.emarketer.com/Reports/Viewer.aspx?R=2000488&page=5 [online ad spend]
-* Google owns 80% of ad spend on paid search    http://www.advmediaproductions.com/blog/google-dominates-paid-search-advertising-with-80-market-share-unaffected-by-the-rise-of-bing/ [paid search]
-*      37% * 80% = 29.6%
 Made possible by lower costs (and virtualizations)
 Constant pressure on costs the last 15 years from open source projects has made a web presence affordable, and the business opportunities a web presence provides, possible for many SMBs, including the growing Home Based Business (HBB) segment
 Commercial vendors need to keep prices in check due to competition from open source projects
@@ -130,16 +121,6 @@ Looking at last few years, we build a model showing the cost differential create
 === Small Business Should be Online
 Open Source helps keep costs low enough for SMBs to build web presence for promotions, advertising and displaying company/product information
 Blunt model showing with an estimate of economic impact
-Low Cost Hosting Savings
-open source has kept comm'l sw prices low, savings would be more extreme if no competition
-consider look at cms mkt dominated by open source, need a platform share source
-Other sources of open source economic impact for small business: eBay, etsy, Facebook, Twitter
-eBay and etsy as low cost, low friction marketplaces run on open source archictures
-Facebook and Twitter as low/no cost promotion, social media and ad platforms that run on open source architectures 
-Web presence provides chance to leverage ad networks
-Example using Google Adwords to show impact of being online as economic lift
-<not sure where to put: relate economic impact and ad impact to Bluehost customer base>
-These are popular tools
 
 === Economic Impact
 
@@ -149,7 +130,7 @@ Open Source Market Share
 Consider two or three scenarios: 25% share, 50%, optionally 75% share
 or just use the number for leverage
 
-formula
+==== Formula
 
 *simple terms*
 Use the mix of user tools in the Bluehost user data to allocate share to different workloads with different cost differentials, using Amazon EC2 pricing.
@@ -179,8 +160,7 @@ http://www.transmutationsciences.com/design/smbs-without-websites-are-you-one-of
 
 FYI.  transmutationsciences and 1&1 Internet are both hosting companies reporting on their survey.  Do we really want to use a survey of a competitor to Bluehost in this?  Just asking.
 
-
-Drawback
+*Drawback*
 1&1 Internet is another “cheap” hosting site and may be viewed as a Bluehost competitor and may not want them referenced in the study
 54% of SMBs have no online portal (UK data)
 Serif Press Release July 15, 2011
