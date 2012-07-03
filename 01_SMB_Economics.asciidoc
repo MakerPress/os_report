@@ -21,7 +21,7 @@ $2,300 * # of SMB’s in 2011. This survey estimates *online* ad spend at $2300 
 . *Share of ad spending on Google AdWords* ~ 29%. This is a product of the numbers below.
 By 2010 37% of online ad spending will go to paid search footnote:[http://www.emarketer.com/Reports/Viewer.aspx?R=2000488&page=5[eMarketer]]
 
-Google owns 80% of ad spend on paid search footnote:]http://www.advmediaproductions.com/blog/google-dominates-paid-search-advertising-with-80-market-share-unaffected-by-the-rise-of-bing/ [ADV Media]]
+Google owns 80% of ad spend on paid search footnote:[http://www.advmediaproductions.com/blog/google-dominates-paid-search-advertising-with-80-market-share-unaffected-by-the-rise-of-bing/[ADV Media]]
 
 [start=3]
 . *Google multiplier = 8* footnote:[http://www.google.com/economicimpact/methodology.html[Google]]
