@@ -48,7 +48,7 @@ In some applications spaces important to SMBs, e.g., eCommerce platforms and CMS
 For SMBs, virtualization and hosting provide access to technology skills and more efficient resource utilization (i.e., “sharing” a server) that also enable lower costs and wider access to a web presence (not related to open source, but a worthwhile point)
 Looking at last few years, we build a model showing the cost differential created by Open Source options for the software infrastructure for creating a web presence.
 
-=== Savings methodology (simple):
+=== Savings methodology (simple)
 
 Here are our simple Assumptions used to determine how much savings can be realized using Open Source.
 
@@ -64,7 +64,7 @@ Half of SMBs with ecommerce or transactions systems have small enough data volum
 
 Half of SMBs with CMSs have small enough data volumes to use free commercial databases, such as MySql or others.
 
-=== Savings methodology (detail):
+=== Savings methodology (detail)
 
 We used the mix of user tools in the Bluehost user data to allocate share to different workloads with different cost differentials, using Amazon EC2 pricing.
 
@@ -107,7 +107,7 @@ For many small businesses, SQL Server Express may have enough storage to be usef
 
 see spreadsheet ~/analysis_projects/bluehost_study/briefs/economic_impact.xls for details
 
-===== Adjusted ecommerce share:
+===== Adjusted ecommerce share
 
 Approximately 7.4% of Bluehost customers have eCommerce software installed. To determine the price differential for the OS and DBMS for the broader market, we assume 50% of SMB customers have small enough data volumes to use free versions of commercial databases (e.g., SQL Server Express); 
 
@@ -141,7 +141,8 @@ Average of Small and Medium allocated (monthly) up front costs and hourly costs 
 
 Average of Small and Medium allocated (monthly) up front costs and hourly costs (for 18 hours of usage/day) for Amazon EC2 Medium Utilization Reserved Instances for Windows and SQL Server w/ web access compared to Linux.
 
-== Open Source helps keep costs low enough for SMBs to participate
+== Open Source Helps Keep Costs Low Enough for SMBs to Participate
+
 Small and medium sized businesses (SMBs) are faced with a dizzying array of open source and commercial options when choosing the software they need to run and grow their business. And US SMBs IT investments are expected to exceed 138B in 2012 footnote:[http://www.biztechreports.com/analyst\_news\_\_views/analys\_news\_\_views_archive\_4132012[Justin Jaffe IDC]]. Somwhere around 25% of that on computer systems and support. (various sources have SMB IT spend on between 25% and 33% of all IT spending, and that it’s growing faster than for large enterprises and heading to the cloud and hosting due to personnel and cost factors).
 
 For that portion of SMBs IT budget spent on application hardware and software infrastructure, the servers, networking, operating system, web servers and data management tools, we developed a cost differential ratio: commercial products cost about twice as much as open source options [or open source options cost about half what the commercial products on the same hardware). there’s a subtle point here, for just the software, the differential is likely greater, e.g., if hardware, virtualization and networks represent 50% of what you’re paying for from Amazon, the price differential is more like Consider the formula a blunt instrument that provide an indication of cost saving available to SMBs when they consider technology options. We developed the formula using the technology choices for ecommerce, CMS and other applications discovered by analyzing nearly one million Bluehost customer preferences.
