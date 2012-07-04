@@ -1,6 +1,6 @@
 :bookseries: radar
 
-=== Economic Impact of Open Source
+== Economic Impact of Open Source
 
 For SMBs, a web/online presence pays off immensely. We are going to look at some factors leading to this pay off, and demonstrate how having a web presence makes such a significant difference, and how the use of Open Source is an additional driver for success. 
 
