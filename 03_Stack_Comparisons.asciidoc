@@ -222,12 +222,13 @@ The big three of WordPress, Joomla and Drupal reman in firm command of the marke
 
 In the "2011 Open Source CMS Market Share Report footnote:[http://www.waterandstone.com/book/2011-open-source-cms-market-share-report[water&stone]] they identify that their audience of more than 2,500 respondents 20% were 1-person only and 33% were between 2-10-person shops. This certainly represents SMBs and their report clearly shows that WordPress in Weekly Downloads, is about a factor of 8 times that of the next closest competitor of Joomla. Total installs are about 4.3m compared to 1.7m for Joomla. The magnitude of dominance is also what we find in the Bluehost data. But, interestingly enough, the Google Trends for the CMSs measured are not a far off as would appear from the other sources. Seems like a much higher percentage of Bluehost customers, water&stone responents, and job advertisements skew towards Wordpress in a fairly large fashion.
 
+The image immediately below shows the Google Search volume for the four CMS options offered by Bluehost. As you can see WordPress is dominant but not as much as the images below this first view. Search volume has the closest differential between the CMSs. In other words, WordPress is dominant but by a smaller margin.
+
 image::images/CMS_Google_Trends.jpg[scalewidth="90%"]
 
+The next view shows how many jobs were advertised for the four CMSs in this study. As you can see, WordPress is dominant. Joomla had a period at the end of 2007 where it spiked above WordPress but nothing even close since then.
 
-
-
-image::images/CMS_avg_Jobs.jpg[scalewidth="90%"]
+image::images/CMS_Tot_Jobs.jpg[scalewidth="90%"]
 
 
 === Trends:
