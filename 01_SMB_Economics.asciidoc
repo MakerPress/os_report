@@ -159,9 +159,9 @@ The average SMB spends $45/month on web hosting
 
 Bluehost customers average rate of $7.49 per month so does mean anything
 
-The average respondent without an online presence guessed that a business Web site would cost $67 per month, according to the study, while 91 percent of respondents guessed it would cost more than $10 per month.  According to the study, the average SMB with an online presence spends $45 per month for Web hosting.
+The average respondent without an online presence guessed that a business website would cost $67 per month, according to the study, while 91% of respondents guessed it would cost more than $10 per month.  According to the study, the average SMB with an online presence spends $45 per month for Web hosting.
 
 Mar/2012 survey of 1&1 internet
-http://www.transmutationsciences.com/design/smbs-without-websites-are-you-one-of-the-40-percent/ [smb web usage]
+http://www.transmutationsciences.com/design/smbs-without-websites-are-you-one-of-the-40-percent/[smb web usage]
 
-Now that we have spent a little time looking at the economics open source can have on a small business, let's not take a look at the technology stack they use, and the typical site owner profile.
+Now that we have spent a little time looking at the economics that open source can have on a small business, let's take a look at the technology stacks they use and the typical site owner profile.
