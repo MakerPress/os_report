@@ -21,8 +21,6 @@ Fortunately, there is another market in which open source software is more direc
 
 In this report, we provide an analysis of the economic impact of open source software on the success of these industries, and by extension, on the businesses they serve. In particular, we focus on web hosting, which provides websites and ancillary services to small and medium sized businesses (SMBs).
 
-// Should the next two paragraphs be removed? They appear to be notes about sources needed. 
-
 Sources needed: stats on overall size and revenues of ISP business, web hosting, Bluehost as a share of that. Domain registration too.
 
 If possible, would be interesting to compare revenues of these segments to the signature companies listed above. This would give us a sense of the innovation premium vs the base case value of open source.
