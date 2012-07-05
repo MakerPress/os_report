@@ -233,23 +233,35 @@ image::images/CMS_Tot_Jobs.jpg[scalewidth="90%"]
 
 === Trends:
 
-The trends in the CMS space are fairly simple. WordPress is dominant and not showing any vulnerability for a competitor to snatch the market leadership position. Joomla has some market share for the second spot, but well below the Market control that WordPress currently occupies.
+The following four charts show the trends in the Job market for the four CMSs tools that we compared. WordPress is dominant and not showing any vulnerability for a competitor to snatch the market leadership position. Joomla has some market share for the second spot, but well below the Market control that WordPress currently occupies. The Green area behind the bar charts shows the overall Job market trends from all online job advertisements. For the most part all of the CMSs followed the cyclical pattern of the overall market.
+
+The story with WordPress is that the Scale on the right that represents Average Monthly Jobs is much greater in its high end. That is, the top of the scale is 7,000 jobs are advertised on a monthly basis where as Joomla's high end is 1,400 and it is the second largest of the CMSs. WordPress has a fairly large ecosystem to support the SMB with more than 14k plugins. The drawback to watch out as an SMB is the frequency which WordPress updates are released. WordPress has a new release around every 20 days. The formula for this is (now() - release_date) / #releases = days between releases, or (7/5/2012 - 5/27/2003) / 164 = 20.29. 
 
 image::images/wordPressAvg.jpg[scalewidth="90%"]
 
-
+The main difference for using Joomla to build a SMB website, is it's viewed as more difficult because it handles complex multiple user privileges and supports custom database operations. So it maybe questionable whether or not a SMB that is on the ramp-up side, needs those features. Joomla has more that 7k of the plugins available and is updated on average of every 37 days.
 
 image::images/joomlaAvg.jpg[scalewidth="90%"]
 
-
+Drupal is the oldest of the three large CMSs yet has the smallest market share. It started as a community web board and is excellent for building community type websites. There are more than 8k plugins and as a platform it is updated every 36 days. Interesting to note that the White House uses Drupal.
 
 image::images/drupalAvg.jpg[scalewidth="90%"]
 
-
+Magento is not a large player in the CMS market, but for our dataset it is represented because if you sign up with one of the hosting service plans from Bluehost, you get Magento for free.  So it is included here.
 
 image::images/magentoAvg.jpg[scalewidth="90%"]
 
+TECHi has an excellent write up and InfoGraphic titled Open source wars: Wordpress vs Drupal vs Joomla that provides an excellent comparison of the features and costs of the three large CMSs. Here is a summary of cost components that may make the platforms more palatable for a SMB.
 
+[options="header"]
+|======= 
+|What   |Wordpress	|Joomla| Drupal|
+|Cost to set up	|$250-$15,000|$5,000 - $50,000|$2,000 - $20,000 
+|Avg Monthly Maintenance |$250|$1,500|$500 
+|Number of Plugins	|14,629|8,039|7,609 
+|Number of Themes	|1,392 |885|54-100 footnote:[http://www.themepartner.com/blog/55/how-many-templates-for-joomla-are-there/]
+|Monthly Visits to Main Site|50,000,000|55,700|59,600 
+|=======
 
 
 
