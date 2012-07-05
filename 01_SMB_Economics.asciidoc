@@ -6,11 +6,11 @@ list test
 
 * item
 
- ** subitem
+** subitem
 
 * item
 
- ** subitem
+** subitem
 
 ** subitem
 
