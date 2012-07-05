@@ -60,19 +60,21 @@ Finally, we estimate what was _left off the table_. We estimate that as follows:
 
 This is an estimate, because we are assuming that EconImp_Goog_SMB came solely from SMBs with websites. (You still can use AdWords even if you don’t have a website, but you probably need to be able to optimize your landing pages to maximize conversion and get to the 8 multiple from Google.)
 
-=== Economic Impact Enabled by Lower Costs ** I would change this header name, eg, The Economics of Open Source | Open Source Economic Impact Model
+=== Economic Impact Enabled by Lower Costs (rm note 2012-07-5: I would change this header name, eg, The Economics of Open Source | Open Source Economic Impact Model end rm note)
 
 The price for a web presence has been driven down for more than a decade by a number of factors, including resource sharing, enabled by virtualization, Moore's Law lowering the cost and increasing the power of compute resources, data center economies of scale, and, as we cover below, the availability and adoption of no-cost/low-cost open source projects as key web presence components. These lower costs have made a web presence, and all the benefits that a web presence provides, available to a wide swath of SMBs, and, for the growing HBB segment.
 
-Open source projects and vendoes provide low-cost/no-cost options for business consumers, and, often, help keep the price of competing commercial products in check. For some tools relevant to SMBs, for example ecommerce and CMS, (**rm note 2012-07-05: not sure where first reference and explanation of CMS resides in doc, I assume it's before this section end rm note**) open source projects and vendors dominate the market.
+Open source projects and vendoes provide low-cost/no-cost options for business consumers, and, often, help keep the price of competing commercial products in check. For some tools relevant to SMBs, for example ecommerce and CMS, (rm note 2012-07-05: not sure where first reference and explanation of CMS resides in doc, I assume it's before this section end rm note) open source projects and vendors dominate the market.
 
-(**rm note 2012-07-05: mention as a sidebar?: For tech savvy SMBs, open source offers other benefits in addition to low cost: access to the source code, including the ability to make changes specific to your business, and access to community-based support. There are many stories of those using open source tools finding a problem, posting the problem on an online forum and having the person who wrote the code respond with a fix ** end rm note)
+// rm note 2012-07-05: mention as a sidebar?:
+For tech savvy SMBs, open source offers other benefits in addition to low cost: access to the source code, including the ability to make changes specific to your business, and access to community-based support. There are many stories of those using open source tools finding a problem, posting the problem on an online forum and having the person who wrote the code respond with a fix end rm note
+// end rm
 
-**rm note 2012-07-05: consider adding reference to Etsy, Ebay and Amazon here:**
+// rm note 2012-07-05: consider adding reference to Etsy, Ebay and Amazon here:
 
 Keep in mind that beyond creating their own web presence, SMBs and HBBs have access to number of commerce platforms and marketing/promotion platforms that are built on open source architectures, for example: eBay, Amazon, Etsy, Google, Facebook and Twitter. Even those SMBs with who build their own web presence may include storefronts on eBay, Amazon or Etsy, and may augment their marketing via Facebook and Twitter. We focus on the cost differential between between open source and commercial infrastructure components for SMBs running their own web presence, either on their own or via a hosting or cloud vendor.
 
-**end rm note 2012-07-05
+// end rm note 2012-07-05
 
 Constant pressure from open source projects driving costs down over the last 15 years has made having a web presence affordable, and has made the business opportunities that a web presence provides a possibility for many SMBs, including the growing HBB segment. Commercial vendors need to keep prices in check due to competition from open source projects. 
 
@@ -304,3 +306,26 @@ Mar/2012 survey of 1&1 internet
 http://www.transmutationsciences.com/design/smbs-without-websites-are-you-one-of-the-40-percent/[smb web usage]
 
 Now that we have spent a little time looking at the economics that open source can have on a small business, let's take a look at the technology stacks they use and the typical site owner profile.
+
+Bens model for cost savings based on Amazon EC2 hosting (18hrs / day, medium utilization, medium usage):
+Impact of open source = (web hosting savings) * 8 = (1164 - 631) * 8 = $4,264
+
+where 
+Web Hosting Savings is detailed just below
+8 => Google AdWords multiplier (we assume savings from open source is spent entirely on AdWords)
+
+Web hosting savings = 1164 - 631  (using middle option below)
+                                  = $533
+
+Windows and  Linux    ,  web hosting using amazon EC2 Hosting
+Basic hosting
+$890 = windows,
+$631 = linux
+
+Basic hosting + smallish database     (USED THIS OPTION IN ABOVE CALCULATION)
+$1,164 = windows with web database access
+$631  = Linux
+
+Basic hosting + database
+$4,486 = windows with full access SQL server
+$631    =  linux
