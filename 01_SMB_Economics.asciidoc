@@ -46,21 +46,21 @@ This is an estimate, because we are assuming that EconImp_Goog_SMB came solely f
 
 Constant pressure from open source projects driving costs down over the last 15 years has made having a web presence affordable, and has made the business opportunities that a web presence provides a possibility for many SMBs, including the growing HBB segment. Commercial vendors need to keep prices in check due to competition from open source projects. 
 
-In some application spaces important to SMBs (eCommerce platforms and CMS systems, for example), open source tools represent a significant share.
+In some application spaces that are important to SMBs (eCommerce platforms and CMS systems, for example), open source tools represent a significant share.
 
 For SMBs, virtualization and hosting provide access to technology skills and more efficient resource utilization (i.e., “sharing” a server) that also enable lower costs and wider access to a web presence (not related to open source, but a worthwhile point).
 
-Looking at last few years, we've built a model showing the cost differential created by Open Source options for the software infrastructure for creating a web presence.
+Looking at the last few years, we've built a model showing the cost differential created by Open Source options for the software infrastructure for creating a web presence.
 
 === Savings Methodology (Simple)
 
-We set out to build a model that can help quantify the open source savings differential for infrastructure software like operating systems and databases - the type of software needed for most applications. We start by using Amazon’s EC2 hosted platform pricing, with its open source (Linux, MySQL) and commercial (Microsoft Windows and SQL Server) options running on the same hardware infrastructure in the same data centers. We use an analysis of Bluehost’s business customers to help us determine the share of SMB customers who need a database, based on their use of typically SMB applications like ecommerce and CMS.
+We set out to build a model that can help quantify the open source savings differential for infrastructure software like operating systems and databases--the type of software needed for most applications. We start by using Amazon’s EC2 hosted platform pricing, with its open source (Linux, MySQL) and commercial (Microsoft Windows and SQL Server) options running on the same hardware infrastructure in the same data centers. We used an analysis of Bluehost’s business customers to help us determine the share of SMB customers who need a database, based on their use of typical SMB applications like ecommerce and CMS.
 
-Our model shows that for a proxy of the SMB market, the price differential for hardware platforms running commercial software is about 2, i.e., SMBs would pay about double for the hardware/software infrastructure they need to operate online. For the smallest SMBs, who don’t need a database, the differential is about 1.5.
+Our model shows that for a proxy of the SMB market, the price differential for hardware platforms running commercial software is about 2, i.e., SMBs would pay about twice as much for the hardware/software infrastructure they need to operate online. For the smallest SMBs, those who don’t need a database, the differential is about 1.5.
 
-We focused on the infrastructure components of operating system and database because they are common for web presence and applications and they require similar administration and operating expense loads. For more complex applications, researchers have found more of mixed picture about the savings from open source applications <consider ref to research here>. Tellingly, for the type of applications most SMBs most need for a web presence, ecommerce apps and CMSs, open source options dominate the market - all the leading applications operate on both Linux and Windows, and most of the leading CMSs run on both MySQL and SQL Server.
+We focused on the infrastructure components of operating systems and databases because they are common for a web presence and applications, and they require similar administration and operating expense loads. For more complex applications, researchers have found a more mixed picture about the savings from open source applications <consider ref to research here>. Tellingly, for the type of applications SMBs need most for a web presence (ecommerce apps and CMSs), open source options dominate the market--all of the leading applications operate on both Linux and Windows, and most of the leading CMSs run on both MySQL and SQL Server.
 
-Here’s the high level view of the model:
+Here’s the high-level view of the model:
 
 * Share of SMB customers w/ full access db * full access db price differential
 
@@ -68,7 +68,7 @@ Here’s the high level view of the model:
 
 * Share of SMB customers w/ no db * no db price differential
 
-At a high level, the model looks a the share of SMBs who need the various levels of database support available for Windows platforms on EC2 and multiplies that by the ]allocated] price differential between Windows and Linux pricing for the types of EC2 instances appropriate for SMBs web presence.
+At a high level, the model looks at the portion of SMBs that need the various levels of database support available for Windows platforms on EC2 and multiplies that by the ]allocated] price differential between Windows and Linux for the types of EC2 instances appropriate for a SMB's web presence.
 
 ==== Model details
 Assumptions used to build the model:
@@ -81,16 +81,15 @@ Assumptions used to build the model:
 
 .. One-year term
 
-.. “Medium Utilization Reserved Instances” - providing a reserved instance and balancing upfront costs with lower hourly costs for a 1 yr term
+.. “Medium Utilization Reserved Instances”--providing a reserved instance and balancing up-front costs with lower hourly costs for a 1 year term
 
-.. Average of Small (Default) and Medium pricing within the “Medium Utilization” tier
-The price differential between open source and commercial instances drops as usage/volume rises; these changes have a small effect on the model
-To calculate the cost differential, we allocate upfront costs by month and assume hourly fees for 18 hours of usage per day in the month
-. EC2 pricing includes the hardware, system administration, network, HVAC, real estate and other costs required to run a network connected server instance
+.. Average of Small (Default) and Medium pricing within the “Medium Utilization” tier. The price differential between open source and commercial instances drops as usage/volume rises; these changes have a small effect on the model. To calculate the cost differential, we allocate up-front costs by month and assume hourly fees for 18 hours of usage per day in the month
 
-. We use “Medium Utilization Reserved Instances” pricing, balancing up front fees with lower hourly costs compared to the “Light Utilization” and “Heavy Utilization” options, while providing a reserved instance as a typical choice for SMBs
+. EC2 pricing includes the hardware, system administration, network, HVAC, real estate, and other costs required to run a network-connected server instance
 
-. Within the “Medium Utilization” pricing we average the discount between Small (Default) and Medium pricing
+. We use “Medium Utilization Reserved Instances” pricing, balancing up-front fees with lower hourly costs compared to the “Light Utilization” and “Heavy Utilization” options, while providing a reserved instance as a typical choice for SMBs
+
+. Within the “Medium Utilization” pricing, we average the discount between Small (Default) and Medium pricing
 
 .. The price differential between open source and commercial instances drops as usage rises
 
@@ -100,16 +99,16 @@ To calculate the cost differential, we allocate upfront costs by month and assum
 
 .. Three combinations of usage and price options are offered for SQL Server
 
-.. -SQL Server Express - free for up to 10 Gb
+... SQL Server Express--free for up to 10 Gb
 
-.. -SQL Server (Web) - for work loads typical of web sites running a CMS
+... SQL Server (Web)--for work loads typical of web sites running a CMS
 
-.. -SQL Server (Full) - full access loads and function typical of transaction systems like ecommerce and finance apps
+... SQL Server (Full)--full access loads and function typical of transaction systems like ecommerce and finance apps
 
 . Ecommerce systems require full database access
 
 . CMS systems require web database access
-. The mix of Bluehost business customers use of ecommerce apps, CMS apps and simple web presence represents a reasonable proxy for the US SMB market:
+. The mix of Bluehost business customers' use of ecommerce apps, CMS apps, and simple web presence represents a reasonable proxy for the US SMB market:
 
 .. 7.4% have an ecommerce system (all have a web presence, many have CMS)
 
@@ -119,7 +118,7 @@ To calculate the cost differential, we allocate upfront costs by month and assum
 
 . Many SMBs generate low data volumes, we assume:
 
-.. 50% of SMBs with an ecommerce have small enough data volumes to use free SQL Server Express
+.. 50% of SMBs with ecommerce have small enough data volumes to use free SQL Server Express
 
 .. 50% of SMBs with a CMS have small enough data volumes to use free SQL Server Express
 
@@ -127,9 +126,9 @@ Our model combines the usage patterns based on the Bluehost SMB business user da
 
 *Adjusted ecommerce share (adj_ecomm):*
 
-.. 7.4% of SMBs w/ ecommerce * 50% of SMBs too big for free comm’l database: 3.7%
-.. Adjusted CMS share (adj_cms):
-.. 70% of SMBs w/ CMS * 50% of SMBs too big for free comm’l database: 35%
+. 7.4% of SMBs with ecommerce * 50% of SMBs too big for free commercial database: 3.7%
+. Adjusted CMS share (adj_cms):
+. 70% of SMBs with CMS * 50% of SMBs too big for free commercial database: 35%
 
 *Web Presence (web_pres):*
 
@@ -157,13 +156,13 @@ No database price differential (nodb_diff): 1.57'
 
 Here’s the model assumptions and details
 
-Bluehost users mix of ecommerce, CMS and web presence which represents a reasonable proxy for a US SMB market. We checked that the users had a ecommerce solution, used a CMS, and had a Web presence and came up with:
+Bluehost users' mix of ecommerce, CMS, and Web presence, which represents a reasonable proxy for a US SMB market. We checked that the users had an ecommerce solution, used a CMS, and had a Web presence and came up with:
 
 . 7% of users have an ecommerce solution
 . 70% use a CMS to manage their content
 . 23% had web presence only
 
-Amazon EC2 pricing a reasonable proxy for the difference in open source and commercial server software infrastructure, i.e., operating systems.  We figure that the average SMB is serving pages roughly 18 hours a day. We believe there is not a heavy reliance on localized versions of a website by the SMBs.
+Amazon EC2 pricing is a reasonable proxy for the difference in open source and commercial server software infrastructure, i.e., operating systems. We figure that the average SMB is serving pages roughly 18 hours a day. We believe that there is not a heavy reliance on localized versions of a website by the SMBs.
 
 Half of SMBs with ecommerce or transactions systems have small enough data volumes to use free versions of commercial databases, e.g., SQL Server Express with 10 Gb limit.
 
