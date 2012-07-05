@@ -19,5 +19,5 @@ It is difficult to know how much value to ascribe to the open source platforms o
 
 Fortunately, there is another market in which open source software is more directly delivered as a service. Internet service providers, domain name registrars, and web hosting firms effectively sell access to open source software for a monthly subscription fee.
 
-In this report, we provide an analysis of the economic impact of open source software on the success of these industries, and by extension, on the businesses they serve. In particular, we focus on web hosting, which provides websites and ancillary services to small and medium sized businesses.
+In this report, we provide an analysis of the economic impact of open source software on the success of these industries, and by extension, on the businesses they serve. In particular, we focus on web hosting, which provides websites and ancillary services to small and medium sized businesses (SMBs).
 

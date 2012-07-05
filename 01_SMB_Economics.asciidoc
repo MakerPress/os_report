@@ -30,7 +30,7 @@ Google owns 80% of ad spend on paid search footnote:[http://www.advmediaproducti
 37% * 80% = 29.6%
 
 [start=3]
-. *Google multiplier = 8* footnote:[http://www.google.com/economicimpact/methodology.html[Google]]. We conservatively estimate that for every $1 a business spends on AdWords, it receives $8 in profit through Google Search and AdWords. Thus, to derive the economic value received by advertisers, we multiply our AdWords revenue on Google.com search results in 2011–what advertisers spent–by 8.
+. *Google multiplier = 8* footnote:[http://www.google.com/economicimpact/methodology.html[Google]]. We conservatively estimate that for every $1 a business spends on AdWords, it receives $8 in profit through Google Search and AdWords. Thus, to derive the economic value received by advertisers, we multiply our AdWords revenue on Google.com search results in 2011&mdash;what advertisers spent&mdash;by 8.
 
 The product of (1) * (2) * (3) = Economic impact of Google AdWords = *EconImp_Goog_SMB*.
 
@@ -42,7 +42,7 @@ Finally, we estimate what was _left off the table_. We estimate that as follows:
 
 This is an estimate, because we are assuming that EconImp_Goog_SMB came solely from SMBs with websites. (You still can use AdWords even if you don’t have a website, but you probably need to be able to optimize your “landing pages” to maximize “conversion” and get to the “8” multiple from Google.)
 
-=== Economic impact enabled by lower costs (and virtualizations)
+=== Economic Impact Enabled by Lower Costs (and Virtualizations)
 
 Constant pressure from open source projects driving costs down over the last 15 years has made having a web presence affordable, and has made the business opportunities that a web presence provides a possibility for many SMBs, including the growing HBB segment. Commercial vendors need to keep prices in check due to competition from open source projects. 
 
@@ -52,7 +52,7 @@ For SMBs, virtualization and hosting provide access to technology skills and mor
 
 Looking at last few years, we've built a model showing the cost differential created by Open Source options for the software infrastructure for creating a web presence.
 
-=== Savings methodology (simple)
+=== Savings Methodology (Simple)
 
 We set out to build a model that can help quantify the open source savings differential for infrastructure software like operating systems and databases - the type of software needed for most applications. We start by using Amazon’s EC2 hosted platform pricing, with its open source (Linux, MySQL) and commercial (Microsoft Windows and SQL Server) options running on the same hardware infrastructure in the same data centers. We use an analysis of Bluehost’s business customers to help us determine the share of SMB customers who need a database, based on their use of typically SMB applications like ecommerce and CMS.
 
@@ -68,7 +68,7 @@ Share of SMB customers w/ full access db * full access db price differential
 
 At a high level, the model looks a the share of SMBs who need the various levels of database support available for Windows platforms on EC2 and multiplies that by the ]allocated] price differential between Windows and Linux pricing for the types of EC2 instances appropriate for SMBs web presence.
 
-==== Model Details
+==== Model details
 Assumptions used to build the model:
 
 . Amazon EC2 pricing provides a reasonable proxy for the difference between open source and commercial software infrastructure, i.e., operating systems and databases
@@ -159,7 +159,7 @@ Half of SMBs with ecommerce or transactions systems have small enough data volum
 
 Half of SMBs with CMSs have small enough data volumes to use free commercial databases, such as MySQL or others.
 
-=== Savings methodology (detail)
+=== Savings Methodology (Detail)
 
 We used the mix of user tools in the Bluehost user data to allocate share to different workloads with different cost differentials, using Amazon EC2 pricing.
 
@@ -202,7 +202,7 @@ For many small businesses, SQL Server Express may have enough storage to be usef
 
 see spreadsheet ~/analysis_projects/bluehost_study/briefs/economic_impact.xls for details
 
-===== Adjusted ecommerce share
+==== Adjusted ecommerce share
 
 Approximately 7.4% of Bluehost customers have eCommerce software installed. To determine the price differential for the OS and DBMS for the broader market, we assume 50% of SMB customers have small enough data volumes to use free versions of commercial databases (e.g., SQL Server Express); 
 
@@ -210,7 +210,7 @@ Approximately 7.4% of Bluehost customers have eCommerce software installed. To d
 
 *note:* Model sensitivity to changes in the share of open source, at 60% Open Source, the cost differential drops from 2.05 to 1.98; at 60% Commercial, the cost differential rises from 2.05 to 2.11
 
-===== Adjusted CMS share
+==== Adjusted CMS share
 
 Approximately 70% of Bluehost customers have CMS software installed. To determine the price differential for the OS and DBMS for the broader market, we assume 50% of SMB customers have small enough data volumes to use free versions of commercial databases (e.g., SQL Server Express); 
 
@@ -218,7 +218,7 @@ Approximately 70% of Bluehost customers have CMS software installed. To determin
 
 *note:* Model sensitivity to changes in the share of open source, at 60% Open Source, the cost differential drops from 2.05 to  1.00; at 60% Commercial, the cost differential rises from 2.05 to 2.09>
 
-===== Web presence
+==== Web presence
 
 All other users, approximately 61% of SMB customers, are assumed to have small enough database requirements that they can use free versions of commercial databases and 22.7% of customers have neither eCommerce or CMS software installed. 
 
@@ -232,7 +232,7 @@ Total share: 22.7% + 3.7% + 35% = 61.4%%
 
 Average of Small and Medium allocated (monthly) up front costs and hourly costs (for 18 hours of usage/day) for Amazon EC2 Medium Utilization Reserved Instances for Windows and SQL Server w/ full access compared to Linux.
 
-===== Commercial software cost differential (web db)
+==== Commercial software cost differential (web db)
 
 Average of Small and Medium allocated (monthly) up front costs and hourly costs (for 18 hours of usage/day) for Amazon EC2 Medium Utilization Reserved Instances for Windows and SQL Server w/ web access compared to Linux.
 
@@ -248,7 +248,7 @@ In some applications spaces important to SMBs, e.g., eCommerce platforms and CMS
 For SMBs, virtualization and hosting provide access to technology skills and more efficient resource utilization (i.e., “sharing” a server) that also enable lower costs and wider access to a web presence (not related to open source, but a worthwhile point)
 Looking at last few years, we build a model showing the cost differential created by Open Source options for the software infrastructure for creating a web presence.
 
-=== Small Business Should be Online
+=== Small Business Should Be Online
 Open Source helps keep costs low enough for SMBs to build web presence for promotions, advertising and displaying company/product information
 Blunt model showing with an estimate of economic impact
 The average SMB spends $45/month on web hosting
