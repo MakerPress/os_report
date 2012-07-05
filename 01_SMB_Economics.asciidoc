@@ -3,16 +3,11 @@
 == Economic Impact of Open Source
 
 list test
-
-* item
-
-** subitem
-
-* item
-
-** subitem
-
-** subitem
+. * item
+. ** subitem
+. * item
+. ** subitem
+. ** subitem
 
 For SMBs, a web/online presence pays off immensely. In this report, we'll look at some of the factors leading to this pay off, and demonstrate how having a web presence makes such a significant difference, and how the use of Open Source is an additional driver for success. 
 
@@ -27,21 +22,34 @@ So let's assume that a SMB uses Google AdWords to help boost their revenue. We k
 
 Next we estimate the dollars that _could_ have gone to SMBs that don’t have a website. Let’s look at each of these parts:
 
-* *Total ad spending by SMBs* => average of these two
-$5.4 billion in 2010, according to this article from BIA/Kelsey. footnote:[http://www.biakelsey.com/Company/Press-Releases/110830-Digital-Advertising,-Performance-and-Retention-Solutions-Will-Be-70-Percent-of-SMB-Marketing-Budgets-by-2015.asp[BIA/Kelsey]]
+[start=1]
+. *Total ad spending by SMBs* => average of these two
+$5.4 billion in 2010, according to this article from BIA/Kelsey footnote:[http://www.biakelsey.com/Company/Press-Releases/110830-Digital-Advertising,-Performance-and-Retention-Solutions-Will-Be-70-Percent-of-SMB-Marketing-Budgets-by-2015.asp[BIA/Kelsey]].
++
+$2,300 * # of SMBs in 2011. This survey estimates _online_ ad spend at $2,300 per SMB in 2011.
 
-** $2,300 * # of SMBs in 2011. This survey estimates _online_ ad spend at $2,300 per SMB in 2011.
+[start=2]
+. *Share of ad spending on Google AdWords* ~29%. This is a product of the numbers below.
+By 2010, 37% of online ad spending will go to paid search footnote:[http://www.emarketer.com/Reports/Viewer.aspx?R=2000488&page=5[eMarketer]].
++
+Google owns 80% of ad spend on paid search footnote:[http://www.advmediaproductions.com/blog/google-dominates-paid-search-advertising-with-80-market-share-unaffected-by-the-rise-of-bing/[ADV Media]].
++
+37% * 80% = 29.6%
 
-* *Share of ad spending on Google AdWords* ~29%. This is a product of the numbers below.
-By 2010, 37% of online ad spending will go to paid search. footnote:[http://www.emarketer.com/Reports/Viewer.aspx?R=2000488&page=5[eMarketer]]
+[start=3]
+. *Google multiplier = 8* footnote:[http://www.google.com/economicimpact/methodology.html[Google]]. We conservatively estimate that for every $1 a business spends on AdWords, it receives $8 in profit through Google Search and AdWords. Thus, to derive the economic value received by advertisers, we multiply our AdWords revenue on Google.com search results in 2011—what advertisers spent—by 8.
 
-* *Google owns 80% of ad spend on paid search.* footnote:[http://www.advmediaproductions.com/blog/google-dominates-paid-search-advertising-with-80-market-share-unaffected-by-the-rise-of-bing/[ADV Media]]
+<<<<<<< HEAD
+  ** Google owns 80% of ad spend on paid search. footnote:[http://www.advmediaproductions.com/blog/google-dominates-paid-search-advertising-with-80-market-share-unaffected-by-the-rise-of-bing/[ADV Media]]
 
-** 37% * 80% = 29.6%
+  ** 37% * 80% = 29.6%
 
 * *Google multiplier = 8* footnote:[http://www.google.com/economicimpact/methodology.html[Google]]. We conservatively estimate that for every $1 a business spends on AdWords, it receives $8 in profit through Google Search and AdWords. Thus, to derive the economic value received by advertisers, we multiply our AdWords revenue on Google.com search results in 2011—what advertisers spent—by 8.
 
-** The product of (1) * (2) * (3) = Economic impact of Google AdWords = *EconImp_Goog_SMB*.
+ ** The product of (1) * (2) * (3) = Economic impact of Google AdWords = *EconImp_Goog_SMB*.
+=======
+The product of (1) * (2) * (3) = Economic impact of Google AdWords = *EconImp_Goog_SMB*.
+>>>>>>> 7de710749df3415bbeeb31e38498d6fd5e422e97
 
 Finally, we estimate what was _left off the table_. We estimate that as follows: 
 
@@ -80,34 +88,33 @@ Here’s the high-level view of the model:
 At a high level, the model looks at the portion of SMBs that need the various levels of database support available for Windows platforms on EC2 and multiplies that by the ]allocated] price differential between Windows and Linux for the types of EC2 instances appropriate for a SMB's web presence.
 
 ==== Model details
-
 Assumptions used to build the model:
 
-* Amazon EC2 pricing provides a reasonable proxy for the difference between open source and commercial software infrastructure, i.e., operating systems and databases
+- Amazon EC2 pricing provides a reasonable proxy for the difference between open source and commercial software infrastructure, i.e., operating systems and databases
 
-* Amazon is equally adept at negotiating with their open source and commercial providers
+- Amazon is equally adept at negotiating with their open source and commercial providers
 
-* We chose specific pricing options that reflect typical choices for SMB customers<, optional: knowing that there is no typical SMB customers and that their online needs vary widely:
+- We chose specific pricing options that reflect typical choices for SMB customers<, optional: knowing that there is no typical SMB customers and that their online needs vary widely>:
 
-** One-year term
+.. One-year term
 
-** “Medium Utilization Reserved Instances”--providing a reserved instance and balancing up-front costs with lower hourly costs for a 1 year term
+.. “Medium Utilization Reserved Instances”--providing a reserved instance and balancing up-front costs with lower hourly costs for a 1 year term
 
-** Average of Small (Default) and Medium pricing within the “Medium Utilization” tier. The price differential between open source and commercial instances drops as usage/volume rises; these changes have a small effect on the model. To calculate the cost differential, we allocate up-front costs by month and assume hourly fees for 18 hours of usage per day in the month
+.. Average of Small (Default) and Medium pricing within the “Medium Utilization” tier. The price differential between open source and commercial instances drops as usage/volume rises; these changes have a small effect on the model. To calculate the cost differential, we allocate up-front costs by month and assume hourly fees for 18 hours of usage per day in the month
 
-* EC2 pricing includes the hardware, system administration, network, HVAC, real estate, and other costs required to run a network-connected server instance
+. EC2 pricing includes the hardware, system administration, network, HVAC, real estate, and other costs required to run a network-connected server instance
 
-* We use “Medium Utilization Reserved Instances” pricing, balancing up-front fees with lower hourly costs compared to the “Light Utilization” and “Heavy Utilization” options, while providing a reserved instance as a typical choice for SMBs
+. We use “Medium Utilization Reserved Instances” pricing, balancing up-front fees with lower hourly costs compared to the “Light Utilization” and “Heavy Utilization” options, while providing a reserved instance as a typical choice for SMBs
 
-* Within the “Medium Utilization” pricing, we average the discount between Small (Default) and Medium pricing
+. Within the “Medium Utilization” pricing, we average the discount between Small (Default) and Medium pricing
 
-** The price differential between open source and commercial instances drops as usage rises
+.. The price differential between open source and commercial instances drops as usage rises
 
-* Database pricing
+. Database pricing
 
-** MySQL is included with the Linux option pricing
+.. MySQL is included with the Linux option pricing
 
-** Three combinations of usage and price options are offered for SQL Server
+.. Three combinations of usage and price options are offered for SQL Server
 
 ... SQL Server Express--free for up to 10 Gb
 
@@ -115,37 +122,34 @@ Assumptions used to build the model:
 
 ... SQL Server (Full)--full access loads and function typical of transaction systems like ecommerce and finance apps
 
-* Ecommerce systems require full database access
+. Ecommerce systems require full database access
 
-* CMS systems require web database access
+. CMS systems require web database access
+. The mix of Bluehost business customers' use of ecommerce apps, CMS apps, and simple web presence represents a reasonable proxy for the US SMB market:
 
-* The mix of Bluehost business customers' use of ecommerce apps, CMS apps, and simple web presence represents a reasonable proxy for the US SMB market:
+.. 7.4% have an ecommerce system (all have a web presence, many have CMS)
 
-** 7.4% have an ecommerce system (all have a web presence, many have CMS)
+.. 70% use a CMS to manage content, but no ecommerce system
 
-** 70% use a CMS to manage content, but no ecommerce system
+.. 23% have a web presence only<, i.e., no ecommerce or CMS instances>
 
-** 23% have a web presence only<, i.e., no ecommerce or CMS instances>
+. Many SMBs generate low data volumes, we assume:
 
-* Many SMBs generate low data volumes, we assume:
+.. 50% of SMBs with ecommerce have small enough data volumes to use free SQL Server Express
 
-** 50% of SMBs with ecommerce have small enough data volumes to use free SQL Server Express
-
-** 50% of SMBs with a CMS have small enough data volumes to use free SQL Server Express
+.. 50% of SMBs with a CMS have small enough data volumes to use free SQL Server Express
 
 Our model combines the usage patterns based on the Bluehost SMB business user data with the price differentials between the various options to determine an overall open source / commercial price differential.
 
 *Adjusted ecommerce share (adj_ecomm):*
 
-* 7.4% of SMBs with ecommerce * 50% of SMBs too big for free commercial database: 3.7%
-
-* Adjusted CMS share (adj_cms):
-
-** 70% of SMBs with CMS * 50% of SMBs too big for free commercial database: 35%
+. 7.4% of SMBs with ecommerce * 50% of SMBs too big for free commercial database: 3.7%
+. Adjusted CMS share (adj_cms):
+. 70% of SMBs with CMS * 50% of SMBs too big for free commercial database: 35%
 
 *Web Presence (web_pres):*
 
-* 100% of SMB customers less adjusted ecommerce share (3.7%) less adjusted CMS share (35%): 61%
+. 100% of SMB customers less adjusted ecommerce share (3.7%) less adjusted CMS share (35%): 61%
 
 *General price differential formula:*
 
