@@ -2,6 +2,10 @@ include::00_Executive-Summary.asciidoc[]
 
 include::InfoGraphic3.asciidoc[]
 
+include::01_SMB_Economics.asciidoc[]
+
+include::InfoGraphic1.asciidoc[]
+
 include::02_The-Stacks.asciidoc[]
 
 include::InfoGraphic2.asciidoc[]
