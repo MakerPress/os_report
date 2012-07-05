@@ -6,7 +6,7 @@ For SMBs, a web/online presence pays off immensely. We are going to look at some
 
 Constant cost pressures during the last 15 years from open source projects has made a web presence affordable, and the business opportunities that a web presence provides are now possible for many SMBs, including the growing home-based business (HBB) segment. 
 
-So let's assume that a SMB uses Google AdWords to help boost their revenue. We know that spending on Google AdWords work best if users go to a landing page with a clear call to action. In addition, having a website allows SMB owners to conduct simple A/B tests to increase conversion rates. Assuming that the average SMB owner who controls their own landing pages is able to meet Google's _conservative estimate_ ( 8 * (what you spend on AdWords) ). So what does this mean when you aggregate all SMBs that have a web presence, or more importantly, those that do not have a presence are losing potential huge revenue gains. So let's look at a formula that could help us get more insight into the revenue gains or losses due to a web presence. Note that 70% of ad spend is not on Google AdWords, so there must be benefits that come from those marketing dollars as well, but we do not capture those benefits below.
+So let's assume that a SMB uses Google AdWords to help boost their revenue. We know that spending on Google AdWords work best if users go to a landing page with a clear call to action. In addition, having a website allows SMB owners to conduct simple A/B tests to increase conversion rates. Assuming that the average SMB owner who controls their own landing pages is able to meet Google's _conservative estimate_ ( 8 * (what you spend on AdWords) ). So what does this mean when you aggregate all SMBs that have a web presence, or more importantly, those that do not have a presence are losing potential huge revenue gains. So let's look at a formula that could help us get more insight into the revenue gains or losses due to a web presence. *Note* that we are not covering the 70% of SMB online ad spend not used for Google Adwords - clearly SMBs get some value for these efforts that would increase the value of an online presence.
 
 '(Total ad spending by SMBs)
        * (share of ad spending on Google AdWords)
@@ -105,49 +105,45 @@ To calculate the cost differential, we allocate upfront costs by month and assum
 
 .. -SQL Server (Full) - full access loads and function typical of transaction systems like ecommerce and finance apps
 
-.. -Ecommerce systems require full database access
+.. Ecommerce systems require full database access
 
-.. -CMS systems require web database access
+.. CMS systems require web database access
 
-The mix of Bluehost business customers use of ecommerce apps, CMS apps and simple web presence represents a reasonable proxy for the US SMB market:
-
-7.4% have an ecommerce system (all have a web presence, many have CMS)
-
-70% use a CMS to manage content, but no ecommerce system
-
-23% have a web presence only<, i.e., no ecommerce or CMS instances>
-
-Many SMBs generate low data volumes, we assume:
-50% of SMBs with an ecommerce have small enough data volumes to use free SQL Server Express
-50% of SMBs with a CMS have small enough data volumes to use free SQL Server Express
+. Many SMBs generate low data volumes, we assume:
+.. 50% of SMBs with an ecommerce have small enough data volumes to use free SQL Server Express
+.. 50% of SMBs with a CMS have small enough data volumes to use free SQL Server Express
 
 Our model combines the usage patterns based on the Bluehost SMB business user data with the price differentials between the various options to determine an overall open source / commercial price differential.
 
-Adjusted ecommerce share (adj_ecomm):
-7.4% of SMBs w/ ecommerce * 50% of SMBs too big for free comm’l database: 3.7%
-Adjusted CMS share (adj_cms):
-70% of SMBs w/ CMS * 50% of SMBs too big for free comm’l database: 35%
-Web Presence (web_pres):
-100% of SMB customers less adjusted ecommerce share (3.7%) less adjusted CMS share (35%): 61%
+*Adjusted ecommerce share (adj_ecomm):*
 
-General price differential formula:
-price
-components:
-upfront price per month (upfront_price_mo)= upfront_price / 12
+.. 7.4% of SMBs w/ ecommerce * 50% of SMBs too big for free comm’l database: 3.7%
+.. Adjusted CMS share (adj_cms):
+.. 70% of SMBs w/ CMS * 50% of SMBs too big for free comm’l database: 35%
+
+*Web Presence (web_pres):*
+
+. 100% of SMB customers less adjusted ecommerce share (3.7%) less adjusted CMS share (35%): 61%
+
+*General price differential formula:*
+
+*Price components:*
+
+"upfront price per month (upfront_price_mo)= upfront_price / 12
 hourly rate per month (hr_price_mo) = hourly_rate * 18 hrs/day * 30 days
 upfront_share = upfront_price_mo / (upfront_price_mo + hr_price_mo)
- price = upfront_price_mo * upfront_share + hr_price_mo * (1 - upfront_share)
+ price = upfront_price_mo * upfront_share + hr_price_mo * (1 - upfront_share)'
 
-1 + ( (avg(windows_price) - avg(linux_price) / avg(linux_price)
+'1 + ( (avg(windows_price) - avg(linux_price) / avg(linux_price)'
 
-Full access database price differential (fulldb_diff): 9.83
+'Full access database price differential (fulldb_diff): 9.83
 Web access database price differential (webdb_diff): 2.15
-No database price differential (nodb_diff): 1.57
+No database price differential (nodb_diff): 1.57'
 
-Formula
-(adj_ecomm * fulldb_diff) + (adj_cms * webdb_diff) + (web_pres * nodb_diff) = 
-(2.7% * 9.83) + (35% * 2.15) + (61% * 1.57) = 2.05
+*Formula*
 
+'(adj_ecomm * fulldb_diff) + (adj_cms * webdb_diff) + (web_pres * nodb_diff) = 
+(2.7% * 9.83) + (35% * 2.15) + (61% * 1.57) = 2.05'
 
 Here’s the model assumptions and details
 
