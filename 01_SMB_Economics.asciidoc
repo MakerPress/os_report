@@ -3,9 +3,9 @@
 == Economic Impact of Open Source
 
 list test
-[start]
-. * item
-. ** subitem
+
+* * item
+* ** subitem
 . * item
 . ** subitem
 . ** subitem
