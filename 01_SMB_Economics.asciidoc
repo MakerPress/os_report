@@ -66,13 +66,15 @@ The price for a web presence has been driven down for more than a decade by a nu
 
 Open source projects and vendoes provide low-cost/no-cost options for business consumers, and, often, help keep the price of competing commercial products in check. For some tools relevant to SMBs, for example ecommerce and CMS, (rm note 2012-07-05: not sure where first reference and explanation of CMS resides in doc, I assume it's before this section end rm note) open source projects and vendors dominate the market.
 
-(rm note 2012-07-05: mention as a sidebar?: For tech savvy SMBs, open source offers other benefits in addition to low cost: access to the source code, including the ability to make changes specific to your business, and access to community-based support. There are many stories of those using open source tools finding a problem, posting the problem on an online forum and having the person who wrote the code respond with a fix end rm note)
+// rm note 2012-07-05: mention as a sidebar?:
+For tech savvy SMBs, open source offers other benefits in addition to low cost: access to the source code, including the ability to make changes specific to your business, and access to community-based support. There are many stories of those using open source tools finding a problem, posting the problem on an online forum and having the person who wrote the code respond with a fix end rm note
+// end rm
 
-**rm note 2012-07-05: consider adding reference to Etsy, Ebay and Amazon here:**
+// rm note 2012-07-05: consider adding reference to Etsy, Ebay and Amazon here:
 
 Keep in mind that beyond creating their own web presence, SMBs and HBBs have access to number of commerce platforms and marketing/promotion platforms that are built on open source architectures, for example: eBay, Amazon, Etsy, Google, Facebook and Twitter. Even those SMBs with who build their own web presence may include storefronts on eBay, Amazon or Etsy, and may augment their marketing via Facebook and Twitter. We focus on the cost differential between between open source and commercial infrastructure components for SMBs running their own web presence, either on their own or via a hosting or cloud vendor.
 
-**end rm note 2012-07-05
+// end rm note 2012-07-05
 
 Constant pressure from open source projects driving costs down over the last 15 years has made having a web presence affordable, and has made the business opportunities that a web presence provides a possibility for many SMBs, including the growing HBB segment. Commercial vendors need to keep prices in check due to competition from open source projects. 
 
