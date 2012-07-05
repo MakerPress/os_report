@@ -18,6 +18,6 @@ So too it is for the Web. Tim Berners-Lee put the Web into the public domain, th
 It is difficult to know how much value to ascribe to the open source platforms of the Web, of Linux, of MySQL, and of open source programming languages and tools in the success of companies like Google, Amazon, and Facebook because of the large admixture of proprietary software and services.
 
 Fortunately, there is another market in which open source software is more directly delivered as a service. Internet service providers, domain name registrars, and web hosting firms effectively sell access to open source software for a monthly subscription fee.
-// this is a comment
+
 In this report, we provide an analysis of the economic impact of open source software on the success of these industries, and by extension, on the businesses they serve. In particular, we focus on web hosting, which provides websites and ancillary services to small and medium sized businesses (SMBs).
 
