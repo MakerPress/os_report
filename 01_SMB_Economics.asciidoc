@@ -2,7 +2,7 @@
 
 == Economic Impact of Open Source
 
-For SMBs, a web/online presence pays off immensely. We are going to look at some factors leading to this pay off, and demonstrate how having a web presence makes such a significant difference, and how the use of Open Source is an additional driver for success. 
+For SMBs, a web/online presence pays off immensely. In this report, we'll look at some of the factors leading to this pay off, and demonstrate how having a web presence makes such a significant difference, and how the use of Open Source is an additional driver for success. 
 
 Constant cost pressures during the last 15 years from open source projects has made a web presence affordable, and the business opportunities that a web presence provides are now possible for many SMBs, including the growing home-based business (HBB) segment. 
 
