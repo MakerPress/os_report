@@ -12,7 +12,7 @@ list test
 
 For SMBs, a web/online presence pays off immensely. In this report, we'll look at some of the factors leading to this pay off, and demonstrate how having a web presence makes such a significant difference, and how the use of Open Source is an additional driver for success. 
 
-Constant downward cost pressures during the last 15 years from open source projects has made having a web presence affordable, and the business opportunities that a web presence provides are now possible for many SMBs, including the growing home-based business (HBB) segment. 
+Constant downward cost pressures during the last 15 years from open source projects has made having a web presence affordable, and the business opportunities that a web presence provides are now more reachable for more if not all SMBs, including the growing home-based business (HBB) segment. 
 
 So let's assume that a SMB uses Google AdWords to help boost their revenue. We know that spending on Google AdWords work best if users go to a landing page with a clear call to action. In addition, having a website allows SMB owners to conduct simple A/B tests to increase conversion rates. Assuming that the average SMB owner who controls their own landing pages is able to meet Google's _conservative estimate_ ( 8 * (what you spend on AdWords) ). So what does this mean when you aggregate all SMBs that have a web presence, or more importantly, those that do not have a presence are losing potential huge revenue gains. So let's look at a formula that could help us get more insight into the revenue gains or losses due to a web presence. *Note* that we are not covering the 70% of SMB online ad spend not used for Google Adwords - clearly SMBs get some value for these efforts that would increase the value of an online presence.
 
@@ -60,7 +60,12 @@ Finally, we estimate what was _left off the table_. We estimate that as follows:
 
 This is an estimate, because we are assuming that EconImp_Goog_SMB came solely from SMBs with websites. (You still can use AdWords even if you don’t have a website, but you probably need to be able to optimize your landing pages to maximize conversion and get to the 8 multiple from Google.)
 
-=== Economic Impact Enabled by Lower Costs (and Virtualizations)
+=== Economic Impact Enabled by Lower Costs <I would change this header>
+
+The price for a web presence has been driven down for more than a decade by a number of factors, including resource sharing, enabled by virtualization, Moore's Law lowering the cost and increasing the power of compute resources, data center economies of scale, and, as we cover below, the availability and adoption of no-cost/low-cost open source projects as key web presence components. These lower costs have made a web presence, and all the benefits that a web presence provides, available to a wide swath of SMBs, and, for the growing HBB segment.
+
+<<rm note 2012-07-05: consider adding reference to Etsy, Ebay and Amazon here:
+Keep in mind that beyond creating their own web presence, SMBs and HBBs have access to number of commerce platforms that are built on open source architectures, including: eBay, Amazon, Etsy, and Google. Even those SMBs with who build their own web presence may include storefronts on eBay, Amazon or Etsy, and may augment their marketing via Facebook and Twitter - both also built on open source architectures. >>
 
 Constant pressure from open source projects driving costs down over the last 15 years has made having a web presence affordable, and has made the business opportunities that a web presence provides a possibility for many SMBs, including the growing HBB segment. Commercial vendors need to keep prices in check due to competition from open source projects. 
 
