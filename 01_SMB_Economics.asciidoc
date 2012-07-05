@@ -55,7 +55,102 @@ Looking at last few years, we've built a model showing the cost differential cre
 
 === Savings methodology (simple)
 
-Here are our simple Assumptions used to determine how much savings can be realized using Open Source.
+We set out to build a model that can help quantify the open source savings differential for infrastructure software like operating systems and databases - the type of software needed for most applications. We start by using Amazon’s EC2 hosted platform pricing, with its open source (Linux, MySQL) and commercial (Microsoft Windows and SQL Server) options running on the same hardware infrastructure in the same data centers. We use an analysis of Bluehost’s business customers to help us determine the share of SMB customers who need a database, based on their use of typically SMB applications like ecommerce and CMS.
+
+Our model shows that for a proxy of the SMB market, the price differential for hardware platforms running commercial software is about 2, i.e., SMBs would pay about double for the hardware/software infrastructure they need to operate online. For the smallest SMBs, who don’t need a database, the differential is about 1.5.
+
+We focused on the infrastructure components of operating system and database because they are common for web presence and applications and they require similar administration and operating expense loads. For more complex applications, researchers have found more of mixed picture about the savings from open source applications <consider ref to research here>. Tellingly, for the type of applications most SMBs most need for a web presence, ecommerce apps and CMSs, open source options dominate the market - all the leading applications operate on both Linux and Windows, and most of the leading CMSs run on both MySQL and SQL Server.
+
+Here’s the high level view of the model:
+
+Share of SMB customers w/ full access db * full access db price differential
++ share of SMB customers w/ web access db * web access db price differential
++ share of SMB customers w/ no db * no db price differential
+
+At a high level, the model looks a the share of SMBs who need the various levels of database support available for Windows platforms on EC2 and multiplies that by the ]allocated] price differential between Windows and Linux pricing for the types of EC2 instances appropriate for SMBs web presence.
+
+==== Model Details
+Assumptions used to build the model:
+
+. Amazon EC2 pricing provides a reasonable proxy for the difference between open source and commercial software infrastructure, i.e., operating systems and databases
+
+. Amazon is equally adept at negotiating with their open source and commercial providers
+
+. We chose specific pricing options that reflect typical choices for SMB customers<, optional: knowing that there is no typical SMB customers and that their online needs vary widely>:
+
+.. One-year term
+
+.. “Medium Utilization Reserved Instances” - providing a reserved instance and balancing upfront costs with lower hourly costs for a 1 yr term
+
+.. Average of Small (Default) and Medium pricing within the “Medium Utilization” tier
+The price differential between open source and commercial instances drops as usage/volume rises; these changes have a small effect on the model
+To calculate the cost differential, we allocate upfront costs by month and assume hourly fees for 18 hours of usage per day in the month
+. EC2 pricing includes the hardware, system administration, network, HVAC, real estate and other costs required to run a network connected server instance
+
+. We use “Medium Utilization Reserved Instances” pricing, balancing up front fees with lower hourly costs compared to the “Light Utilization” and “Heavy Utilization” options, while providing a reserved instance as a typical choice for SMBs
+
+. Within the “Medium Utilization” pricing we average the discount between Small (Default) and Medium pricing
+
+.. The price differential between open source and commercial instances drops as usage rises
+
+
+. Database pricing
+
+.. MySQL is included with the Linux option pricing
+
+.. Three combinations of usage and price options are offered for SQL Server
+
+.. -SQL Server Express - free for up to 10 Gb
+
+.. -SQL Server (Web) - for work loads typical of web sites running a CMS
+
+.. -SQL Server (Full) - full access loads and function typical of transaction systems like ecommerce and finance apps
+
+.. -Ecommerce systems require full database access
+
+.. -CMS systems require web database access
+
+The mix of Bluehost business customers use of ecommerce apps, CMS apps and simple web presence represents a reasonable proxy for the US SMB market:
+
+7.4% have an ecommerce system (all have a web presence, many have CMS)
+
+70% use a CMS to manage content, but no ecommerce system
+
+23% have a web presence only<, i.e., no ecommerce or CMS instances>
+
+Many SMBs generate low data volumes, we assume:
+50% of SMBs with an ecommerce have small enough data volumes to use free SQL Server Express
+50% of SMBs with a CMS have small enough data volumes to use free SQL Server Express
+
+Our model combines the usage patterns based on the Bluehost SMB business user data with the price differentials between the various options to determine an overall open source / commercial price differential.
+
+Adjusted ecommerce share (adj_ecomm):
+7.4% of SMBs w/ ecommerce * 50% of SMBs too big for free comm’l database: 3.7%
+Adjusted CMS share (adj_cms):
+70% of SMBs w/ CMS * 50% of SMBs too big for free comm’l database: 35%
+Web Presence (web_pres):
+100% of SMB customers less adjusted ecommerce share (3.7%) less adjusted CMS share (35%): 61%
+
+General price differential formula:
+price
+components:
+upfront price per month (upfront_price_mo)= upfront_price / 12
+hourly rate per month (hr_price_mo) = hourly_rate * 18 hrs/day * 30 days
+upfront_share = upfront_price_mo / (upfront_price_mo + hr_price_mo)
+ price = upfront_price_mo * upfront_share + hr_price_mo * (1 - upfront_share)
+
+1 + ( (avg(windows_price) - avg(linux_price) / avg(linux_price)
+
+Full access database price differential (fulldb_diff): 9.83
+Web access database price differential (webdb_diff): 2.15
+No database price differential (nodb_diff): 1.57
+
+Formula
+(adj_ecomm * fulldb_diff) + (adj_cms * webdb_diff) + (web_pres * nodb_diff) = 
+(2.7% * 9.83) + (35% * 2.15) + (61% * 1.57) = 2.05
+
+
+Here’s the model assumptions and details
 
 Bluehost users mix of ecommerce, CMS and web presence which represents a reasonable proxy for a US SMB market. We checked that the users had a ecommerce solution, used a CMS, and had a Web presence and came up with:
 
