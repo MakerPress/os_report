@@ -115,7 +115,7 @@ Assumptions used to build the model:
 
 ... SQL Server (Full)--full access loads and function typical of transaction systems like ecommerce and finance apps
 
-. Ecommerce systems require full database access
+* Ecommerce systems require full database access
 
 * CMS systems require web database access
 * The mix of Bluehost business customers' use of ecommerce apps, CMS apps, and simple web presence represents a reasonable proxy for the US SMB market:
