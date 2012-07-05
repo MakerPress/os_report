@@ -235,19 +235,19 @@ image::images/CMS_Tot_Jobs.jpg[scalewidth="90%"]
 
 The trends in the CMS space are fairly simple. WordPress is dominant and not showing any vulnerability for a competitor to snatch the market leadership position. Joomla has some market share for the second spot, but well below the Market control that WordPress currently occupies.
 
-image::images/wordpress.jpg[scalewidth="90%"]
+image::images/wordpressAvg.jpg[scalewidth="90%"]
 
 
 
-image::images/joomla.jpg[scalewidth="90%"]
+image::images/joomlaAvg.jpg[scalewidth="90%"]
 
 
 
-image::images/drupal.jpg[scalewidth="90%"]
+image::images/drupalAvg.jpg[scalewidth="90%"]
 
 
 
-image::images/magento.jpg[scalewidth="90%"]
+image::images/magentoAvg.jpg[scalewidth="90%"]
 
 
 
