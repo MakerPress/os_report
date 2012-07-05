@@ -1,13 +1,13 @@
 :bookseries: radar
 
-== The Stacks - Customers and Technology
+== The Stacks--Customers and Technology
 
 
 === Size and Composition of the Data Sets
 
-Before we go too much further into the data and analysis, it should be noted that Bluehost has provided us with a substantial amount of data. First the data is fairly US-centric. That is more than 70% of the hosted sites are based in the US. But we need to keep in mind that the data is skewed towards English speaking countries like the US, UK, Canada, and Australia which are the top four countries. The pie chart below shows the nature of the relative market share for the top five countries. The remaining parts of the world makes up roughly 15% of the remaining market share.
+Before we go too much further into the data and analysis, it should be noted that Bluehost has provided us with a substantial amount of data. First, the data is fairly US-centric. That is, more than 70% of the hosted sites are based in the US. But we need to keep in mind that the data is skewed towards English-speaking countries like the US, UK, Canada, and Australia, which are the top four countries. The following pie chart shows the nature of the relative market share for the top five countries. The remaining parts of the world make up roughly 15% of the remaining market share.
 
-image::images/top5.jpg[scalewidth="90%"]
+image::images/top5.jpg[scalewidth="100%"]
 
 The Bluehost data has a little more than a million records that we are going to share only relevant information from. There will be no user-specific information as it does not pertain to the purpose of this report. We also have more than 4,000 answers to a fairly significant number of questions that Bluehost used to survey their customers. We have a jobs data mart that contains electronic job listings for several years. This data mart contains terabytes of data and has undergone some extensive clean up to disambiguate words like Administration, Performance, Java, Ruby, etc. And we have use of our Nielsen Bookscan data mart which has point of sales data back to 2003. Google trends will also be used in relevant places throughout the report.
 
