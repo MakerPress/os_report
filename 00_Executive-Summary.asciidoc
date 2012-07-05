@@ -11,7 +11,7 @@ Yet there is no question that open source software has had a profound economic i
 
 And the economic impact is clear: Google had 2011 revenues of $37.9B and market capitalization of $189B. Facebook sports revenues of $3.8B and market cap of $82B, and Amazon has revenues of $51B and a market cap of $103B. But because open source software is not monetized directly by these companies, it tends to disappear from economic analysis.
 
-In 1975, environmentalist Steve Baer described in his book _Sunspots_ (Zomeworks) this kind of indirect economic impact by way of an analogy he referred to as the "Clothesline Paradox" <<fig0101>>: If you take down your clothesline and buy an electric clothes dryer, the electric consumption of the nation rises slightly. If you go in the other direction and remove the electric clothes dryer and install a clothesline, the consumption of electricity drops slightly, but there is no credit given anywhere on the charts and graphs to solar energy, which is now drying the clothes.
+In 1975, environmentalist Steve Baer described in his book _Sunspots_ (Zomeworks) this kind of indirect economic impact by way of an analogy he referred to as the "Clothesline Paradox" (<<fig0101>>): If you take down your clothesline and buy an electric clothes dryer, the electric consumption of the nation rises slightly. If you go in the other direction and remove the electric clothes dryer and install a clothesline, the consumption of electricity drops slightly, but there is no credit given anywhere on the charts and graphs to solar energy, which is now drying the clothes.
 
 So too it is for the Web. Tim Berners-Lee put the Web into the public domain, the most open of all open source licenses; as a result, like the ecosystem services provided by the sun, open source software disappears from our accounting.
 
@@ -20,6 +20,8 @@ It is difficult to know how much value to ascribe to the open source platforms o
 Fortunately, there is another market in which open source software is more directly delivered as a service. Internet service providers, domain name registrars, and web hosting firms effectively sell access to open source software for a monthly subscription fee.
 
 In this report, we provide an analysis of the economic impact of open source software on the success of these industries, and by extension, on the businesses they serve. In particular, we focus on web hosting, which provides websites and ancillary services to small and medium sized businesses (SMBs).
+
+// Should the next two paragraphs be removed? They appear to be notes about sources needed. 
 
 Sources needed: stats on overall size and revenues of ISP business, web hosting, Bluehost as a share of that. Domain registration too.
 
