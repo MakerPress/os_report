@@ -11,3 +11,7 @@ include::02_The-Stacks.asciidoc[]
 include::InfoGraphic2.asciidoc[]
 
 include::03_Stack_Comparisons.asciidoc[]
+
+include::InfoGraphic4.asciidoc[]
+
+include::04_CaseStudySMB.asciidoc[]
