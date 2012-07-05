@@ -118,6 +118,7 @@ Assumptions used to build the model:
 * Ecommerce systems require full database access
 
 * CMS systems require web database access
+
 * The mix of Bluehost business customers' use of ecommerce apps, CMS apps, and simple web presence represents a reasonable proxy for the US SMB market:
 
 ** 7.4% have an ecommerce system (all have a web presence, many have CMS)
