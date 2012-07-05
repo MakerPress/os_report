@@ -41,7 +41,7 @@ By 2010, 37% of online ad spending will go to paid search. footnote:[http://www.
 
 * *Google multiplier = 8* footnote:[http://www.google.com/economicimpact/methodology.html[Google]]. We conservatively estimate that for every $1 a business spends on AdWords, it receives $8 in profit through Google Search and AdWords. Thus, to derive the economic value received by advertisers, we multiply our AdWords revenue on Google.com search results in 2011—what advertisers spent—by 8.
 
- ** The product of (1) * (2) * (3) = Economic impact of Google AdWords = *EconImp_Goog_SMB*.
+** The product of (1) * (2) * (3) = Economic impact of Google AdWords = *EconImp_Goog_SMB*.
 
 Finally, we estimate what was _left off the table_. We estimate that as follows: 
 
