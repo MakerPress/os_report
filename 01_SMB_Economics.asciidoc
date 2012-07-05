@@ -2,9 +2,9 @@
 
 == Economic Impact of Open Source
 
-For SMBs, a web/online presence pays off immensely. In this report, we'll look at some of the factors leading to this pay off, and demonstrate how having a web presence makes such a significant difference, and how the use of Open Source is an additional driver for success. 
+For SMBs, a web/online presence pays off immensely. We are going to look at some factors leading to this pay off, and demonstrate how having a web presence makes such a significant difference, and how the use of Open Source is an additional driver for success. 
 
-Constant downward cost pressures during the last 15 years from open source projects has made having a web presence affordable. The business opportunities that a web presence provides are now possible for many SMBs, including the growing home-based business (HBB) segment. 
+Constant cost pressures during the last 15 years from open source projects has made a web presence affordable, and the business opportunities that a web presence provides are now possible for many SMBs, including the growing home-based business (HBB) segment. 
 
 So let's assume that a SMB uses Google AdWords to help boost their revenue. We know that spending on Google AdWords work best if users go to a landing page with a clear call to action. In addition, having a website allows SMB owners to conduct simple A/B tests to increase conversion rates. Assuming that the average SMB owner who controls their own landing pages is able to meet Google's _conservative estimate_ ( 8 * (what you spend on AdWords) ). So what does this mean when you aggregate all SMBs that have a web presence, or more importantly, those that do not have a presence are losing potential huge revenue gains. So let's look at a formula that could help us get more insight into the revenue gains or losses due to a web presence. Note that 70% of ad spend is not on Google AdWords, so there must be benefits that come from those marketing dollars as well, but we do not capture those benefits below.
 
@@ -22,14 +22,15 @@ $5.4 billion in 2010, according to this article from BIA/Kelsey footnote:[http:/
 $2,300 * # of SMBs in 2011. This survey estimates _online_ ad spend at $2,300 per SMB in 2011.
 
 [start=2]
-. *Share of ad spending on Google AdWords* ~29%. This is a product of the numbers below. By 2010, 37% of online ad spending will go to paid search footnote:[http://www.emarketer.com/Reports/Viewer.aspx?R=2000488&page=5[eMarketer]].
+. *Share of ad spending on Google AdWords* ~29%. This is a product of the numbers below.
+By 2010, 37% of online ad spending will go to paid search footnote:[http://www.emarketer.com/Reports/Viewer.aspx?R=2000488&page=5[eMarketer]].
 +
 Google owns 80% of ad spend on paid search footnote:[http://www.advmediaproductions.com/blog/google-dominates-paid-search-advertising-with-80-market-share-unaffected-by-the-rise-of-bing/[ADV Media]].
 +
 37% * 80% = 29.6%
 
 [start=3]
-. *Google multiplier = 8* footnote:[http://www.google.com/economicimpact/methodology.html[Google]]. We conservatively estimate that for every $1 a business spends on AdWords, it receives $8 in profit through Google Search and AdWords. Thus, to derive the economic value received by advertisers, we multiply our AdWords revenue on Google.com search results in 2011&mdash;what advertisers spent–by 8.
+. *Google multiplier = 8* footnote:[http://www.google.com/economicimpact/methodology.html[Google]]. We conservatively estimate that for every $1 a business spends on AdWords, it receives $8 in profit through Google Search and AdWords. Thus, to derive the economic value received by advertisers, we multiply our AdWords revenue on Google.com search results in 2011–what advertisers spent&mdash;by 8.
 
 The product of (1) * (2) * (3) = Economic impact of Google AdWords = *EconImp_Goog_SMB*.
 
