@@ -1,5 +1,5 @@
 :bookseries: radar
 
-[[infographic3]]
+[[fig0101]]
 .Steve Baer's Clothesline Paradox
 image::images/infographic3.jpg[scaledwidth="90%"]
