@@ -80,33 +80,34 @@ Here’s the high-level view of the model:
 At a high level, the model looks at the portion of SMBs that need the various levels of database support available for Windows platforms on EC2 and multiplies that by the ]allocated] price differential between Windows and Linux for the types of EC2 instances appropriate for a SMB's web presence.
 
 ==== Model details
+
 Assumptions used to build the model:
 
-- Amazon EC2 pricing provides a reasonable proxy for the difference between open source and commercial software infrastructure, i.e., operating systems and databases
+* Amazon EC2 pricing provides a reasonable proxy for the difference between open source and commercial software infrastructure, i.e., operating systems and databases
 
-- Amazon is equally adept at negotiating with their open source and commercial providers
+* Amazon is equally adept at negotiating with their open source and commercial providers
 
-- We chose specific pricing options that reflect typical choices for SMB customers<, optional: knowing that there is no typical SMB customers and that their online needs vary widely>:
+* We chose specific pricing options that reflect typical choices for SMB customers<, optional: knowing that there is no typical SMB customers and that their online needs vary widely:
 
-.. One-year term
+** One-year term
 
-.. “Medium Utilization Reserved Instances”--providing a reserved instance and balancing up-front costs with lower hourly costs for a 1 year term
+** “Medium Utilization Reserved Instances”--providing a reserved instance and balancing up-front costs with lower hourly costs for a 1 year term
 
-.. Average of Small (Default) and Medium pricing within the “Medium Utilization” tier. The price differential between open source and commercial instances drops as usage/volume rises; these changes have a small effect on the model. To calculate the cost differential, we allocate up-front costs by month and assume hourly fees for 18 hours of usage per day in the month
+** Average of Small (Default) and Medium pricing within the “Medium Utilization” tier. The price differential between open source and commercial instances drops as usage/volume rises; these changes have a small effect on the model. To calculate the cost differential, we allocate up-front costs by month and assume hourly fees for 18 hours of usage per day in the month
 
-. EC2 pricing includes the hardware, system administration, network, HVAC, real estate, and other costs required to run a network-connected server instance
+* EC2 pricing includes the hardware, system administration, network, HVAC, real estate, and other costs required to run a network-connected server instance
 
-. We use “Medium Utilization Reserved Instances” pricing, balancing up-front fees with lower hourly costs compared to the “Light Utilization” and “Heavy Utilization” options, while providing a reserved instance as a typical choice for SMBs
+* We use “Medium Utilization Reserved Instances” pricing, balancing up-front fees with lower hourly costs compared to the “Light Utilization” and “Heavy Utilization” options, while providing a reserved instance as a typical choice for SMBs
 
-. Within the “Medium Utilization” pricing, we average the discount between Small (Default) and Medium pricing
+* Within the “Medium Utilization” pricing, we average the discount between Small (Default) and Medium pricing
 
-.. The price differential between open source and commercial instances drops as usage rises
+** The price differential between open source and commercial instances drops as usage rises
 
-. Database pricing
+* Database pricing
 
-.. MySQL is included with the Linux option pricing
+** MySQL is included with the Linux option pricing
 
-.. Three combinations of usage and price options are offered for SQL Server
+** Three combinations of usage and price options are offered for SQL Server
 
 ... SQL Server Express--free for up to 10 Gb
 
@@ -116,32 +117,34 @@ Assumptions used to build the model:
 
 . Ecommerce systems require full database access
 
-. CMS systems require web database access
-. The mix of Bluehost business customers' use of ecommerce apps, CMS apps, and simple web presence represents a reasonable proxy for the US SMB market:
+* CMS systems require web database access
+* The mix of Bluehost business customers' use of ecommerce apps, CMS apps, and simple web presence represents a reasonable proxy for the US SMB market:
 
-.. 7.4% have an ecommerce system (all have a web presence, many have CMS)
+** 7.4% have an ecommerce system (all have a web presence, many have CMS)
 
-.. 70% use a CMS to manage content, but no ecommerce system
+** 70% use a CMS to manage content, but no ecommerce system
 
-.. 23% have a web presence only<, i.e., no ecommerce or CMS instances>
+** 23% have a web presence only<, i.e., no ecommerce or CMS instances>
 
-. Many SMBs generate low data volumes, we assume:
+* Many SMBs generate low data volumes, we assume:
 
-.. 50% of SMBs with ecommerce have small enough data volumes to use free SQL Server Express
+** 50% of SMBs with ecommerce have small enough data volumes to use free SQL Server Express
 
-.. 50% of SMBs with a CMS have small enough data volumes to use free SQL Server Express
+** 50% of SMBs with a CMS have small enough data volumes to use free SQL Server Express
 
 Our model combines the usage patterns based on the Bluehost SMB business user data with the price differentials between the various options to determine an overall open source / commercial price differential.
 
 *Adjusted ecommerce share (adj_ecomm):*
 
-. 7.4% of SMBs with ecommerce * 50% of SMBs too big for free commercial database: 3.7%
-. Adjusted CMS share (adj_cms):
-. 70% of SMBs with CMS * 50% of SMBs too big for free commercial database: 35%
+* 7.4% of SMBs with ecommerce * 50% of SMBs too big for free commercial database: 3.7%
+
+* Adjusted CMS share (adj_cms):
+
+** 70% of SMBs with CMS * 50% of SMBs too big for free commercial database: 35%
 
 *Web Presence (web_pres):*
 
-. 100% of SMB customers less adjusted ecommerce share (3.7%) less adjusted CMS share (35%): 61%
+* 100% of SMB customers less adjusted ecommerce share (3.7%) less adjusted CMS share (35%): 61%
 
 *General price differential formula:*
 
