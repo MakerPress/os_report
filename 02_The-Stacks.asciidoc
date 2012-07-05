@@ -3,7 +3,7 @@
 == The Stacks - Customers and Technology
 
 
-=== Size and composition of the data sets
+=== Size and Composition of the Data Sets
 
 Before we go too much further into the data and analysis, it should be noted that Bluehost has provided us with a substantial amount of data. First the data is fairly US-centric. That is more than 70% of the hosted sites are based in the US. But we need to keep in mind that the data is skewed towards English speaking countries like the US, UK, Canada, and Australia which are the top four countries. The pie chart below shows the nature of the relative market share for the top five countries. The remaining parts of the world makes up roughly 15% of the remaining market share.
 
@@ -13,7 +13,7 @@ The Bluehost data has a little more than a million records that we are going to 
 
 === Internet Growth by Region and Country 
 
-==== SMB Growth, Hosted Services (Bluehost) and Growth of IPv4 Addresses (Akamai) 
+==== SMB growth, hosted services (Bluehost), and growth of IPv4 addresses (Akamai) 
 
 The following image shows two different, yet very similar pictures of the world. In this view, we compared 2010 with 2011 in the number of new Hosted Services that were established in each given year and compared that to Akamai's report on new IPv4 addresses established in 2011. Basically we were looking to see if the data we are working with is indicative of the industry as a whole. Each blue number represents the country rank for the growth of new hosted services as reported by Bluehost. The pink number represents the rank of growth in new IPv4 addresses reported by Akamai. What's notable here is that the UK was the only country that had better rank for new hosted services than their growth rank for new IPv4 addresses. The US and China seem to be the most consistent in both ranks. Japan, Germany, and France showed the largest decline in SMB hosted services growth as compared to the number of new IPv4 addresses. But on the whole, the data from Bluehost is very consistent with the 'hard' data from Akamai.
 
@@ -102,7 +102,7 @@ What is interesting to note, is that all of the charts seem to have a similar tr
  
 To understand a little about the data we are exploring, you should know that as a Hosting Service, Bluehost offers more than 94 different software and services that users can select from when signing up for a hosting plan. There are 26 categories that separate the software and services. These are Backups, Blogs, Business Tools, Classifieds, Client Management, Content Management, eCommerce, Education, Forms and Surveys, Forums, Guestbooks, Help Center, Live Chat, Mailing Lists, Photo Galleries, Product Sourcing, Project Management, RSS, Security, Social Networking, Statistics, Utilities, Webmail, Website Builders, Website Design, and Wiki.
 
-=== The Customer profile/dimension
+=== The Customer Profile/Dimension
 
 Let's first look as some dimensions about the typical Bluehost user to see if they match our perceptions of an Open Source user/developer. Looking at the year in which a SMB got started provides an interesting glimpse of the lasting power of SMBs. Note that there were a few SMBs established before 1950 which speaks to long-lived entities that see the value of using the Web in their business. The peak for when SMBs were established was in 2010 and the three year period of 2009 through 2011 was the most active for startups. 
 
@@ -140,13 +140,13 @@ The revenue size of these hosted sites varies as is evident in the chart below. 
 
 image::images/RevenueSize.jpg[scalewidth="90%"]
 
-==== Commerce is Important to SMBs
+==== Commerce is important to SMBs
 
 The typical customer which represents roughly 48% of the user base, is using these hosted services for Business without a shopping cart. This is mostly for information purposes rather than commerce. The next most frequent purpose for having a hosted site, is for personal use which represents about 22% of the user base. This is the individual who just wants a presence on the web for a variety of reasons. The third most frequent purpose for hosted services is a Business with an online store which is about 12% of the user base. This is the SMB who is selling and making e-commerce transactions.
 
 image::images/Commerce.jpg[scalewidth="90%"] 
 
-==== Other Customer Dimensions
+=== Other Customer Dimensions
 
 ==== Consumer IT
 
