@@ -12,7 +12,7 @@ list test
 
  ** subitem
 
-  ** subitem
+** subitem
 
 For SMBs, a web/online presence pays off immensely. In this report, we'll look at some of the factors leading to this pay off, and demonstrate how having a web presence makes such a significant difference, and how the use of Open Source is an additional driver for success. 
 
