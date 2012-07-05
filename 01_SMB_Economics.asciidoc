@@ -23,7 +23,7 @@ $5.4 billion in 2010, according to this article from BIA/Kelsey. footnote:[http:
 * *Share of ad spending on Google AdWords* ~29%. This is a product of the numbers below.
 By 2010, 37% of online ad spending will go to paid search. footnote:[http://www.emarketer.com/Reports/Viewer.aspx?R=2000488&page=5[eMarketer]]
 
-Google owns 80% of ad spend on paid search footnote:[http://www.advmediaproductions.com/blog/google-dominates-paid-search-advertising-with-80-market-share-unaffected-by-the-rise-of-bing/[ADV Media]].
+Google owns 80% of ad spend on paid search. footnote:[http://www.advmediaproductions.com/blog/google-dominates-paid-search-advertising-with-80-market-share-unaffected-by-the-rise-of-bing/[ADV Media]]
 
   ** 37% * 80% = 29.6%
 
