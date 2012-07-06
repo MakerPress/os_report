@@ -251,7 +251,7 @@ Magento is not a large player in the CMS market, but for our dataset it is repre
 
 image::images/magentoAvg.jpg[scalewidth="90%"]
 
-TECHi has an excellent write up and InfoGraphic titled Open source wars: Wordpress vs Drupal vs Joomla that provides an excellent comparison of the features and costs of the three large CMSs. Here is a summary of cost components that may make the platforms more palatable for a SMB.
+TECHi has an excellent write up and InfoGraphic titled Open source wars: Wordpress vs Drupal vs Joomla footnote:[http://www.techi.com/2011/07/open-source-wars-wordpress-vs-drupal-vs-joomla/[TECHi]] that provides an excellent comparison of the features and costs of the three large CMSs. Here is a summary of cost components that may make the platforms more palatable for a SMB.
 
 [options="header"]
 |======= 
