@@ -2,4 +2,4 @@
 
 [[Open Source Dominates in Running a Web Site]]
 [role="fullpage"]
-image::images/infographic_02.jpg[scalewidth="90%"]
+image::images/info_graphic_OpenvsProp.jpg[scalewidth="90%"]
