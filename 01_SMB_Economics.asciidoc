@@ -60,7 +60,7 @@ Our model shows that for a proxy of the SMB market, the price differential for h
 
 We focus on the infrastructure components of operating systems and databases as they are commonly required for web presence, managing content and online stores, and they require similar administration and operating expense loads. For more complex applications, researchers have found more of a mixed picture regarding savings from open source applications (consider adding references to research here, consider adding that research is often funded by comm'l vendors). Tellingly, for the types of applications most SMBs need for a web presence, CMSs and ecommerce apps, open source options dominate the low-end of the market - all the leading applications operate on both Linux and Windows, and most of the leading CMSs run on both MySQL and SQL Server.
 
-Here’s the high level view of the model:'
+Here’s the high level view of the model:
 
      Share of SMB customers w/ full access db * full access db price differential
 
@@ -130,40 +130,27 @@ Model Details
 Our model combines the usage patterns based on the Bluehost SMB business user data with the price differentials between the various options to determine an overall open source / commercial price differential.
 
     Adjusted ecommerce share (adj_ecomm):
-
         7.4% of SMBs w/ ecommerce * 50% of SMBs too big for free comm’l database: 3.7%
-
     Adjusted CMS share (adj_cms):
-
         70% of SMBs w/ CMS * 50% of SMBs too big for free comm’l database: 35%
-
     Web Presence (web_pres):
-
         100% of SMB customers less adjusted ecommerce share (3.7%) less adjusted CMS share (35%): 61%
 
     General price differential formula:
         price
             *components*:
             upfront price per month (upfront_price_mo)= upfront_price / 12
-
             hourly rate per month (hr_price_mo) = hourly_rate * 18 hrs/day * 30 days
-
             upfront_share = upfront_price_mo / (upfront_price_mo + hr_price_mo)
-
          price = upfront_price_mo * upfront_share + hr_price_mo * (1 - upfront_share)
-
 
         price differential = 1 + ( (avg(windows_price) - avg(linux_price) / avg(linux_price)
 
     Full access database price differential (fulldb_diff): 9.83
-
     Web access database price differential (webdb_diff): 2.15
-
     No database price differential (nodb_diff): 1.57
 
-
     Formula
-
     (adj_ecomm * fulldb_diff) + (adj_cms * webdb_diff) + (web_pres * nodb_diff) = 
     (2.7% * 9.83) + (35% * 2.15) + (61% * 1.57) = 2.05
 
