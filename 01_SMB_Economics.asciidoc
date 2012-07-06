@@ -20,7 +20,7 @@ Next we estimate the dollars that _could_ have gone to SMBs that don’t have a 
 1. List item one.
 +
 List item one continued with a second paragraph followed by an
-Indented block.
+Indented block. Now I'm testing how the indent wrap works by adding a long text phrase the will surely run past two lines
 +
 .................
 $ ls *.sh
