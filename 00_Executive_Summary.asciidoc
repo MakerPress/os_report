@@ -3,6 +3,6 @@ Mike Hendrickson and Roger Magoulas - Introduction by Tim O'Reilly
 
 == Executive Summary
 
-This is placeholder text-This is the section that we will use to summarize our findings in the report.  That there are some apparent measures demonstrating how Open Source is a catalyst for SMBs, but that there are several hidden factors that are harder to quantify, but in combination make this a truly vibrant ecosystem for Entrepreneuers and SMB owners.
+This is placeholder text-This is the section that we will use to summarize our findings in the report. That there are some  apparent measures demonstrating how Open Source is a catalyst for SMBs, but that there are several hidden factors that are harder to quantify, but in combination make this a truly vibrant ecosystem for Entrepreneuers and SMB owners.
 
 
