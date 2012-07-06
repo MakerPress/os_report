@@ -40,7 +40,6 @@ Google owns 80% of ad spend on paid search footnote:[http://www.advmediaproducti
 [start=3]
 . *Google multiplier = 8* footnote:[http://www.google.com/economicimpact/methodology.html[Google]]. We conservatively estimate that for every $1 a business spends on AdWords, it receives $8 in profit through Google Search and AdWords. Thus, to derive the economic value received by advertisers, we multiply our AdWords revenue on Google.com search results in 2011—what advertisers spent—by 8.
 
-<<<<<<< HEAD
   ** Google owns 80% of ad spend on paid search. footnote:[http://www.advmediaproductions.com/blog/google-dominates-paid-search-advertising-with-80-market-share-unaffected-by-the-rise-of-bing/[ADV Media]]
 
   ** 37% * 80% = 29.6%
@@ -48,9 +47,6 @@ Google owns 80% of ad spend on paid search footnote:[http://www.advmediaproducti
 * *Google multiplier = 8* footnote:[http://www.google.com/economicimpact/methodology.html[Google]]. We conservatively estimate that for every $1 a business spends on AdWords, it receives $8 in profit through Google Search and AdWords. Thus, to derive the economic value received by advertisers, we multiply our AdWords revenue on Google.com search results in 2011—what advertisers spent—by 8.
 
  ** The product of (1) * (2) * (3) = Economic impact of Google AdWords = *EconImp_Goog_SMB*.
-=======
-The product of (1) * (2) * (3) = Economic impact of Google AdWords = *EconImp_Goog_SMB*.
->>>>>>> 7de710749df3415bbeeb31e38498d6fd5e422e97
 
 Finally, we estimate what was _left off the table_. We estimate that as follows: 
 
