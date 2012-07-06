@@ -58,18 +58,11 @@ The price for a web presence has been driven down for more than a decade by a nu
 
 Open source projects and vendoes provide low-cost/no-cost options for business consumers, and, often, help keep the price of competing commercial products in check. For some tools relevant to SMBs, for example ecommerce and CMS, (rm note 2012-07-05: not sure where first reference and explanation of CMS resides in doc, I assume it's before this section end rm note) open source projects and vendors dominate the market.
 
-// rm note 2012-07-05: mention as a sidebar?:
 For tech savvy SMBs, open source offers other benefits in addition to low cost: access to the source code, including the ability to make changes specific to your business, and access to community-based support. There are many stories of open source tool users posting a problem to an online forum and having the developer who wrote the code respond with a fix.
-// end rm
 
-// rm note 2012-07-05: consider adding reference to Etsy, Ebay and Amazon here:
+Keep in mind that beyond creating their own web presence, SMBs and HBBs have access to number of commerce platforms and marketing/promotion platforms that are built on open source architectures, for example: eBay, Amazon, Etsy, Google, Facebook and Twitter. Even those SMBs with who build their own web presence may include storefronts on eBay, Amazon or Etsy, and may augment their marketing via Facebook and Twitter. We focus on the cost differential between between open source and commercial infrastructure components for SMBs running their own web presence, either on their own or via a hosting or cloud vendor. Later in this report, we talk about the impact of the large selling platforms and their potential impact on SMBs.
 
-Keep in mind that beyond creating their own web presence, SMBs and HBBs have access to number of commerce platforms and marketing/promotion platforms that are built on open source architectures, for example: eBay, Amazon, Etsy, Google, Facebook and Twitter. Even those SMBs with who build their own web presence may include storefronts on eBay, Amazon or Etsy, and may augment their marketing via Facebook and Twitter. We focus on the cost differential between between open source and commercial infrastructure components for SMBs running their own web presence, either on their own or via a hosting or cloud vendor.
-
-// end rm note 2012-07-05
-
-=== Open Source Savings Differential Model
-//simple
+=== Open Source Savings Differential Model (simple)
 
 We set out to build a model to help quantify the open source savings differential for infrastructure software like operating systems and databases - the type of infrastructure the undergirds most applications. We start by using Amazon's EC2 hosted platform pricing, with its open source (Linux, MySQL) and commercial (Microsoft Windows and SQL Server) options running on the same hardware platforms in the same data centers with the same tiered pricing options. We use an analysis of Bluehost's business customers to help us determine the share of SMB users likely to need a database - an extra cost item - based on their use of SMB applications like ecommerce and Content Management Systems (CMS).
 
