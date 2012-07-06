@@ -14,7 +14,7 @@ For SMBs, a web/online presence pays off immensely. In this report, we'll look a
 
 Constant downward cost pressures during the last 15 years from open source projects has made having a web presence affordable, and the business opportunities that a web presence provides are now more reachable for more if not all SMBs, including the growing home-based business (HBB) segment. 
 
-So let's assume that a SMB uses Google AdWords to help boost their revenue. We know that spending on Google AdWords work best if users go to a landing page with a clear call to action. In addition, having a website allows SMB owners to conduct simple A/B tests to increase conversion rates. Assuming that the average SMB owner who controls their own landing pages is able to meet Google's _conservative estimate_ ( 8 * (what you spend on AdWords) ). So what does this mean when you aggregate all SMBs that have a web presence, or more importantly, those that do not have a presence are losing potential huge revenue gains. So let's look at a formula that could help us get more insight into the revenue gains or losses due to a web presence. *Note* that we are not covering the 70% of SMB online ad spend not used for Google Adwords - clearly SMBs get some value for these efforts that would increase the value of an online presence.
+So let's assume that a SMB uses Google AdWords to help boost their revenue. We know that spending on Google AdWords work best if users go to a landing page with a clear call to action. In addition, having a website allows SMB owners to conduct simple A/B tests to increase conversion rates. Assuming that the average SMB owner who controls their own landing pages is able to meet Google's _conservative estimate_ ( 8 * (what you spend on AdWords) ). So what does this mean when you aggregate all SMBs that have a web presence, or more importantly, those that do not have a presence are losing potential huge revenue gains. So let's look at a formula that could help us get more insight into the revenue gains or losses due to a web presence. Note that we are not covering the 70% of SMB online ad spend not used for Google Adwords - clearly SMBs get some value for these investments that increase the economic impact beyond the calculations we show below.
 
 '(Total ad spending by SMBs)
        * (share of ad spending on Google AdWords)
@@ -75,6 +75,8 @@ For tech savvy SMBs, open source offers other benefits in addition to low cost: 
 Keep in mind that beyond creating their own web presence, SMBs and HBBs have access to number of commerce platforms and marketing/promotion platforms that are built on open source architectures, for example: eBay, Amazon, Etsy, Google, Facebook and Twitter. Even those SMBs with who build their own web presence may include storefronts on eBay, Amazon or Etsy, and may augment their marketing via Facebook and Twitter. We focus on the cost differential between between open source and commercial infrastructure components for SMBs running their own web presence, either on their own or via a hosting or cloud vendor.
 
 // end rm note 2012-07-05
+
+=== Savings Methodology //simple
 
 Constant pressure from open source projects driving costs down over the last 15 years has made having a web presence affordable, and has made the business opportunities that a web presence provides a possibility for many SMBs, including the growing HBB segment. Commercial vendors need to keep prices in check due to competition from open source projects. 
 
