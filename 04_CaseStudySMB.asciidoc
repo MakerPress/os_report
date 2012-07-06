@@ -1,5 +1,5 @@
 :bookseries: radar
 
-= Open Source and Small Business in Practice
+== Open Source and Small Business in Practice
  
-== Case Study 
+=== Case Study 
