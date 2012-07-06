@@ -1,5 +1,0 @@
-:bookseries: radar
-
-[[clothesline]]
-[role="fullpage"]
-image::images/info_graphic_ClothesPara.jpg[scaledwidth="90%"]
