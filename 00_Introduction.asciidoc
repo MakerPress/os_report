@@ -3,7 +3,7 @@
 = Impact of Open Source on Growth, Jobs, and Prosperity of Small Businesses: A Case Study 
 Mike Hendrickson and Roger Magoulas
  
-== Executive Summary 
+== Open Source is the Hidden Success Factor 
 
 By most traditional measures, pure-play open source companies appear to have had a relatively modest economic impact. Red Hat, the largest open source software company, had revenues of $1.13B for the fiscal year ending February 29, 2012, and a market capitalization of $10.8B as of June 2012. MySQL was sold for $1 Billion to Sun Microsystems in 2008. After the sale of Sun to Oracle, MySQL has estimated revenues in the range of $171M, and the MySQL ecosystem revenue is expected to grow at a CAGR of 40% to reach $664M by 2015 footnote:[http://blogs.the451group.com/information_management/2012/05/22/mysql-nosql-newsql/[Matthew Aslett 451 Research]]. There are a number of smaller pure-play open source companies, but none of them have achieved the scale of either of these two market leaders.
 
