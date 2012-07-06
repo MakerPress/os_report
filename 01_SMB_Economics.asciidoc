@@ -157,7 +157,7 @@ Our model combines the usage patterns based on the Bluehost SMB business user da
     (adj_ecomm * fulldb_diff) + (adj_cms * webdb_diff) + (web_pres * nodb_diff) = 
     (2.7% * 9.83) + (35% * 2.15) + (61% * 1.57) = 2.05
 
-// end rm alt
+// end rm alt 2012-07-06 3:00am
 
 Constant pressure from open source projects driving costs down over the last 15 years has made having a web presence affordable, and has made the business opportunities that a web presence provides a possibility for many SMBs, including the growing HBB segment. Commercial vendors need to keep prices in check due to competition from open source projects. 
 
