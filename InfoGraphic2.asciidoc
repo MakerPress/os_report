@@ -1,5 +1,0 @@
-:bookseries: radar
-
-[[Open Source Dominates in Running a Web Site]]
-[role="fullpage"]
-image::images/info_graphic_OpenvsProp.jpg[scalewidth="90%"]
