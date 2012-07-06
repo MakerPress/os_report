@@ -152,9 +152,13 @@ image::images/Commerce.jpg[scalewidth="90%"]
 
 SMBs are seeing a similar trend happening in the way they operate as large enterprises are experiencing. In addition to the changing patterns in browsing by their customers, employees are using their own devices, tools, and assets in their jobs. 82% of the our survey respondents use a typical Desktop browser, and 18% used a mobile browser. But part of the consumerization of IT is that Windows is the dominant platform in the survey results, yet Firefox and Chrome were the top two browsers. This is not a typical enterprise 'user install' which would be Windows and IE or Mac and Safari. Our data here shows that the backend enterprise stack is Linux and a host of tools, but the front end is dominated by Macs, iPads, mobile devices and a host of browsers. This is the trend that big enterprise IT is seeing as well.
 
-While the users were filling out their survey, the Browser dimension was captured automatically. The following chart is a bit surprising in that it is heavily dominated by FireFox. The dominate combination of and OS and Browser was Windows running Firefox.
+While the users were filling out their survey, the Browser dimension was captured programatically. The following chart is a bit surprising in that it is heavily dominated by FireFox. The dominate combination of and OS and Browser was Windows running Firefox. Or Windows running Chrome.
 
 image::images/survey_Browser.jpg[scalewidth="90%"]
 
+The surprising finding in the Platform dimension of the SMBs survey is how under-represented Linux is which is the operating system that most sites use as a hosting platform. Equally interesting is how many iPone OS users there are and in the Browser chart above you'll notice that Mobile Safari had the 3rd largest browser share. So the fact is that SMBs use Linux on the back end, but clearly use more consumer oriented devices and platforms to interact with the Web, and specifically this survey. 
+
 image::images/survey_Platform.jpg[scalewidth="90%"]
+
+Now that we have seen the impact Open Source can have on revenue, the cost savings available to SMBs, the technology stacks most often used in our SMB dataset, and the typical SMB customer profile let's take a look at how some of the technologies are being paired and how they stack up against each other.
 
