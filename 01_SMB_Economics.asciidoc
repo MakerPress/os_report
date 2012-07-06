@@ -17,48 +17,25 @@ Next we estimate the dollars that _could_ have gone to SMBs that don’t have a 
 
 // following is a test
 
-- List item.
-* List item.
-** List item.
-*** List item.
-**** List item.
-***** List item.
-
-In::
-     This is a test of indention.
+InIn::
 Lorem::
-     And this too is a test.
+  Fusce euismod commodo velit.
 
-Here's a test of a simple indent that one hopes spans two lines of display in the HTML view, I'm also hoping to test double indent::
+  Fusce euismod commodo velit.
 
-next level of indent
-
-
-1. List item one.
-+
-List item one continued with a second paragraph followed by an
-Indented block. Now I'm testing how the indent wrap works by adding a long text phrase the will surely run past two lines
-+
-.................
-$ ls *.sh
-$ mv *.sh ~/tmp
-.................
-+
-List item continued with a third paragraph.
-
-2. List item two continued with an open block.
-+
---
-This paragraph is part of the preceding list item.
-
-a. This list is nested and does not require explicit item continuation.
-+
-This paragraph is part of the preceding list item.
-
-b. List item b.
-
-This paragraph belongs to item two of the outer list.
---
+Ipsum:: Vivamus fringilla mi eu lacus.
+  * Vivamus fringilla mi eu lacus.
+  * Donec eget arcu bibendum nunc consequat lobortis.
+Dolor::
+  Donec eget arcu bibendum nunc consequat lobortis.
+  Suspendisse;;
+    A massa id sem aliquam auctor.
+  Morbi;;
+    Pretium nulla vel lorem.
+  In;;
+    Dictum mauris in urna.
+    Vivamus::: Fringilla mi eu lacus.
+    Donec:::   Eget arcu bibendum nunc consequat lobortis.
 
 [start=1]
 . *Total ad spending by SMBs* => average of these two
