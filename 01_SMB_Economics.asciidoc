@@ -17,6 +17,13 @@ Next we estimate the dollars that _could_ have gone to SMBs that don’t have a 
 
 // following is a test
 
+- List item.
+* List item.
+** List item.
+*** List item.
+**** List item.
+***** List item.
+
 In::
      This is a test of indention.
 Lorem::
@@ -45,7 +52,7 @@ List item continued with a third paragraph.
 This paragraph is part of the preceding list item.
 
 a. This list is nested and does not require explicit item continuation.
-+::
++
 This paragraph is part of the preceding list item.
 
 b. List item b.
