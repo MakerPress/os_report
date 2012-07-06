@@ -62,7 +62,7 @@ We focus on the infrastructure components of operating systems and databases as 
 
 Here’s the high level view of the model:
 
-     'Share of SMB customers w/ full access db * full access db price differential
+     Share of SMB customers w/ full access db * full access db price differential
 
         + share of SMB customers w/ web access db * web access db price differential
 
