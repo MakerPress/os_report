@@ -230,7 +230,6 @@ The next view shows how many jobs were advertised for the four CMSs in this stud
 
 image::images/CMS_Tot_Jobs.jpg[scalewidth="90%"]
 
-
 === Trends:
 
 The following four charts show the trends in the Job market for the four CMSs tools that we compared. WordPress is dominant and not showing any vulnerability for a competitor to snatch the market leadership position. Joomla has some market share for the second spot, but well below the Market control that WordPress currently occupies. The Green area behind the bar charts shows the overall Job market trends from all online job advertisements. For the most part all of the CMSs followed the cyclical pattern of the overall market.
@@ -261,7 +260,6 @@ TECHi has an excellent write up and InfoGraphic titled Open source wars: Wordpre
 |Number of Plugins	|14,629|8,039|7,609 
 |Number of Themes	|1,392 |885|54-100 footnote:[http://www.themepartner.com/blog/55/how-many-templates-for-joomla-are-there/[ThemePartner]]
 |Monthly Visits to Main Site|50,000,000|55,700|59,600
-
 
 |=======
 
