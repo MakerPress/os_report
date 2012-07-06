@@ -1,4 +1,5 @@
 :bookseries: radar
 
-.Open Source Dominates in Running a Web Site
+[[Open Source Dominates in Running a Web Site]]
+[role="fullpage"]
 image::images/infographic_02.jpg[scalewidth="90%"]
