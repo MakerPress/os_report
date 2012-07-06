@@ -260,10 +260,11 @@ TECHi has an excellent write up and InfoGraphic titled Open source wars: Wordpre
 |Avg Monthly Maintenance |$250|$1,500|$500 
 |Number of Plugins	|14,629|8,039|7,609 
 |Number of Themes	|1,392 |885|54-100 footnote:[http://www.themepartner.com/blog/55/how-many-templates-for-joomla-are-there/[ThemePartner]]
-|Monthly Visits to Main Site|50,000,000|55,700|59,600 
+|Monthly Visits to Main Site|50,000,000|55,700|59,600
+
+
 |=======
-
-
 
 === Analysis
 
+By any measure we can find, WordPress is the clear leader in CMSs applications. 
