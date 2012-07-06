@@ -2,7 +2,7 @@
 
 == Overall Growth Of Open Source Technologies
 
-The growth of Open Source tools during the past several years is not an easy measure to obtain. The follow analysis will be a combination of Job data along with user data from Bluehost. 
+The growth of open source tools during the past several years is not an easy measure to obtain. The following analysis will be a combination of job data along with user data from Bluehost. 
 
 The following charts demonstrate the health of open source systems for US jobs being advertised for the same technologies found on the Bluehost platform. This data contains all online jobs advertised for the previous three months [2012-06].
 
@@ -12,7 +12,7 @@ Contrast the image above with the one immediately below.  The one below is based
 
 image::images/users_technologies.jpg[scalewidth="90%"]
 
-=== The Stack profile/dimension
+=== The Stack Profile/Dimension
 
 In addition to the customer profile there is a technology stack profile. The term stack here means the layers of technology you put on top of a base of Unix/Linux or Windows. For example, someone may have a stack of Linux with MySql managing a database, and PHP to insert or retrieve data from the database, and Wordpress on top for having discussions. This is a simple and somewhat sloppy stack, because you can do more with each part that I touched on.  But for the purposes of illustrating a stack, it should suffice..
 
