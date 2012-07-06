@@ -4,7 +4,7 @@
 
 === Size and Composition of the Data Sets
 
-As we have seen, Open Source can be a significant savings for SMBs which can act as a kickstart their fledgling business. We are going to take a look at the typical Customer Profile and Technology Stack that represents the SMBs we studied. Before we go too much further into the data and analysis, it should be noted that Bluehost has provided us with a substantial amount of data. First, the data is fairly US-centric. That is, more than 70% of the hosted sites are based in the US. And we need to keep in mind that the data is skewed towards English-speaking countries like the US, UK, Canada, and Australia, which are the top four countries. The following pie chart shows the nature of the relative market share for the top five countries. The remaining parts of the world make up roughly 15% of the remaining market share.
+As we have seen, Open Source provides significant savings for SMBs, which can act to kickstart their fledgling business. We are going to take a look at the typical Customer Profile and Technology Stack that represents the SMBs we studied. Before we go too much further into the data and analysis, it should be noted that Bluehost has provided us with a substantial amount of data. First, the data is fairly US-centric. That is, more than 70% of the hosted sites are based in the US. And we need to keep in mind that the data is skewed towards English-speaking countries like the US, UK, Canada, and Australia, which are the top four countries. The following pie chart shows the nature of the relative market share for the top five countries. The remaining parts of the world make up roughly 15% of the remaining market share.
 
 image::images/top5.jpg[scalewidth="90%"]
 
