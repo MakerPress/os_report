@@ -1,17 +1,17 @@
 include::00_Executive-Summary.asciidoc[]
 
-include::01_SMB_Economics.asciidoc[]
+include::InfoGraphic3.asciidoc[]
 
-include::InfoGraphic1.asciidoc[]
+include::01_SMB_Economics.asciidoc[]
 
 include::02_The-Stacks.asciidoc[]
 
-include::InfoGraphic2.asciidoc[]
+include::InfoGraphic1.asciidoc[]
 
 include::03_Stack_Comparisons.asciidoc[]
 
-include::InfoGraphic3.asciidoc[]
-
-include::04_CaseStudySMB.asciidoc[]
+include::InfoGraphic2.asciidoc[]
 
 include::InfoGraphic4.asciidoc[]
+
+include::04_CaseStudySMB.asciidoc[]
