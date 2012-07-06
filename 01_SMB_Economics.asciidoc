@@ -17,9 +17,10 @@ Next we estimate the dollars that _could_ have gone to SMBs that don’t have a 
 
 // following is a test
 
-;;
+In::
+Lorem::
 Here's a test of a simple indent that one hopes spans two lines of display in the HTML view, I'm also hoping to test double indent
-;;
+
 next level of indent
 --
 
