@@ -17,17 +17,6 @@ Next we estimate the dollars that _could_ have gone to SMBs that don’t have a 
 
 // following is a test -- indention is not turned on it looks like.
 
-Dolor::
-  Donec eget arcu bibendum nunc consequat lobortis.
-  Suspendisse;;
-    A massa id sem aliquam auctor.
-  Morbi;;
-    Pretium nulla vel lorem.
-  In;;
-    Dictum mauris in urna.
-    Vivamus::: Fringilla mi eu lacus.
-    Donec:::   Eget arcu bibendum nunc consequat lobortis.
-
 [start=1]
 . *Total ad spending by SMBs* => average of these two
 $5.4 billion in 2010, according to this article from BIA/Kelsey. footnote:[http://www.biakelsey.com/Company/Press-Releases/110830-Digital-Advertising,-Performance-and-Retention-Solutions-Will-Be-70-Percent-of-SMB-Marketing-Budgets-by-2015.asp[BIA/Kelsey]]
