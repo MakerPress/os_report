@@ -4,13 +4,13 @@ include::InfoGraphic3.asciidoc[]
 
 include::01_SMB_Economics.asciidoc[]
 
-include::02_The-Stacks.asciidoc[]
-
 include::InfoGraphic1.asciidoc[]
 
-include::03_Stack_Comparisons.asciidoc[]
+include::02_The-Stacks.asciidoc[]
 
 include::InfoGraphic2.asciidoc[]
+
+include::03_Stack_Comparisons.asciidoc[]
 
 include::InfoGraphic4.asciidoc[]
 
