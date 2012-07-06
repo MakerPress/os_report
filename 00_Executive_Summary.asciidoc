@@ -1,3 +1,5 @@
+:bookseries: radar
+
 = Impact of Open Source on Growth, Jobs, and Prosperity of Small Businesses: A Case Study
 Mike Hendrickson and Roger Magoulas - Introduction by Tim O'Reilly
 
