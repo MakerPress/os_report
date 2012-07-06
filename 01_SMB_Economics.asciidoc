@@ -15,7 +15,7 @@ So let's assume that a SMB uses Google AdWords to help boost their revenue. We k
 
 Next we estimate the dollars that _could_ have gone to SMBs that don’t have a website. Let’s look at each of these parts:
 
-// following is a test -- with indenting a copy of conent from below.
+// following is a test -- with indenting a copy of conent from below. It works in the PDF
 
 * Here’s the high level view of the model::
 
