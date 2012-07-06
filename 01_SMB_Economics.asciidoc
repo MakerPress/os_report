@@ -103,6 +103,10 @@ Here’s the model assumptions and details
 //rm 2012-07-05 we should keep model formulas consistent, ben uses (1), (2), I use the short variable names, let me know what you prefer
 
 Model Details
+list test
+* item
+** subitem
+
 * Assumptions used to build the model
 ** Amazon EC2 pricing provides a reasonable proxy for the difference between open source and commercial software infrastructure, i.e., operating systems and databases
 ** Amazon is equally adept at negotiating with their open source and commercial providers
