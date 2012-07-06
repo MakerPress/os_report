@@ -1,7 +1,7 @@
 :bookseries: radar
 
 = Impact of Open Source on Growth, Jobs, and Prosperity of Small Businesses: A Case Study 
-Mike Hendrickson and Roger Magoulas
+Mike Hendrickson and Roger Magoulas (this is repeating the title in Executive Summary - we need it in the chapter that leads off.  1)executive summary, 2)introduction, etc...
  
 == Introduction
 
