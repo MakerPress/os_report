@@ -62,15 +62,13 @@ We focus on the infrastructure components of operating systems and databases as 
 
 Here’s the high level view of the model:
 
-     Share of SMB customers w/ full access db * full access db price differential
+     'Share of SMB customers w/ full access db * full access db price differential
 
         + share of SMB customers w/ web access db * web access db price differential
 
         + share of SMB customers w/ no db * no db price differential'
 
-//I’m having a hard time deciding whether anything high level about the model should be added here (above), maybe just some text with a reference to the model details: eg, “At a high level, the model looks at the share of SMBs who need full database access, need web database access or who don’t need web access (web presence only), all adjusted for the estimated share of SMBs with enough data volumes to incur a charge for commercial database licenses (> 10 Gb)”
-
-// or
+I’m having a hard time deciding whether anything high level about the model should be added here (above), maybe just some text with a reference to the model details: eg, “At a high level, the model looks at the share of SMBs who need full database access, need web database access or who don’t need web access (web presence only), all adjusted for the estimated share of SMBs with enough data volumes to incur a charge for commercial database licenses (> 10 Gb)”
 
 At a high level, the model looks a the share of SMBs who need the various levels of database support available for Windows platforms on EC2 and multiplies that by the price differential between Windows and Linux pricing for the types of EC2 instances appropriate for SMBs web presence.
 
