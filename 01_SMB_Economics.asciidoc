@@ -15,27 +15,7 @@ So let's assume that a SMB uses Google AdWords to help boost their revenue. We k
 
 Next we estimate the dollars that _could_ have gone to SMBs that don’t have a website. Let’s look at each of these parts:
 
-// following is a test
-
-InIn::
-Lorem::
-  Fusce euismod commodo velit.
-
-  Fusce euismod commodo velit.
-
-Ipsum:: Vivamus fringilla mi eu lacus.
-  * Vivamus fringilla mi eu lacus.
-  * Donec eget arcu bibendum nunc consequat lobortis.
-Dolor::
-  Donec eget arcu bibendum nunc consequat lobortis.
-  Suspendisse;;
-    A massa id sem aliquam auctor.
-  Morbi;;
-    Pretium nulla vel lorem.
-  In;;
-    Dictum mauris in urna.
-    Vivamus::: Fringilla mi eu lacus.
-    Donec:::   Eget arcu bibendum nunc consequat lobortis.
+// following is a test -- indention is not turned on it looks like.
 
 [start=1]
 . *Total ad spending by SMBs* => average of these two
