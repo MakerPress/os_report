@@ -1,5 +1,0 @@
-:bookseries: radar
-
-[[New Domains Growth Rate]]
-[role="fullpage"]
-image::images/info_graphic_WebSiteGrowth.jpg[scalewidth="90%"]
