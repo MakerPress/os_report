@@ -1,5 +1,0 @@
-:bookseries: radar
-
-[[CMS Dominance = WordPress]]
-[role="fullpage"]
-image::images/info_graphic_WordPress.jpg[scalewidth="90%"]
