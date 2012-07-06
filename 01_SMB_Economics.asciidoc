@@ -42,7 +42,7 @@ List item continued with a third paragraph.
 2. List item two continued with an open block.
 +
 --
-This paragraph is part of the preceding list item.
+This paragraph is part of the preceding list item.::
 
 a. This list is nested and does not require explicit item continuation.
 +
