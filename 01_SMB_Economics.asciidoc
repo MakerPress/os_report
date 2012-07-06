@@ -132,7 +132,7 @@ Model Details
 
 Our model combines the usage patterns based on the Bluehost SMB business user data with the price differentials between the various options to determine an overall open source / commercial price differential.
 
-    'Adjusted ecommerce share (adj_ecomm):
+    Adjusted ecommerce share (adj_ecomm):
         7.4% of SMBs w/ ecommerce * 50% of SMBs too big for free comm’l database: 3.7%
     Adjusted CMS share (adj_cms):
         70% of SMBs w/ CMS * 50% of SMBs too big for free comm’l database: 35%
