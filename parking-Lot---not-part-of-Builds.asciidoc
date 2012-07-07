@@ -1,38 +1,48 @@
-Mike wrote a stub for an exec summary which we will fill in after
+== Parking things
+
+* Mike wrote a stub for an exec summary which we will fill in after
 we've finished
-- I wrote and expanded the intro, which should come next
-- I took material on the BlueHost customer base out of the section
+
+* I wrote and expanded the intro, which should come next
+
+* I took material on the BlueHost customer base out of the section
 called The Stacks, rewrote it, and put it into a section called Web
 Hosting Context. This could be renamed BlueHost Customer or some such,
 but I don't know how to rename in Atlas   This should come next.
-- The remaining material in the chapter now called The Stacks should
+
+* The remaining material in the chapter now called The Stacks should
 be left out of the build.  I might find a use for it, but I'm not
 sure.
-- Mike is going to rework the chapter now called Stack Comparisons
+
+* Mike is going to rework the chapter now called Stack Comparisons
 based on the new pivot Roger supplied last night.  I will provide
 "pseudo-code" for how I'd like the narrative to go just below.  Let me
 know when you're done, and I'll do an editing pass
-- Roger, you said you were going to simplify the section on SMB
+
+* Roger, you said you were going to simplify the section on SMB
 economics, presenting the conclusions as simply as possible, and
 moving as much as possible of the detailed methodology to an appendix.
  I will then take a look at this and potentially rewrite.
-- Roger, you or Mike were going to write up the case study.
+
+* Roger, you or Mike were going to write up the case study.
 
 Pseudocode for stack comparison chapter:
 
-Dominant categories of application are CMS and e-commerce
-CMS - show table and/or chart of contenders
-eCommerce - table and/or chart of contenders
+* Dominant categories of application are CMS and e-commerce
+** CMS - show table and/or chart of contenders
+** eCommerce - table and/or chart of contenders
 
-Who uses what with whom:
+* Who uses what with whom:
 
-Wordpress - show what else people use with wordpress
-Joomla - show what else people use with Joomla
-Drupal - show what else people use with Drupal
+** Wordpress - show what else people use with wordpress
 
-Ditto for top-3 e-commerce offerings (or top two if third one is in the noise)
+** Joomla - show what else people use with Joomla
 
-Miscellaneous other factoids that might be interesting - e.g.
+** Drupal - show what else people use with Drupal
+
+** Ditto for top-3 e-commerce offerings (or top two if third one is in the noise)
+
+** Miscellaneous other factoids that might be interesting - e.g.
 comparison of language use across all site data would be fine.
 
 But I don't think we want a big deal or table showing SQL server or MS
