@@ -34,7 +34,7 @@ Now let's look at the same data for e-commerce. So you can see that Oscommerce i
 |Prestashop	 |1,071 	 |313 	|29%	|0%	|0%
 |=======
 
-And to wrap up with the 11 technologies that are offered to Bluehost subscribers, we have the following miscellaneous suite of tools. Phpbb is a bulletin board tool, Simple Machine Forum is a forum builder tool, Mediawiki is a wiki that allows users to edit content, Moodle is an Educational tool to manage class work, and Coppermine is a photo management tool.
+In addition to content management and e-commerce, there are an additional five technologies that are offered to Bluehost subscribers. We have labeled them as a miscellaneous suite of tools. Phpbb is a bulletin board tool, Simple Machine Forum (SMF) is a forum builder tool, Mediawiki is tool to build a wiki that allows users to edit content, Moodle is an Educational tool to manage class work, and Coppermine is a photo management tool.
 
 [options="header"]
 |=======
@@ -57,6 +57,29 @@ The following image shows the number of CMS users that have a commerce solution 
 image::images/CMS_ecommerce.jpg[scalewidth="90%"]
 
 
+[options="header"]
+|=======
+|e-Commerce|Javascript|Perl|Php|Python|Ruby
+|Magento|99%|53%|100%|22%|19%
+|Oscomm|74%|42%|86%|9%|8%
+|Presta|100%|55%|100%|22%|21%
+|=======
+
+[options="header"]
+|=======
+|e-Commerce|JS Median|PE Median|PH Median|PY median|R median
+|Magento|96%|33%|98%|12%|12%
+|Oscomm|27%|21%|40%|5%|4%
+|Presta|100%|34%|100%|10%|13%
+|=======
+
+[options="header"]
+|=======
+|e-Commerce|JS big|PE big|PH big|PY big|R big
+|Magento|42%|14%|97%|2%|1%
+|Oscomm|12%|9%|17%|1%|0%
+|Presta|67%|15%|68%|2%|1%
+|=======
 
 ===== Analysis of the CMS Tools
 
