@@ -66,6 +66,13 @@ In the 2011 Open Source CMS Market Share Report footnote:[http://www.waterandsto
 
 === Trends:
 
+image::images/CMS_Language.jpg[scalewidth="90%"]
+
+image::images/CMS_Language_Heavy.jpg[scalewidth="90%"]
+
+image::images/CMS_Language_med.jpg[scalewidth="90%"]
+
+
 TECHi has an excellent write up and InfoGraphic titled Open source wars: Wordpress vs Drupal vs Joomla footnote:[http://www.techi.com/2011/07/open-source-wars-wordpress-vs-drupal-vs-joomla/[TECHi]] that provides an excellent comparison of the features and costs of the three large CMSs. Here is a summary of cost components that may make the platforms more palatable for a SMB.
 
 [options="header"]
@@ -76,14 +83,7 @@ TECHi has an excellent write up and InfoGraphic titled Open source wars: Wordpre
 |Number of Plugins	|14,629|8,039|7,609 
 |Number of Themes	|1,392 |885|54-100 footnote:[http://www.themepartner.com/blog/55/how-many-templates-for-joomla-are-there/[ThemePartner]]
 |Monthly Visits to Main Site|50,000,000|55,700|59,600
-
 |=======
-
-image::images/CMS_Language.jpg[scalewidth="90%"]
-
-image::images/CMS_Language_Heavy.jpg[scalewidth="90%"]
-
-image::images/CMS_Language_med.jpg[scalewidth="90%"]
 
 ===== Analysis
 After PHP, this is second largest language in use on Bluehost. And the trend is that Javascript is growing in importance. This growth could be because of HTML5 composition of Javascript, CSS and HTML. Roughly 92% of Javascript users also use PHP and 80% of PHP users use Javascript. 81% of Javascript users also have MySql databases and 88% of the MySql database developers use Javascript.
