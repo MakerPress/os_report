@@ -12,7 +12,15 @@ Bluehost offers more than 94 different software packages and services that users
 
 [Need one or more charts here, showing the most common software used.]
 
-Based on our Bluehost domain analysis, we see that the average number of domains per plan is around 3 and stays active roughly 35 months at an average rate of $7.49 per month. More than 77% of the hosting plans have a database installed and most users have roughly 4 instances of their databases installed. This indicates that there is some sort of dynamic exchange likely happening on these sites whether it is a guestbook, product list or some other dynamically served/captured content. There are about two and a quarter mailboxes on average per account with more than two million overall email accounts. WordPress dominates in the Content Management category with a 55% share, and the next closest is Joomla at 9%.
+Based on our Bluehost domain analysis, we see that the average number of domains per plan is around 3 and stays active for roughly 35 months at an average rate of $7.49 per month. More than 77% of the hosting plans have a database installed and most users have roughly 4 instances of their databases installed. This indicates that there is some sort of dynamic exchange likely happening on these sites whether it is a guestbook, product list or some other dynamically served/captured content. There are about two and a quarter mailboxes on average per account with more than two million overall email accounts. WordPress dominates in the Content Management category with a 55% share, and the next closest is Joomla at 9%.
+
+The average hosting fee has decreased more than $1 on average in the previous two years. This is both a function of economies of scale that Bluehost has achieved and can now offer slightly better pricing and being aware of the economic tough times that have prevailed most recently. This pricing decrease may also be contributing to the growth of new users in the last couple of years. Although there is a slight downturn in new users being added in 2012, the overall trend for new users is going up.
+
+image::images/average_month_fee.jpg[scalewidth="90%"] 
+
+The average number of domains that each user obtains increased steadily each year up to 2008 and has steadily decreased since then. Since the number of BlueHost customers continues to increase, this does not indicate a slowdown in the hosting market, but may indicate that there is less of a sense that having a unique domain is necessary. Despite ICANN's introduction of new top-level domains, the era of domain name speculation may be coming to an end. While domain name growth is not a focus of this research, this is an interesting finding nonetheless.
+
+image::images/average_domains_user.jpg[scalewidth="90%"] 
 
 ===Customer Sophistication
 
@@ -59,6 +67,8 @@ image::images/survey_Browser.jpg[scalewidth="90%"]
 Equally interesting is how many iPhone OS users there are. In the Browser chart above, you'll notice that Mobile Safari has the 3rd largest browser share. 
 
 image::images/survey_Platform.jpg[scalewidth="90%"]
+
+
 
 
 
