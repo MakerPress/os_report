@@ -1,0 +1,5 @@
+:bookseries: radar
+
+[[hidden]]
+[role="fullpage"]
+image::images/info_graphic_Hidden.jpg[scaledwidth="90%"]
