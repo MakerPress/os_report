@@ -8,165 +8,60 @@ This first chart shows all online jobs advertised for for the 11 technologies du
 
 image::images/jobs_platform.jpg[scalewidth="90%"]
 
-Contrast the image above with the one immediately below.  The one below is based on the number of individuals electing to use the tools that are offered to them with a Bluehost account. The most noticeable difference is the large Job market for SqlServer dwarfs the seemingly non-consequential usage data on SqlServer from Bluehost. And WordPress is the largest CMS from a Jobs and Hosted Tool perspective, but is is a magnitude of roughly five times as significant on Bluehost. WordPress on Bluehost has more users than Perl, Python, and Ruby combined. Yet the Job market lags significantly in the WordPress area, or rather the number of postings for Javascript and SqlServer is huge. We understand the Javascript numbers are likely due to the language being both a front-end tool as well as a server-side tool with Node.js the past few years. 
+Contrast the image above with the one immediately below.  The one below is based on the number of individuals electing to use the tools that are offered to them with a Bluehost account. The most noticeable difference is the large Job market for SqlServer dwarfs the seemingly non-consequential usage data on SqlServer from Bluehost. And WordPress is the largest CMS from a Jobs and Hosted Tool perspective, but is is a magnitude of roughly five times as significant on Bluehost. WordPress on Bluehost has more users than Perl, Python, and Ruby combined. Yet the Job market lags significantly in the WordPress area, or rather the number of postings for Javascript and SqlServer is huge. We understand the Javascript numbers are likely due to the language being both a front-end tool for web development as well as a server-side tool with Node.js handling back-end server capabilities. 
 
 image::images/users_technologies.jpg[scalewidth="90%"]
 
 === The Stack Profile/Dimension
 
-In addition to the customer profile there is a technology stack profile. The term stack here means the layers of technology you put on top of a base of Unix/Linux or Windows. For example, someone may have a stack of Linux with MySql managing a database, and PHP to insert or retrieve data from the database, and Wordpress on top for having discussions. This is a simple and somewhat sloppy stack, because you can do more with each part that I touched on.  But for the purposes of illustrating a stack, it should suffice..
-
-Now that we have a perspective and a basic understanding of customer and stack profiles, let's move into the details of each of the technologies.
+In addition to the SMB customer profile of the typical Bluehost users, there is a technology stack that is being used regularly. The term stack here means the layers of technology you put on top of a base of Unix/Linux or Windows. For example, someone may have a stack of Linux with MySql managing a database, and PHP to insert or retrieve data from the database, and Wordpress on top for publishing blogs and informational pieces. This is a simple and somewhat sloppy stack, because you can do more with each part than I touched on, but for the purposes of illustrating a stack, it should suffice. First let's look at the underlying operating system component and the percentage of users in different countries using Linux/Unix.
 
 ==== The preferred platform
 
-Next let's take a look at what the data reveals about the typical open source customer. Between 2001 and 2012 the market for hosting services offered by Bluehost shows the following geographical distribution. I think it is safe to say this data is strongly Open Source-oriented when you look at the hosting platform dimension. By platform we mean Operating system selected to run a website. The chart below shows what percentage Linux has in countries around the world. Again, remember this is data from Bluehost. Any country with White as a color is that way because there was not enough data to assign market share. Interesting to note that middle of Africa has a large swath of white indicating not enough data to assign market share. Maybe a good opportunity to help this region of the world get their small businesses economy up and running with hosted sites.
+The map below shows the geographical distribution of users that host with Linux as their operating system between 2001 and 2012. I think it is safe to say this data is strongly Open Source-oriented when you look at the hosting platform dimension. Any country with White as a color does not have not enough data points to assign market share. Interesting to note that middle of Africa has a large swath of white indicating a lack of hosting service users. Maybe a good opportunity to help this region of the world get their SMB Web economy up and running with hosted sites.
 
 image::images/hosted_linux_unix.jpg[scalewidth="90%"] 
 
 So generally speaking, North America, Europe and especially Eastern Europe, are strongly Open Source when looking at whether a new hosted account selected Unix/Linux or Windows. South America has a couple of pockets of strong Open Source but has in general the weakest adoption of Unix or strongest adoption of Windows. Africa lacks a strong tendency either way but looks to be moving towards more Open Source than not. The countries with the largest installed Windows platform are: Macedonia, Jordan, Libya, Sierra Leone, Suriname, Gauadeloupe, and Iran.
 
-=== Technology Cross Adoption:
-Many of the technologies work well in suites or pairs. For instance, MySql and PHP are a commonly paired technology tools. Yet there are some surprises when you look at what users install and couple with other technologies. The following tables are going to provide a bunch of data that will provide you with the opportunity to speculate on what is happening. We will offer our analysis after the tables of data.
+=== Technology Cross Adoption
 
-==== Table Data
+As we said above, many of the technologies work well in suites, pairs or stacks. For instance, MySql and PHP are a commonly paired technology tools. Yet there are some surprises when you look at what users install and couple with other technologies. The following tables are going to provide a bunch of data that will provide you with the opportunity to speculate on what is happening. We will offer our analysis after the tables of data.
 
-===== SQLServer Users 7,965
+What we have found in the data is that there are two main components to SMBs on hosted services. One component is the information dissemination role a tool can play. WordPress, Joomla and Drupal are content management systems that help users publish information and represent this first component. e-Commerce is a more subtle component that reflects a more sophisticated SMB user of a hosted service. This is the component that is truly generating revenue. Why else would a SMB have a e-commerce solution installed if they did not intend to generate revenue.
+
+The following image shows the number of CMS users that have a commerce solution included in their hosted service. What is interesting to note is that WordPress, although it is by far the market leader, does not get paired as often with a e-commerce solution. We believe that running your own e-commerce tool on a website reflects a more sophisticated user, which is represented by Joomla and Drupal. Both of these CMS tools are considered more difficult to fully operate than WordPress, but likely are more powerful when paired with e-commerce tools.
+
+===== Analysis of the CMS Tools
+
+The big three of WordPress, Joomla and Drupal remain in firm command of the market, although the category is dominated by WordPress. Whether you look at job trends, Google Trends, or Bluehost user data, WordPress is the preferred CMS tool. For may SMBs, WordPress is all they need to engage their customers, and even do some rudimentary sales where they put in a phone number to call/order and they take your credit card directly via the phone. This was not measured in any of our data sets, but it is quite common in practice.
+
+In the 2011 Open Source CMS Market Share Report footnote:[http://www.waterandstone.com/book/2011-open-source-cms-market-share-report[water&stone]] they identify that their audience of more than 2,500 respondents 20% were 1-person only sites and 33% were between 2-10-person shops. This certainly represents SMBs and their report clearly shows that WordPress in Weekly Downloads, is about a factor of 8 times that of the next closest competitor of Joomla. Total installs are about 4.3m compared to 1.7m for Joomla. The magnitude of dominance is also what we find in the Bluehost data. But, interestingly enough, the Google Trends for the CMSs measured are not a far off as would appear from the other sources. Seems like a much higher percentage of Bluehost customers, water&stone respondents, and job advertisements skew towards Wordpress in a fairly large fashion.
+
+The next view shows how many jobs were advertised for the four CMSs in this study. As you can see, WordPress is dominant. Joomla had a period at the end of 2007 where it spiked above WordPress but nothing even close since then.
+
+image::images/CMS_Tot_Jobs.jpg[scalewidth="90%"]
+
+=== Trends:
+
+TECHi has an excellent write up and InfoGraphic titled Open source wars: Wordpress vs Drupal vs Joomla footnote:[http://www.techi.com/2011/07/open-source-wars-wordpress-vs-drupal-vs-joomla/[TECHi]] that provides an excellent comparison of the features and costs of the three large CMSs. Here is a summary of cost components that may make the platforms more palatable for a SMB.
+
 [options="header"]
-|=======			
-|tool	|users	|sqlserv share	|tool share	|# Tools Users
-|+ wordpress	|1,048	|13%	|0%	|396,439
-|+ joomla	|324	|4%	|0%	|72,159
-|+ drupal	|0	|0%	|0%	|23,983
-|+ phpbb	|220	|3%	|1%	|28,947
-|+ magento	|4	|0%	|0%	|9,007
-|+ osComm	|178	|2%	|1%	|15,068
-|+ moodle	|2	|0%	|0%	|5,982
-|+ smf	|0	|0%	|0%	|5,223
-|+ coppermine	|0	|0%	|0%	|5,030
-|+ mediawiki	|10	|0%	|0%	|4,629
-|+ presta	|0	|0%	|0%	|3,134 
+|======= 
+|What   |Wordpress	|Joomla| Drupal
+|Cost to set up	|$250-$15,000|$5,000 - $50,000|$2,000 - $20,000 
+|Avg Monthly Maintenance |$250|$1,500|$500 
+|Number of Plugins	|14,629|8,039|7,609 
+|Number of Themes	|1,392 |885|54-100 footnote:[http://www.themepartner.com/blog/55/how-many-templates-for-joomla-are-there/[ThemePartner]]
+|Monthly Visits to Main Site|50,000,000|55,700|59,600
+
 |=======
 
-===== Analysis
-Not much of a market on Bluehost for SQLServer. The most common tool paired with SQLServer is Wordpress, yet Wordpress has nearly 400k users and only 1,000 Wordpress users also use SQLServer. Compare this with the data below for MySQL and you see a drastic difference.
 
-===== MySql Users 593,218
-[options="header"]
-|=======
-|tool	|users	|mysql share	|tool share	|# Tools Users
-|+ wordpress	|395,935	|67%	|100%	|396,439
-|+ joomla	|72,040	|12%	|100%	|2,159
-|+ drupal	|23,902	|4%	|100%	|23,983
-|+ phpbb	|28,822	|5%	|100%	|28,947
-|+ magento	|8,994	|2%	|100%	|9,007
-|+ osComm	|15,009	|3%	|100%	|15,068
-|+ moodle	|5,970	|1%	|100%	|5,982
-|+ smf	|5,189	|1%	|99%	|5,223
-|+ coppermine	|5,009	|1%	|100%	|5,030
-|+ mediawiki	|4,618	|1%	|100%	|4,629
-|+ presta	|3,130	|1%	|100%	|3,134
-|=======
 
-===== Analysis
-MySql is a dominant tool on Bluehost. MySql is also dominant in Job data and Google trends. The combination of MySql and Wordpress is installed by more than two-thirds of all Bluehost users. Nearly 98% of all users have MySql installed with some other tool from the available options at Bluehost.
 
-===== Perl Users 181,143
-[options="header"]
-|=======
-|tool	|users	|perl share	|tool share|# Tools Users	
-|+ wordpress	|87,023	|48%	|22%	|396,439
-|+ joomla	|29,805	|16%	|41%	|72,159
-|+ drupal	|19,462	|11%	|81%	|23,983
-|+ phpbb	|14,800	|8%	|51%	|28,947
-|+ magento	|4,738	|3%	|53%	|9,007
-|+ osComm	|14,800	|8%	|98%	|15,068
-|+ moodle	|5,962	|3%	|100%	|5,982
-|+ smf	|3,795	|2%	|73%	|5,223
-|+ coppermine	|4,037	|2%	|80%	|5,030
-|+ mediawiki	|4,433	|2%	|96%	|4,629
-|+ presta	|1,599	|1%	|51%	|3,134
-|=======
 
-===== Analysis
-Perl has a pretty even distribution of tools that are used in conjunction with the language. After Wordpress, the numbers drop but are fairly well distributed among the remaining 10 tools. Perl is the third largest language in this data set, after PHP and Javascript.
 
-===== PHP Users 736,243
-[options="header"]
-|=======
-|tool	|users	|php share	|tool share|# Tools Users	
-|+ wordpress	|385,990	|52%	|97%	|396,439
-|+ joomla	|69,822	|9%	|97%	|72,159
-|+ drupal	|23,983	|3%	|100%	|23,983
-|+ phpbb	|26,591	|4%	|92%	|28,947
-|+ magento	|8,979	|1%	|100%	|9,007
-|+ osComm	|13,109	|2%	|87%	|15,068
-|+ moodle	|5,977	|1%	|100%	|5,982
-|+ smf	|5,222	|1%	|100%	|5,223
-|+ coppermine	|5,030	|1%	|100%	|5,030
-|+ mediawiki	|4,576	|1%	|99%	|4,629
-|+ presta	|3,133	|0%	|100%	|3,134
-|=======
-
-===== Analysis
-PHP is the largest language and tool on Bluehost. Wordpress is the most often paired tool with PHP. The drop off from Wordpress to the remaining 10 tools is quite steep and the second most coupled tool is Joomla at only 9% of the PHP market.  76% of PHP users have MySql installed and 95% of MySql users have PHP in use on Bluehost systems.
-
-===== Ruby users 43,701
-[options="header"]
-|=======
-|tool	|users	|ruby share	|tool share|# Tools Users	
-|+ wordpress	|25,994	|59%	|7%	|396,439
-|+ joomla	|9,501	|22%	|13%	|72,159
-|+ drupal	|5,387	|12%	|22%	|23,983
-|+ phpbb	|4,510	|10%	|16%	|28,947
-|+ magento	|1,703	|4%	|19%	|9,007
-|+ osComm	|1,321	|3%	|9%	|15,068
-|+ moodle	|1,646	|4%	|28%	|5,982
-|+ smf	|1,824	|4%	|35%	|5,223
-|+ coppermine	|1,875	|4%	|37%	|5,030
-|+ mediawiki	|1,512	|3%	|33%	|4,629
-|+ presta	|585	|1%	|19%	|3,134
-|=======
-
-===== Analysis
-Ruby is the smallest language on Bluehost. It follows the same distribution trend as all the other tools. A large percent of Wordpress followed by a drop off for the next 10 tools.
-
-===== Javascript Users 638,965	
-[options="header"]
-|=======		
-|tool	|users	|js share	|tool share|# Tools Users	
-|+ wordpress	|362,794	|57%	|92%	|396,439
-|+ joomla	|63,929	|10%	|89%	|72,159
-|+ drupal	|23,975	|4%	|100%	|23,983
-|+ phpbb	|23,525	|4%	|81%	|28,947
-|+ magento	|8,921	|1%	|99%	|9,007
-|+ osComm	|11,334	|2%	|75%	|15,068
-|+ moodle	|5,971	|1%	|100%	|5,982
-|+ smf	|5,221	|1%	|100%	|5,223
-|+ coppermine	|5,026	|1%	|100%	|5,030
-|+ mediawiki	|4,508	|1%	|97%	|4,629
-|+ presta	|3,126	|0%	|100%	|3,134
-|=======
-
-===== Analysis
-After PHP, this is second largest language in use on Bluehost. And the trend is that Javascript is growing in importance. This growth could be because of HTML5 composition of Javascript, CSS and HTML. Roughly 92% of Javascript users also use PHP and 80% of PHP users use Javascript. 81% of Javascript users also have MySql databases and 88% of the MySql database developers use Javascript.
-
-===== ASP Users 58,694
-[options="header"]
-|=======
-|tool	|users	|asp share	|tool share|# Tools Users	
-|+ wordpress	|29,097	|50%	|7%	|396,439
-|+ joomla	|10,801	|18%	|15%	|72,159
-|+ drupal	|10,229	|17%	|43%	|23,983
-|+ phpbb	|4,682	|8%	|16%	|28,947
-|+ magento	|2,283	|4%	|25%	|9,007
-|+ osComm	|2,966	|5%	|20%	|15,068
-|+ moodle	|1,629	|3%	|27%	|5,982
-|+ smf	|1,290	|2%	|25%	|5,223
-|+ coppermine	|1,196	|2%	|24%	|5,030
-|+ mediawiki	|1,228	|2%	|27%	|4,629
-|+ presta	|855	|1%	|27%	|3,134
-|=======
 
 ===== Analysis
 After PHP, this is second largest language in use on Bluehost. And the trend is that Javascript is growing in importance. This growth could be because of HTML5 composition of Javascript, CSS and HTML. Roughly 92% of Javascript users also use PHP and 80% of PHP users use Javascript. 81% of Javascript users also have MySql databases and 88% of the MySql database developers use Javascript.
@@ -216,53 +111,3 @@ image::images/asp.jpg[scalewidth="90%"]
 
 When looking at all these languages there are a couple of points that stand out. First, they are not all targeted for Web Programming. C# and to a lessor extent, Python, are general purpose languages. Python is likely the most versatile in finding a home in many different settings, including Life Sciences, Computer Science, Health IT and other areas where either numerics or engineering requirements are strong. C# is much more of a strong enterprise language for Microsoft platforms. Although Ruby has some same characteristics as Python, it is more closely related to PHP, Javascript, and Perl for its use in Web Programming. At least from a job posting perspective, Ruby is the clear leader. From a language usage perspective, PHP and Javascript are dominant among Bluehost web site builders. 
 
-== CMS Category
-
-The big three of WordPress, Joomla and Drupal reman in firm command of the market, although the category is dominated by WordPress. Whether you look at job trends, Google Trends, or Bluehost user data, WordPress is the preferred platform. For may SMBs, WordPress is all they need to engage their customers, and even do some rudimentary sales where they put in a phone number to call/order and they take your credit card directly via the phone. This was not measured in any of our data sets, but it is quite common in practice.
-
-In the 2011 Open Source CMS Market Share Report footnote:[http://www.waterandstone.com/book/2011-open-source-cms-market-share-report[water&stone]] they identify that their audience of more than 2,500 respondents 20% were 1-person only sites and 33% were between 2-10-person shops. This certainly represents SMBs and their report clearly shows that WordPress in Weekly Downloads, is about a factor of 8 times that of the next closest competitor of Joomla. Total installs are about 4.3m compared to 1.7m for Joomla. The magnitude of dominance is also what we find in the Bluehost data. But, interestingly enough, the Google Trends for the CMSs measured are not a far off as would appear from the other sources. Seems like a much higher percentage of Bluehost customers, water&stone respondents, and job advertisements skew towards Wordpress in a fairly large fashion.
-
-The image immediately below shows the Google Search volume for the four CMS options offered by Bluehost. As you can see WordPress is now dominant but not as much as our other measures will show. Note that it was not until late 2009 that WordPress overtook Joomla for Search volume.
-
-image::images/CMS_Google_Trends.jpg[scalewidth="90%"]
-
-The next view shows how many jobs were advertised for the four CMSs in this study. As you can see, WordPress is dominant. Joomla had a period at the end of 2007 where it spiked above WordPress but nothing even close since then.
-
-image::images/CMS_Tot_Jobs.jpg[scalewidth="90%"]
-
-=== Trends:
-
-The following four charts show the trends in the Job market for the four CMSs tools that we compared. WordPress is dominant and not showing any vulnerability for a competitor to snatch the market leadership position. Joomla has some market share for the second spot, but well below the Market control that WordPress currently occupies. The Green area behind the bar charts shows the overall Job market trends from all online job advertisements. For the most part all of the CMSs followed the cyclical pattern of the overall market.
-
-The story with WordPress is that the Scale on the right that represents Average Monthly Jobs is much greater in its high end. That is, the top of the scale is 7,000 jobs are advertised on a monthly basis where as Joomla's high end is 1,400 and it is the second largest of the CMSs. WordPress has a fairly large ecosystem to support the SMB with more than 14k plugins. The drawback to watch out as an SMB is the frequency which WordPress updates are released. WordPress has a new release around every 20 days. The formula for this is (now() - release_date) / #releases = days between releases, or (7/5/2012 - 5/27/2003) / 164 = 20.29. 
-
-image::images/wordPressAvg.jpg[scalewidth="90%"]
-
-The main difference for using Joomla to build a SMB website, is it's viewed as more difficult because it handles complex multiple user privileges and supports custom database operations. So it maybe questionable whether or not a SMB that is on the ramp-up side, needs those features. Joomla has more that 7k of the plugins available and is updated on average of every 37 days.
-
-image::images/joomlaAvg.jpg[scalewidth="90%"]
-
-Drupal is the oldest of the three large CMSs yet has the smallest market share. It started as a community web board and is excellent for building community type websites. There are more than 8k plugins and as a platform it is updated every 36 days. Interesting to note that the White House uses Drupal.
-
-image::images/drupalAvg.jpg[scalewidth="90%"]
-
-Magento is not a large player in the CMS market, but for our dataset it is represented because if you sign up with one of the hosting service plans from Bluehost, you get Magento for free.  So it is included here.
-
-image::images/magentoAvg.jpg[scalewidth="90%"]
-
-TECHi has an excellent write up and InfoGraphic titled Open source wars: Wordpress vs Drupal vs Joomla footnote:[http://www.techi.com/2011/07/open-source-wars-wordpress-vs-drupal-vs-joomla/[TECHi]] that provides an excellent comparison of the features and costs of the three large CMSs. Here is a summary of cost components that may make the platforms more palatable for a SMB.
-
-[options="header"]
-|======= 
-|What   |Wordpress	|Joomla| Drupal
-|Cost to set up	|$250-$15,000|$5,000 - $50,000|$2,000 - $20,000 
-|Avg Monthly Maintenance |$250|$1,500|$500 
-|Number of Plugins	|14,629|8,039|7,609 
-|Number of Themes	|1,392 |885|54-100 footnote:[http://www.themepartner.com/blog/55/how-many-templates-for-joomla-are-there/[ThemePartner]]
-|Monthly Visits to Main Site|50,000,000|55,700|59,600
-
-|=======
-
-=== Analysis
-
-By any measure we can find, WordPress is the clear leader in CMSs applications. 
