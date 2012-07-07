@@ -56,7 +56,7 @@ While the users were filling out their survey, the Browser dimension was capture
 
 image::images/survey_Browser.jpg[scalewidth="90%"]
 
-Equally interesting is how many iPhone OS users there are and in the Browser chart above you'll notice that Mobile Safari had the 3rd largest browser share. So while BlueHost's customers use Linux and other open source software for their web hosting needs, they use  consumer oriented devices and platforms to interact with the Web. 
+Equally interesting is how many iPhone OS users there are. In the Browser chart above, you'll notice that Mobile Safari has the 3rd largest browser share. 
 
 image::images/survey_Platform.jpg[scalewidth="90%"]
 
