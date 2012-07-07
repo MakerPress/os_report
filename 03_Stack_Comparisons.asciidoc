@@ -6,7 +6,7 @@ The growth of open source tools during the past several years is not an easy mea
 
 [options="header"]
 |=======
-|CMS	|all users	|only tool users	|% only	% |share	% share tool customers
+|CMS	|All users	|Only tool users	|% only	 |% share	|% share tool customers
 |WordPress	|277074	|240436	|87%	|41%	|85%
 |Drupal	|16109	|7190	|45%	|2%	|5%
 |Joomla	|40838	|21483	|53%	|6%	|12%
