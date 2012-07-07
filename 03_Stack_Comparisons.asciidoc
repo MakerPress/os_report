@@ -10,7 +10,7 @@ The map below shows the geographical distribution of users that host with Linux 
 
 image::images/hosted_linux_unix.jpg[scalewidth="90%"] 
 
-So generally speaking, North America, Europe and especially Eastern Europe, are strongly Open Source when looking at whether a new hosted account selected Unix/Linux or Windows. South America has a couple of pockets of strong Open Source but has in general the weakest adoption of Unix or strongest adoption of Windows. Africa lacks a strong tendency either way but looks to be moving towards more Open Source than not. The countries with the largest installed Windows platform are: Macedonia, Jordan, Libya, Sierra Leone, Suriname, Gauadeloupe, and Iran.
+So generally speaking, North America, Europe and especially Eastern Europe, are strongly Open Source when looking at whether a new hosted account selected Unix/Linux or Windows. South America has a couple of pockets of strong Open Source but has in general the weakest adoption of Unix or strongest adoption of Windows. Africa lacks a strong tendency either way but looks to be moving towards more Open Source than not. The countries with the largest installed Windows platform are: Macedonia, Jordan, Libya, Sierra Leone, Suriname, Guadeloupe, and Iran.
 
 == SMB's Tech Tools to Build an Online Web Presence
 
@@ -24,6 +24,28 @@ The growth of open source tools during the past several years is not an easy mea
 |Joomla	|40,838	|2,1483	|53%	|6%	|12%
 |=======
 
+Now let's look at the same data for e-commerce. So you can see that Oscommerce is by far the largest installed tool for doing e-commerce on a Bluehost account. Indirectly, those SMBs that use PayPal may be using Magento as well because PayPal purchased Magento awhile back. That is not measured here.
+
+[options="header"]
+|=======
+|E-commerce	|all users|only tool users|% only	|% share|% share tool customers
+|Magento	 |4,896 	 |1,518 	|31%|	1%	|1%
+|Oscommerce	 |10,023 	 |4,769 	|48%	|1%	|3%
+|Prestashop	 |1,071 	 |313 	|29%	|0%	|0%
+|=======
+
+And to wrap up with the 11 technologies that are offered to Bluehost subscribers, we have the following miscellaneous suite of tools. Phpbb is a bulletin board tool, Simple Machine Forum is a forum builder tool, Mediawiki is a wiki that allows users to edit content, Moodle is an Educational tool to manage class work, and Coppermine is a photo management tool.
+
+[options="header"]
+|=======
+|Misc Tools|all users|only tool users|% only|% share|% share tool customers
+|Phpbb| 19,391 | 7,438 |38%|3%|6%
+|Simple machines| 3,296 | 659 |20%|0%|1%
+|Mediawiki| 2,816 | 408 |14%|0%|1%
+|Moodle| 3,077 | 583 |19%|0%|1%
+|Coppermine| 3,412 | 722 |21%|0%|1%
+|=======
+
 === Technology Cross Adoption
 
 As we said above, many of the technologies work well in suites, pairs or stacks. For instance, MySql and PHP are a commonly paired technology tools. Yet there are some surprises when you look at what users install and couple with other technologies. The following tables are going to provide a bunch of data that will provide you with the opportunity to speculate on what is happening. We will offer our analysis after the tables of data.
@@ -33,6 +55,8 @@ What we have found in the data is that there are two main components to SMBs on 
 The following image shows the number of CMS users that have a commerce solution included in their hosted service. What is interesting to note is that WordPress, although it is by far the market leader, does not get paired as often with a e-commerce solution. We believe that running your own e-commerce tool on a website reflects a more sophisticated user, which is represented by Joomla and Drupal. Both of these CMS tools are considered more difficult to fully operate than WordPress, but likely are more powerful when paired with e-commerce tools.
 
 image::images/CMS_ecommerce.jpg[scalewidth="90%"]
+
+
 
 ===== Analysis of the CMS Tools
 
