@@ -56,6 +56,7 @@ The following image shows the number of CMS users that have a commerce solution 
 
 image::images/CMS_ecommerce.jpg[scalewidth="90%"]
 
+The following three tables show pairings with programming languages and e-commerce systems. This is helpful in seeing how many total users have a particular combination, what the typical user has (median) and which e-commerce systems have 'big" usage of a specific language. So if you look at the three tables, you see that 
 
 [options="header"]
 |=======
@@ -64,6 +65,8 @@ image::images/CMS_ecommerce.jpg[scalewidth="90%"]
 |Oscomm|74%|42%|86%|9%|8%
 |Presta|100%|55%|100%|22%|21%
 |=======
+
+The next table shows the median, not the average. This way we won't see the data skewed by some large variants. Think of this as the typical users that have Magento use Javascript 96% of the time.
 
 [options="header"]
 |=======
@@ -86,10 +89,6 @@ image::images/CMS_ecommerce.jpg[scalewidth="90%"]
 The big three of WordPress, Joomla and Drupal remain in firm command of the market, although the category is dominated by WordPress. Whether you look at job trends, Google Trends, or Bluehost user data, WordPress is the preferred CMS tool. For may SMBs, WordPress is all they need to engage their customers, and even do some rudimentary sales where they put in a phone number to call/order and they take your credit card directly via the phone. This was not measured in any of our data sets, but it is quite common in practice.
 
 In the 2011 Open Source CMS Market Share Report footnote:[http://www.waterandstone.com/book/2011-open-source-cms-market-share-report[water&stone]] they identify that their audience of more than 2,500 respondents 20% were 1-person only sites and 33% were between 2-10-person shops. This certainly represents SMBs and their report clearly shows that WordPress in Weekly Downloads, is about a factor of 8 times that of the next closest competitor of Joomla. Total installs are about 4.3m compared to 1.7m for Joomla. The magnitude of dominance is also what we find in the Bluehost data. But, interestingly enough, the Google Trends for the CMSs measured are not a far off as would appear from the other sources. Seems like a much higher percentage of Bluehost customers, water&stone respondents, and job advertisements skew towards Wordpress in a fairly large fashion.
-
-The next view shows how many jobs were advertised for the four CMSs in this study. As you can see, WordPress is dominant. Joomla had a period at the end of 2007 where it spiked above WordPress but nothing even close since then.
-
-image::images/CMS_Tot_Jobs.jpg[scalewidth="90%"]
 
 === Trends:
 
