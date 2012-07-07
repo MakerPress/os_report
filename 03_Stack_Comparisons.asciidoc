@@ -2,7 +2,7 @@
 
 == SMB's Tech Tools to Build an Online Web Presence
 
-The growth of open source tools during the past several years is not an easy measure to obtain. The following analysis will contain a combination of job data along with user data from Bluehost. But we are not going to look at all Open Source trends here, but rather the components that help a SMB get a presence on the Web. 
+The growth of open source tools during the past several years is not an easy measure to obtain. The following analysis will contain a combination of job data along with user data from Bluehost. But we are not going to look at all Open Source trends here, but rather the components that help a SMB get a presence on the Web. The table below shows the following from left to right: the CMS, how many users have the tool installed, how many have only that tool installed, the percentage of users that only use that tool, the percentage of all Bluehost customers who use the tool, and the percentage of the CMS tool share. 
 
 [options="header"]
 |=======
