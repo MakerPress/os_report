@@ -32,6 +32,8 @@ What we have found in the data is that there are two main components to SMBs on 
 
 The following image shows the number of CMS users that have a commerce solution included in their hosted service. What is interesting to note is that WordPress, although it is by far the market leader, does not get paired as often with a e-commerce solution. We believe that running your own e-commerce tool on a website reflects a more sophisticated user, which is represented by Joomla and Drupal. Both of these CMS tools are considered more difficult to fully operate than WordPress, but likely are more powerful when paired with e-commerce tools.
 
+image::images/CMS_ecommerce.jpg[scalewidth="90%"]
+
 ===== Analysis of the CMS Tools
 
 The big three of WordPress, Joomla and Drupal remain in firm command of the market, although the category is dominated by WordPress. Whether you look at job trends, Google Trends, or Bluehost user data, WordPress is the preferred CMS tool. For may SMBs, WordPress is all they need to engage their customers, and even do some rudimentary sales where they put in a phone number to call/order and they take your credit card directly via the phone. This was not measured in any of our data sets, but it is quite common in practice.
