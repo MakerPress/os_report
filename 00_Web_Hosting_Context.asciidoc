@@ -10,7 +10,7 @@ BlueHost is the nth largest hosting firm, hosting approximately xx million domai
 
 Bluehost offers more than 94 different software packages and services that users can select from when signing up for a hosting plan. There are 26 categories of software and services including Backups, Blogs, Business Tools, Classifieds, Client Management, Content Management, eCommerce, Education, Forms and Surveys, Forums, Guestbooks, Help Center, Live Chat, Mailing Lists, Photo Galleries, Product Sourcing, Project Management, RSS, Security, Social Networking, Statistics, Utilities, Webmail, Website Builders, Website Design, and Wiki. Far and away the most common applications selected by customers, though, fall into two categories: Content Management Systems such as WordPress, Drupal, and Joomla, and eCommerce systems such as Magento, xxx, and yyy.
 
-[Need one or more charts here, showing the most common software used.]
+//Need one or more charts here, showing the most common software used.
 
 Based on our Bluehost domain analysis, we see that the average number of domains per plan is around 3 and stays active for roughly 35 months at an average rate of $7.49 per month. More than 77% of the hosting plans have a database installed and most users have roughly 4 instances of their databases installed. This indicates that there is some sort of dynamic exchange likely happening on these sites whether it is a guestbook, product list or some other dynamically served/captured content. There are about two and a quarter mailboxes on average per account with more than two million overall email accounts. WordPress dominates in the Content Management category with a 55% share, and the next closest is Joomla at 9%.
 
