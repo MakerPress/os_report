@@ -28,7 +28,7 @@ Now let's look at the same data for e-commerce. So you can see that Oscommerce i
 
 [options="header"]
 |=======
-|E-commerce	|all users|only tool users|% only	|% share|% share tool customers
+|E-commerce	|All users	|Only tool users	|% only	 |% share	|% share tool customers
 |Magento	 |4,896 	 |1,518 	|31%|	1%	|1%
 |Oscommerce	 |10,023 	 |4,769 	|48%	|1%	|3%
 |Prestashop	 |1,071 	 |313 	|29%	|0%	|0%
@@ -38,7 +38,7 @@ And to wrap up with the 11 technologies that are offered to Bluehost subscribers
 
 [options="header"]
 |=======
-|Misc Tools|all users|only tool users|% only|% share|% share tool customers
+|Misc Tools|All users	|Only tool users	|% only	 |% share	|% share tool customers
 |Phpbb| 19,391 | 7,438 |38%|3%|6%
 |Simple machines| 3,296 | 659 |20%|0%|1%
 |Mediawiki| 2,816 | 408 |14%|0%|1%
