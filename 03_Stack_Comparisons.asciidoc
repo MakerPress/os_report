@@ -58,32 +58,6 @@ image::images/CMS_ecommerce.jpg[scalewidth="90%"]
 
 The following three tables show pairings with programming languages and e-commerce systems. This is helpful in seeing how many total users have a particular combination, what the typical user has (median) and which e-commerce systems have 'big" usage of a specific language. So if you look at the three tables, you see that 
 
-[options="header"]
-|=======
-|e-Commerce|Javascript|Perl|Php|Python|Ruby
-|Magento|99%|53%|100%|22%|19%
-|Oscomm|74%|42%|86%|9%|8%
-|Presta|100%|55%|100%|22%|21%
-|=======
-
-The next table shows the median, not the average. This way we won't see the data skewed by some large variants. Think of this as the typical users that have Magento use Javascript 96% of the time.
-
-[options="header"]
-|=======
-|e-Commerce|JS Median|PE Median|PH Median|PY median|R median
-|Magento|96%|33%|98%|12%|12%
-|Oscomm|27%|21%|40%|5%|4%
-|Presta|100%|34%|100%|10%|13%
-|=======
-
-[options="header"]
-|=======
-|e-Commerce|JS big|PE big|PH big|PY big|R big
-|Magento|42%|14%|97%|2%|1%
-|Oscomm|12%|9%|17%|1%|0%
-|Presta|67%|15%|68%|2%|1%
-|=======
-
 ===== Analysis of the CMS Tools
 
 The big three of WordPress, Joomla and Drupal remain in firm command of the market, although the category is dominated by WordPress. Whether you look at job trends, Google Trends, or Bluehost user data, WordPress is the preferred CMS tool. For may SMBs, WordPress is all they need to engage their customers, and even do some rudimentary sales where they put in a phone number to call/order and they take your credit card directly via the phone. This was not measured in any of our data sets, but it is quite common in practice.
@@ -105,11 +79,11 @@ TECHi has an excellent write up and InfoGraphic titled Open source wars: Wordpre
 
 |=======
 
+image::images/CMS_Language.jpg[scalewidth="90%"]
 
+image::images/CMS_Language_Heavy.jpg[scalewidth="90%"]
 
-
-
-
+image::images/CMS_Language_med.jpg[scalewidth="90%"]
 
 ===== Analysis
 After PHP, this is second largest language in use on Bluehost. And the trend is that Javascript is growing in importance. This growth could be because of HTML5 composition of Javascript, CSS and HTML. Roughly 92% of Javascript users also use PHP and 80% of PHP users use Javascript. 81% of Javascript users also have MySql databases and 88% of the MySql database developers use Javascript.
