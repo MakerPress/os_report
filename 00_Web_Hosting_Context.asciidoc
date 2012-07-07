@@ -48,9 +48,9 @@ The revenue size of these hosted sites is shown in the chart below. The response
 
 image::images/RevenueSize.jpg[scalewidth="90%"]
 
-=== Other Customer Dimensions
+===Browsers and Operating Systems
 
-82% of the our survey respondents use a typical Desktop browser, and 18% used a mobile browser. An interesting footnote to this survey data is that Windows is the dominant client platform, yet Firefox and Chrome were the top two browsers. This is not a typical enterprise 'user install' which would be Windows and IE or Mac and Safari. Our data here shows that the backend enterprise stack is Linux and a host of tools, but the front end is dominated by Macs, iPads, mobile devices and a host of browsers. This is the trend that big enterprise IT is seeing as well.
+82% of the our survey respondents use a typical Desktop browser, and 18% used a mobile browser. An interesting footnote to this survey data is that Windows is the dominant client platform, yet Firefox and Chrome were the top two browsers. This is not a typical enterprise 'user install' which would be Windows and IE, or Mac and Safari.
 
 While the users were filling out their survey, the Browser dimension was captured programatically. The following chart is a bit surprising in that it is heavily dominated by FireFox. The dominant combination of Operating System and Browser was Windows running Firefox, followed by Windows running Chrome.
 
