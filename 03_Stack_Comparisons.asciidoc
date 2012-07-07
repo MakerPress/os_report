@@ -7,9 +7,9 @@ The growth of open source tools during the past several years is not an easy mea
 [options="header"]
 |=======
 |CMS	|all users	|only tool users	|% only	% |share	% share tool customers
-wordpress	|277074	|240436	|87%	|41%	|85%
-drupal	|16109	|7190	|45%	|2%	|5%
-joomla	|40838	|21483	|53%	|6%	|12%
+|WordPress	|277074	|240436	|87%	|41%	|85%
+|Drupal	|16109	|7190	|45%	|2%	|5%
+|Joomla	|40838	|21483	|53%	|6%	|12%
 |=======
 
 === The Stack Profile/Dimension
