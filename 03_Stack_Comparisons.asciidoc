@@ -2,15 +2,15 @@
 
 == SMB's Tech Tools to Build an Online Web Presence
 
-The growth of open source tools during the past several years is not an easy measure to obtain. The following analysis will contain a combination of job data along with user data from Bluehost. But we are not going to look at all Open Source trends here, but rather the components that help a SMB get a presence on the Web. The technology components that make the Web stack for Bluehost's SMBs are shown in the following two charts.  The first one is the advertised Job postings for the 11 technologies we looked at, and the second chart is the usage by Bluehost customers for the same 11 components. 
+The growth of open source tools during the past several years is not an easy measure to obtain. The following analysis will contain a combination of job data along with user data from Bluehost. But we are not going to look at all Open Source trends here, but rather the components that help a SMB get a presence on the Web. 
 
-This first chart shows all online jobs advertised for for the 11 technologies during the previous three months between March and May of 2012.
-
-image::images/jobs_platform.jpg[scalewidth="90%"]
-
-Contrast the image above with the one immediately below. The one below is based on the number of individuals electing to use the tools that are offered to them with a Bluehost account. The most noticeable difference is the large Job market for SqlServer dwarfs the seemingly non-consequential usage data on SqlServer from Bluehost. And WordPress is the largest CMS from a Jobs and Hosted Tool perspective, but is is a magnitude of roughly five times as significant on Bluehost. WordPress on Bluehost has more users than Perl, Python, and Ruby combined. Yet the Job market lags significantly in the WordPress area, or rather the number of postings for Javascript and SqlServer is huge. We know that SMBs do not advertise for developers as often as the large enterprises, so the Job data is a bit skewed towards enterprises. Also, being a WordPress jockey is not a highly sought skill, but knowing it can help if you are a SMB. We should point out that the significant Javascript numbers are likely due to the language being both a front-end tool for web development as well as a server-side tool with Node.js handling back-end server capabilities so it appeals to both large enterprises and SMBs. 
-
-image::images/users_technologies.jpg[scalewidth="90%"]
+[options="header"]
+|=======
+|CMS	|all users	|only tool users	|% only	% |share	% share tool customers
+wordpress	|277074	|240436	|87%	|41%	|85%
+drupal	|16109	|7190	|45%	|2%	|5%
+joomla	|40838	|21483	|53%	|6%	|12%
+|=======
 
 === The Stack Profile/Dimension
 
