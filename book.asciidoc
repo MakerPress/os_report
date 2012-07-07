@@ -6,15 +6,15 @@ include::00_Introduction.asciidoc[]
 
 include::InfoGraphic_01.asciidoc[]
 
-include::01_SMB_Economics.asciidoc[]
+include::00_Web_Hosting_Context.asciidoc[]
 
 include::InfoGraphic_02.asciidoc[]
 
-include::02_The-Stacks.asciidoc[]
+include::03_Stack_Comparisons.asciidoc[]
 
 include::InfoGraphic_03.asciidoc[]
 
-include::03_Stack_Comparisons.asciidoc[]
+include::01_SMB_Economics.asciidoc[]
 
 include::InfoGraphic_04.asciidoc[]
 
