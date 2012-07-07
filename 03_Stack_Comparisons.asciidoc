@@ -1,5 +1,17 @@
 :bookseries: radar
 
+== The Stack Profile/Dimension
+
+In addition to the SMB customer profile of the typical Bluehost users, there is a technology stack that is being used regularly. The term stack here means the layers of technology you put on top of a base of Unix/Linux or Windows. For example, someone may have a stack of Linux with MySql managing a database, and PHP to insert or retrieve data from the database, and Wordpress on top for publishing blogs and informational pieces. This is a simple and somewhat sloppy stack, because you can do more with each part than I touched on, but for the purposes of illustrating a stack, it should suffice. First let's look at the underlying operating system component and the percentage of users in different countries using Linux/Unix.
+
+==== The preferred platform
+
+The map below shows the geographical distribution of users that host with Linux as their operating system between 2001 and 2012. I think it is safe to say this data is strongly Open Source-oriented when you look at the hosting platform dimension. Any country with White as a color does not have not enough data points to assign market share. Interesting to note that middle of Africa has a large swath of white indicating a lack of hosting service users. Maybe a good opportunity to help this region of the world get their SMB Web economy up and running with hosted sites.
+
+image::images/hosted_linux_unix.jpg[scalewidth="90%"] 
+
+So generally speaking, North America, Europe and especially Eastern Europe, are strongly Open Source when looking at whether a new hosted account selected Unix/Linux or Windows. South America has a couple of pockets of strong Open Source but has in general the weakest adoption of Unix or strongest adoption of Windows. Africa lacks a strong tendency either way but looks to be moving towards more Open Source than not. The countries with the largest installed Windows platform are: Macedonia, Jordan, Libya, Sierra Leone, Suriname, Gauadeloupe, and Iran.
+
 == SMB's Tech Tools to Build an Online Web Presence
 
 The growth of open source tools during the past several years is not an easy measure to obtain. The following analysis will contain a combination of job data along with user data from Bluehost. But we are not going to look at all Open Source trends here, but rather the components that help a SMB get a presence on the Web. The table below shows the following from left to right: the CMS, how many users have the tool installed, how many have only that tool installed, the percentage of users that only use that tool, the percentage of all Bluehost customers who use the tool, and the percentage of the CMS tool share. 
@@ -11,18 +23,6 @@ The growth of open source tools during the past several years is not an easy mea
 |Drupal	|16,109	|7,190	|45%	|2%	|5%
 |Joomla	|40,838	|2,1483	|53%	|6%	|12%
 |=======
-
-=== The Stack Profile/Dimension
-
-In addition to the SMB customer profile of the typical Bluehost users, there is a technology stack that is being used regularly. The term stack here means the layers of technology you put on top of a base of Unix/Linux or Windows. For example, someone may have a stack of Linux with MySql managing a database, and PHP to insert or retrieve data from the database, and Wordpress on top for publishing blogs and informational pieces. This is a simple and somewhat sloppy stack, because you can do more with each part than I touched on, but for the purposes of illustrating a stack, it should suffice. First let's look at the underlying operating system component and the percentage of users in different countries using Linux/Unix.
-
-==== The preferred platform
-
-The map below shows the geographical distribution of users that host with Linux as their operating system between 2001 and 2012. I think it is safe to say this data is strongly Open Source-oriented when you look at the hosting platform dimension. Any country with White as a color does not have not enough data points to assign market share. Interesting to note that middle of Africa has a large swath of white indicating a lack of hosting service users. Maybe a good opportunity to help this region of the world get their SMB Web economy up and running with hosted sites.
-
-image::images/hosted_linux_unix.jpg[scalewidth="90%"] 
-
-So generally speaking, North America, Europe and especially Eastern Europe, are strongly Open Source when looking at whether a new hosted account selected Unix/Linux or Windows. South America has a couple of pockets of strong Open Source but has in general the weakest adoption of Unix or strongest adoption of Windows. Africa lacks a strong tendency either way but looks to be moving towards more Open Source than not. The countries with the largest installed Windows platform are: Macedonia, Jordan, Libya, Sierra Leone, Suriname, Gauadeloupe, and Iran.
 
 === Technology Cross Adoption
 
