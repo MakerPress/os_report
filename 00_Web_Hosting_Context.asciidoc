@@ -1,12 +1,12 @@
 :bookseries: radar
 
-==BlueHost Customer Analysis
+== BlueHost Customer Analysis
 
 Web hosting firms typically provide a variety of services to their customers: one or more named domains, data storage and file transfer, email, and software for building a site.  They may also offer ancillary services such as web design. Prices start as low as $4.95 a month. 
 
 BlueHost is the nth largest hosting firm, hosting approximately xx million domains for yy million customers. For our analysis, they provided us with more than one million anonymized customer records, plus the result of a survey of approximately four thousand customers.
 
-===Software Packages Used
+=== Software Packages Used
 
 Bluehost offers more than 94 different software packages and services that users can select from when signing up for a hosting plan. There are 26 categories of software and services including Backups, Blogs, Business Tools, Classifieds, Client Management, Content Management, eCommerce, Education, Forms and Surveys, Forums, Guestbooks, Help Center, Live Chat, Mailing Lists, Photo Galleries, Product Sourcing, Project Management, RSS, Security, Social Networking, Statistics, Utilities, Webmail, Website Builders, Website Design, and Wiki. Far and away the most common applications selected by customers, though, fall into two categories: Content Management Systems such as WordPress, Drupal, and Joomla, and eCommerce systems such as Magento, xxx, and yyy.
 
@@ -22,7 +22,7 @@ The average number of domains that each user obtains increased steadily each yea
 
 image::images/average_domains_user.jpg[scalewidth="90%"] 
 
-===Customer Sophistication
+=== Customer Sophistication
 
 In a survey of 4000 BlueHost customers, 31% described themselves as Beginners, 40% as having Intermediate skills in developing a website, 15% as Advanced, and another 14% as a professional Web Developer or Designer. 
 
@@ -32,7 +32,7 @@ Nearly 75% of the user based built their own website, while roughly 25% had some
 
 image::images/who_built.jpg[scalewidth="90%"]
 
-===Reason for Having a Website
+=== Reason for Having a Website
 
 Some customers have a website for purely personal reasons. Long before the advent of social networking sites like Facebook, a blog or simple website was the easiest way to do social sharing on the Internet.  However, most customers who simply wanted this kind of internet sharing were more likely to be hosted directly on a blogging platform like wordpress.com, blogger.com, or xxx.  As a result, BlueHost's customer base is dominated by businesses too small to have their own IT department who need to have a web presence to advertise their business.
 
@@ -56,7 +56,7 @@ The revenue size of these hosted sites is shown in the chart below. The response
 
 image::images/RevenueSize.jpg[scalewidth="90%"]
 
-===Browsers and Operating Systems
+=== Browsers and Operating Systems
 
 82% of the our survey respondents use a typical Desktop browser, and 18% used a mobile browser. An interesting footnote to this survey data is that Windows is the dominant client platform, yet Firefox and Chrome were the top two browsers. This is not a typical enterprise 'user install' which would be Windows and IE, or Mac and Safari.
 
