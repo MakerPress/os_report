@@ -6,11 +6,11 @@ Bluehost offers more than 94 different software packages and services that users
 
 So the most common tools in use are WordPress, PHP and Javascript. And the most common paired tool sets in use in our Bluehost data are, MySql and WordPress, then WordPress and PHP, then WordPress and Javascript as shown in the chart below.
 
-The fact that Javascript and PHP are so popular with Bluehost users, means there is something more than just "this is my blog" going on with the users we find in the data.
+The fact that Javascript and PHP are so popular with Bluehost users, means there is something more than just "this is my blog" going on with the users we find in the data. These languages along with MySql allow web developers to do build pretty innovative features on their website. SMBs can use the same open source stacks that built many large companies. Think for a moment about how Facebook got started with PHP and continues to use it. This is from their developer site, "Our Platform engineering team has released and maintains open source SDKs for Android, iOS, JavaScript and PHP." footnote:[https://developers.facebook.com/opensource/[Facebook Developers]]
  
 image::images/mostUsedTools.jpg[scalewidth="90%"]
 
-Text will go here.
+As you will see in the chart below, the most common pairings with the programming tools and MySql is WordPress. WordPress has hundreds of plugins that programmers can take advantage of. For instance, there Slider Evolution is a JQuery plugin that lets you easily create powerful Javascript sliders with very nice transition effects but you may need to tweak the .js code to avoid conflicts with other themes and plugins that are well coded. WordPress was build as a big instance of PHP and MySql so naturally there is lots of MySql and PHP found in the Bluehost user data. And you will notice that on the WordPress.org site if you navigate to hosting, Bluehost is the first hosting provider listed and discusses the MySql databases you are provided.
 
 image::images/mostUsedComboTools.jpg[scalewidth="90%"]
 
