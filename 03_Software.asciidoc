@@ -131,46 +131,43 @@ Top level trends for the which programming languages are contributing to the sma
 
 image::images/languageChoice.jpg[scalewidth="90%"]
 
-In addition to choice of Language, the chart below shows a logarithmic view of the programming languages and their growth for the years between 2001-01 and 2012-06.  The most notable spike was in 2004 and Python's sudden burst up the scale. Javascript had a similar spike around the same time, but start at a higher level and did not spike as significantly. Python grew by a magnitude of 10 during the first few months and Javascript kept doubling its size every couple of months. This could be to Bluehost acquiring smaller hosting companies that had particular language orientations. It does not look like organic growth, but rather engineered growth. One other language stands out a bit. Perl seems to have hit a wall around 2007 and has been flat or on a slight trend down.
+In addition to choice of Language, the chart below shows a logarithmic view of the programming languages and their growth for the years between 2001-01 and 2012-06.  The most notable spike was in 2004 and Python and Ruby both suddenly burst up the scale. All languages had a spike at this time which makes me think it more likely a reflection of Bluehost acquiring another hosting company that had those two languages offered to their customers. Python grew by a magnitude of 10 during the first few months and Javascript kept doubling its size every couple of months. Again, this could be a result of Bluehost acquiring smaller hosting companies that had particular language orientations. It does not look like organic growth, but rather engineered growth. One other language stands out a bit. Perl seems to have hit a wall around 2007 and has been flat or on a slight trend down. A closer look shows that Ruby, ASP, and Python can join Perl in the Bluehost doldrums for language growth from 2007 to present.
 
 image::images/languagesAllYears.jpg[scalewidth="90%"]
 
-Now lets look at all the languages that are in job postings during the previous three years. You will notice that in each of these charts there is a faint green area chart behind the bars. Those green areas show the peaks and valleys of all jobs, not just tech or the specific language. This way you get a sense if the whole US economy is trending up or down and does the language mirror that trend.
-
-After PHP, this is second largest language in use on Bluehost. And the trend is that Javascript is growing in importance. This growth could be because of HTML5 composition of Javascript, CSS and HTML. Roughly 92% of Javascript users also use PHP and 80% of PHP users use Javascript. 81% of Javascript users also have MySql databases and 88% of the MySql database developers use Javascript.
-
+Now lets look at all the languages that are in job postings during the previous three years. You will notice that in each of these charts there is a faint green area plot behind the bars. Those green areas show the peaks and valleys of all jobs, not just tech or the specific language. This way you get a sense if the whole US economy is trending up or down and does the language mirror that trend.
 
 === Trends:
 
-Javascript seems to be a close proxy to what is happening in the overall market. There are few monthly instances where Javascript is counter to the overall market. May 2012 is the most recent anomaly. Pay attention to the scale as the other languages are not quite as big, so the charts may look similar, but scale is important.
+Javascript seems to be a close proxy to what is happening in the overall market. There are few monthly instances where Javascript is counter to the overall market. March 2009 is an easy anomaly to spot. Pay attention to the scale as the other languages are not quite as big, so the charts may look similar, but scale is important.
    
 image::images/javascript.jpg[scalewidth="90%"]
 
-The next chart is Perl and as noted above, there was a slowing in job postings starting in 2007 which is not evident in this view. As you can see, Perl is still a widely used language, partially because of its alleged *duct-tape* capabilities.
+The next chart is Perl and as noted above, there was a slowing in job postings starting in 2007 which is not evident in this view. As you can see, Perl is still a widely used language, partially because of its alleged *duct-tape* capabilities. If we able to show Job data back to the early to mid 2000's, I am sure Perl would have been at the top or near the top for Job advertisements.
 
 image::images/perl.jpg[scalewidth="90%"]
 
-PHP is on the same scale as Perl but has twenty weeks higher than the 200 on the X axis whereas Perl had two. PHP is very dominant in the Bluehost data partially due to the fact that many users consider themselves as beginners in Web Development. PHP is a good beginners language because you can quickly get data in and out of a MySql table without a steep learning curve. 
+PHP is on the same scale as Perl but has twenty weeks higher than the 200 (so does Javascript) on the X axis whereas Perl had two. PHP is very dominant in the Bluehost data partially due to the fact that many users consider themselves as beginners in Web Development. Again, PHP is a good beginners' language because you can quickly get data in and out of a MySql table without a steep learning curve.
 
 image::images/php.jpg[scalewidth="90%"]
 
-Python is measured on a higher scale than PHP and Perl, and is consistently above the 200 threshold. Python's job posting trend is very consistent going up at a average rate of 28% for the period reflected.
+Python is measured on a higher scale than PHP and Perl, and is consistently above the 200 threshold. Python's job posting trend is very consistent going up at a average rate of 28% for the period reflected. Python is reaching into other industries like Life Sciences, Financial and scientific settings were there is significant mathematical equations are needed. This may be part of the growth in Job advertisements for Python. 
 
 image::images/python.jpg[scalewidth="90%"]
 
-When you look at job postings and growth, Ruby surprised us with 8 weeks higher than the 400 threshold job postings per week. None of the languages measured here even have one week above 400 postings.
+When you look at job postings and growth, Ruby surprised us with 8 weeks higher than the 400 threshold job postings per week. None of the languages measured here even have one week above 400 postings. So there is considerable action with Ruby and that could be attributed to Rails being a hot web framework for web developers. There is probably a loose correlation with start-ups quickly prototyping with Rails and Ruby makes sense as the driving language Job advertisements. Ruby certainly is not on the same growth pattern in Google trends, Bluehost data, or our Bookscan retails sales of books.
 
 image::images/ruby.jpg[scalewidth="90%"]
 
-C# as a language has moderate growth and only a few weeks above 200. I think this language needs to be compared against Java and other enterprise type languages. Do you think that moderately experienced Web Programmers think of using C# when beginning a new project?
+C# as a language has moderate growth and only a few weeks above 200. I think this language needs to be compared against Java and other enterprise type languages. We are not convinced that moderately experienced Web Programmers think of using C# when beginning a new project.
 
 image::images/csharp.jpg[scalewidth="90%"]
 
-ASP is also a surprise that is is as low as reflected in the chart below. It does follow the seasonal patterns of the overall job market, but has only three weeks above 200.
+ASP is also a surprise that is is as low as reflected in the chart below. It does follow the seasonal patterns of the overall job market, but has only three weeks above 200. Makes us speculate that PHP and Javascript are continuing to eat into the ASP market.
 
 image::images/asp.jpg[scalewidth="90%"]
 
 === Analysis
 
-When looking at all these languages there are a couple of points that stand out. First, they are not all targeted for Web Programming. C# and to a lessor extent, Python, are general purpose languages. Python is likely the most versatile in finding a home in many different settings, including Life Sciences, Computer Science, Health IT and other areas where either numerics or engineering requirements are strong. C# is much more of a strong enterprise language for Microsoft platforms. Although Ruby has some same characteristics as Python, it is more closely related to PHP, Javascript, and Perl for its use in Web Programming. At least from a job posting perspective, Ruby is the clear leader. From a language usage perspective, PHP and Javascript are dominant among Bluehost web site builders. 
+When looking at all these languages there are a couple of points that stand out. First, they are not all targeted for Web Programming. C# and to a lessor extent Python, are general purpose languages. Python is likely the most versatile in finding a home in many different settings, including Life Sciences, Computer Science, Health IT and other areas where either numerics or engineering requirements are strong. C# is much more of a strong enterprise language for Microsoft platforms. Although Ruby has some similar characteristics as Python, it is more closely related to PHP, Javascript, and Perl for its use in Web Programming. At least from a job posting perspective, Ruby is the clear leader. From a language usage perspective, PHP and Javascript are dominant among Bluehost web site builders. We have noticed in the past couple of years that Javascript seems to be the most important language to learn if you want to program on the web. Libraries, tools, learnability, flexibility are some of the factors helping this language become number one in use and importance.
 
