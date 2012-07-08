@@ -1,9 +1,11 @@
 :bookseries: radar
 
 == Appendix
-//rm 2012-07-05 we should keep model formulas consistent, ben uses (1), (2), I use the short variable names, let me know what you prefer
 
-Model Details
+==== Open Source Cost Differential Model
+//rm 2012-07-08 I'm inconsistent w/ Ben's using (1), (2), (3) for variables, whil I use the short variable names; my model has more pieces and I think the short variable names work better.
+
+The assumptions, methodology and equations used to build the Open Source Cost Differential model
 
 * Assumptions used to build the model
 ** Amazon EC2 pricing provides a reasonable proxy for the difference between open source and commercial software infrastructure, i.e., operating systems and databases
