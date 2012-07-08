@@ -4,11 +4,23 @@
 
 Bluehost offers more than 94 different software packages and services that users can select from when signing up for a hosting plan. There are 26 categories of software and services including Backups, Blogs, Business Tools, Classifieds, Client Management, Content Management, eCommerce, Education, Forms and Surveys, Forums, Guestbooks, Help Center, Live Chat, Mailing Lists, Photo Galleries, Product Sourcing, Project Management, RSS, Security, Social Networking, Statistics, Utilities, Webmail, Website Builders, Website Design, and Wiki. Far and away the most common applications selected by customers, though, fall into two categories: Content Management Systems such as WordPress, Drupal, and Joomla, and eCommerce systems such as Magento, OScommerce, and Prestashop.
 
+In addition to the SMB customer profile of the typical Bluehost users, there is a technology stack that is being used regularly. The term stack here means the layers of technology you put on top of a base of Unix/Linux or Windows. For example, someone may have a stack of Linux with MySql managing a database, and PHP to insert or retrieve data from the database, and Wordpress on top for publishing blogs and informational pieces. This is a simple and somewhat sloppy stack, because you can do more with each part than I touched on, but for the purposes of illustrating a stack, it should suffice. First let's look at the underlying operating system component and the percentage of users in different countries using Linux/Unix.
+
+image::images/mostUsedTools.jpg[scalewidth="90%"]
+
 So the most common tools in use are WordPress, PHP and Javascript. And the most common paired tool sets in use in our Bluehost data are, MySql and WordPress, then WordPress and PHP, then WordPress and Javascript as shown in the chart below.
 
+image::images/mostUsedComboTools.jpg[scalewidth="90%"]
+
 The fact that Javascript and PHP are so popular with Bluehost users, means there is something more than just "this is my blog" going on with the users we find in the data. These languages along with MySql allow web developers to do build pretty innovative features on their website. SMBs can use the same open source stacks that built many large companies. Think for a moment about how Facebook got started with PHP and continues to use it. This is from their developer site, "Our Platform engineering team has released and maintains open source SDKs for Android, iOS, JavaScript and PHP." footnote:[https://developers.facebook.com/opensource/[Facebook Developers]]
- 
-image::images/mostUsedTools.jpg[scalewidth="90%"]
+
+The following image shows the the MySql users who have what we call a heavy usage pattern with Javascript.
+
+image::images/JavaScriptMySQLHeavyUse.jpg[scalewidth="90%"]
+
+The next image shows the same heavy usage pattern, but this time with PHP and MySql.
+
+image::images/PHPMySQLHeavyUse.jpg[scalewidth="90%"]
 
 We wanted to gauge the level of programming going on with SMBs. So we looked at MySql and the number of sites that had just one instance of the DB running, and those with more than 1, and those with more than 10.  The ones with more than ten represent a fairly sophisticated user. Users who understand they need more Database instances, and not just more *tables in their Database*, have some interesting dynamics going on with their website. Those with two or more instances, roughly 55% of all MySql users, are are harder to figure out if they are truly using more instances for business, or experimenting, or truly need more than one DB as they scale. At the SMB level, we think it is fair to say those with more than ten databases are heavy users, which is 7% of all MySql users.
 
@@ -16,7 +28,7 @@ image::images/MysqlHeavyUse.jpg[scalewidth="90%"]
 
 WordPress was built as a big instance of PHP and MySql so naturally there are lots of MySql and PHP files found in the Bluehost user data. And you will notice that on the WordPress.org site if you navigate to hosting, Bluehost is the first hosting provider listed and discusses the MySql databases you are provided. As you will see in the chart below, the most common pairing with the programming languages and MySql is WordPress. WordPress has hundreds of plugins that programmers can take advantage of. For instance, Slider Evolution is a JQuery plugin that lets you easily create powerful Javascript sliders with very nice transition effects, but you may need to tweak the .js code to avoid conflicts with other themes and plugins. The point is when an SMB starts using more sophisticated WordPress Plugins, they are going to start doing some Javascript, PHP or MySql work. As a SMB business evolves, typically so does their level of interaction with programming or hiring/contracting a programmer.
 
-image::images/mostUsedComboTools.jpg[scalewidth="90%"]
+
 
 // Need one or more charts here, showing the most common software used. BTW, I'm not seeing support in the
 // stack data for the idea that ecommerce platforms are common. 12% of survey respondents say they do 
@@ -24,7 +36,7 @@ image::images/mostUsedComboTools.jpg[scalewidth="90%"]
 // we say here that 77% have a DB installed, which would put DBs well ahead of e-commerce platforms,
 // yet we don't do database analysis in the software chapter.
 
-In addition to the SMB customer profile of the typical Bluehost users, there is a technology stack that is being used regularly. The term stack here means the layers of technology you put on top of a base of Unix/Linux or Windows. For example, someone may have a stack of Linux with MySql managing a database, and PHP to insert or retrieve data from the database, and Wordpress on top for publishing blogs and informational pieces. This is a simple and somewhat sloppy stack, because you can do more with each part than I touched on, but for the purposes of illustrating a stack, it should suffice. First let's look at the underlying operating system component and the percentage of users in different countries using Linux/Unix.
+
 
 == SMB's Tech Tools to Build an Online Web Presence
 
