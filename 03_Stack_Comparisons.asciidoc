@@ -90,6 +90,9 @@ TECHi has an excellent write up and InfoGraphic titled Open source wars: Wordpre
 
 ===== Analysis
 
+Although the costs to set up and maintain a CMS may vary widely from the table above, the general pattern of Wordpress being on the lower end of cost to setup, maintain and ease of usability make this the most popular tool for managing content. In our Bluehost data, the number of users that have WordPress installed and use MySql too is 78%, while Joomla is 16% and Drupal is 6%. This may indicate that WordPress users are capturing names, addresses, and user information using MySql while Joomla and Drupal users are likely using a programming language to do the same. Let's dig into programming languages a bit and see what is going on with SMBs and languages.
+
+
 == What Languages Mean to SMBs
 The presence of a programming language use indicates a more sophisticated SMB website. Languages typically mean there is some sort of dynamic action going on on the site or there is a need to handle more complex transactions, data transformations, information input or output and a variety of other functions that would be tedious to do manually. top level trends for the which programming languages are contributing to the small business growth referenced in this work, are found in the chart immediately below. As you can see, PHP leads JavaScript by roughly 6% points. The two combined account for roughly 80% of the language activity on Bluehost.
 
