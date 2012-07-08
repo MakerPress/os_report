@@ -2,15 +2,15 @@ include::00_Executive_Summary.asciidoc[]
 
 include::infoGraphic0.asciidoc[]
 
-include::00_Introduction.asciidoc[]
+include::00_BlueHostCustomerSurvey.asciidoc[]
 
 include::InfoGraphic_01.asciidoc[]
 
-include::00_Web_Hosting_Context.asciidoc[]
+include::00_Introduction.asciidoc[]
 
 include::InfoGraphic_02.asciidoc[]
 
-include::03_Stack_Comparisons.asciidoc[]
+include::03_Software.asciidoc[]
 
 include::InfoGraphic_03.asciidoc[]
 
