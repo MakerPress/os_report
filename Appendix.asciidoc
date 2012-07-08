@@ -7,22 +7,21 @@
 
 The assumptions, methodology and equations used to build the Open Source Cost Differential model
 
-* Assumptions used to build the model
-** Amazon EC2 pricing provides a reasonable proxy for the difference between open source and commercial software infrastructure, i.e., operating systems and databases
+Assumptions used to build the model
+* Amazon EC2 pricing provides a reasonable proxy for the difference between open source and commercial software infrastructure, i.e., operating systems and databases
+* Amazon is equally adept at negotiating with their open source and commercial providers
 
-** Amazon is equally adept at negotiating with their open source and commercial providers
+* We chose specific pricing options that reflect typical choices for SMB customers<, optional: knowing that there is no typical SMB customers and that their online needs vary widely>:
 
-** We chose specific pricing options that reflect typical choices for SMB customers<, optional: knowing that there is no typical SMB customers and that their online needs vary widely>:
+** One-year term
 
-*** One-year term
+** “Medium Utilization Reserved Instances” - providing a reserved instance and balancing upfront costs with lower hourly costs for a 1 yr term
 
-*** “Medium Utilization Reserved Instances” - providing a reserved instance and balancing upfront costs with lower hourly costs for a 1 yr term
+** Average of Small (Default) and Medium pricing within the “Medium Utilization” tier
 
-*** Average of Small (Default) and Medium pricing within the “Medium Utilization” tier
+*** The price differential between open source and commercial instances drops as usage/volume rises; these changes have a small effect on the model
 
-**** The price differential between open source and commercial instances drops as usage/volume rises; these changes have a small effect on the model
-
-*** To calculate the cost differential, we allocate upfront costs by month and assume hourly fees for 18 hours of usage per day in the month
+** To calculate the cost differential, we allocate upfront costs by month and assume hourly fees for 18 hours of usage per day in the month
 
 ** EC2 pricing includes the hardware, system administration, network, HVAC, real estate and other costs required to run a network connected server instance
 
