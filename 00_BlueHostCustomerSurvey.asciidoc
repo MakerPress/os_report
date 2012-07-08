@@ -38,7 +38,7 @@ Some customers have a website for purely personal reasons. Long before the adven
 
 The chart below shows the survey results to the question of "What role does your website play in your business or organization?" The number one response at roughly 23% of the respondents was to provided more information to their prospective or existing customers. Roughly 20% built a website to help build their brand and add to their credibility as a business. The third most common reason to have a website was to generate leads for new members or customers.
 
-image::images/ReasonforSite.jpg[scalewidth="90%"]
+image::images/reason_website.jpg[scalewidth="90%"]
 
 The typical customer, representing roughly 48% of the user base, is using hosted services for business without a shopping cart. This is mostly for information purposes rather than commerce. The next most frequent purpose is a site for personal use, representing about 22% of the user base. The third most frequent purpose is a Business with an online store, representing about 12% of the user base. This is the SMB who is selling and making e-commerce transactions. An additional 2% representing non-profits have online donations or e-commerce. [What is the rest? Can we lump them into some category?] The remaining 16%....
 
