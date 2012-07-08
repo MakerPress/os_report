@@ -3,3 +3,10 @@
 == Open Source and Small Business in Practice
  
 === Case Study 
+
+SMBs don't use tech to build - tech serves their business, not choose tech for your business
+
+Viable minimal stack to get going
+
+WordPress represents smallest investment in tech knowledge
+
