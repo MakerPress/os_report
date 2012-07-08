@@ -1,5 +1,14 @@
 == Parking things
 
+* I'd like you to redo all the charts to make them much simpler:
+
+* The software package, how many users have it installed, and the
+percentage of all blue host customers who use the tool. (If you can
+get at it, the percentage relative to other similar packages would be
+good.)
+
+
+
 * Mike wrote a stub for an exec summary which we will fill in after
 we've finished
 
