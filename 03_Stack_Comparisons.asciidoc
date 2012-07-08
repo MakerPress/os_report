@@ -24,7 +24,7 @@ The growth of open source tools during the past several years is not an easy mea
 |Joomla	|40,838	|2,1483	|53%	|6%	|12%
 |=======
 
-Now let's look at the same data for e-commerce. So you can see that Oscommerce is by far the largest installed tool for doing e-commerce on a Bluehost account. Indirectly, those SMBs that use PayPal may be using Magento as well because PayPal purchased Magento awhile back. That is not measured here.
+Now let's look at the same data for e-commerce. So you can see that Oscommerce is by far the largest installed tool for doing e-commerce on a Bluehost account. Indirectly, those SMBs that use PayPal may be using Magento as well because PayPal purchased Magento awhile back. That is not measured here. 
 
 [options="header"]
 |=======
@@ -33,6 +33,9 @@ Now let's look at the same data for e-commerce. So you can see that Oscommerce i
 |Oscommerce	 |10,023 	 |4,769 	|48%	|1%	|3%
 |Prestashop	 |1,071 	 |313 	|29%	|0%	|0%
 |=======
+
+So now lets take a look at Programming Language and ecommerce.
+
 
 In addition to content management and e-commerce, there are an additional five technologies that are offered to Bluehost subscribers. We have labeled them as a miscellaneous suite of tools. Phpbb is a bulletin board tool, Simple Machine Forum (SMF) is a forum builder tool, Mediawiki is tool to build a wiki that allows users to edit content, Moodle is an Educational tool to manage class work, and Coppermine is a photo management tool.
 
@@ -62,15 +65,13 @@ The following three tables show pairings with programming languages and e-commer
 
 The big three of WordPress, Joomla and Drupal remain in firm command of the market, although the category is dominated by WordPress. Whether you look at job trends, Google Trends, or Bluehost user data, WordPress is the preferred CMS tool. For may SMBs, WordPress is all they need to engage their customers, and even do some rudimentary sales where they put a phone number on their website to call/order and they take your credit card directly via the phone. This was not measured in any of our data sets, but it is quite common in practice.
 
-So now lets take a look at Programming Language and ecommerce.
-
 === Trends:
 
-So the interesting piece of information to take from this first image is not necessarily the dominance of WordPress, but rather that PHP and Javacript users are the typical languages used. This makes sense because if WordPress is considered the easiest of the CMSs to use, PHP and Javascript are likewise the easiest languages to use in our data set. So this pairing of WordPess and PHP and Javascript makes perfect sense. Joomla seems to benefit more equally from PHP, Javascript and Perl.
+So the interesting piece of information to take from this first image is not necessarily the dominance of WordPress, but rather that PHP and Javacript are the most common languages used. This makes sense because if WordPress is considered the easiest of the CMSs to use, PHP and Javascript are likewise the easiest languages to use in our data set. So this pairing of WordPess and PHP and Javascript makes sense. Joomla seems to benefit more equally from PHP, Javascript and Perl.
 
 image::images/CMS_Language.jpg[scalewidth="90%"]
 
-Because we wanted to see if there were any pairings that made sense or just happened organically, we looked to see which languages had heavy usage. We looked at file counts and determined which language paired with a CMS has the most heavy usage. Again, no surprises here except perhaps that Joomla is quite strong in heavy usage with PHP and Javascript. This makes sense because as we have said before, Joomla tends to be more for experienced developers and is likely used more often in a programatic manner.
+Because we wanted to see if there were any other pairings that made sense or just happened organically, we looked to see which languages had heavy usage. We looked at file counts and determined which language paired with a CMS has the most heavy usage. We understand some languages install a bunch of files when you begin using the language, but this is fairly good proxy to see language heavy use. Again, no surprises here except perhaps that Joomla is quite strong in heavy usage with PHP and Javascript. Joomla is written in PHP. So it makes sense that a large share of programmers building web apps for Joomla use PHP.
 
 image::images/CMS_Language_Heavy.jpg[scalewidth="90%"]
 
@@ -94,7 +95,7 @@ Although the costs to set up and maintain a CMS may vary widely from the table a
 
 
 == What Languages Mean to SMBs
-The presence of a programming language use indicates a more sophisticated SMB website. Languages typically mean there is some sort of dynamic action going on on the site or there is a need to handle more complex transactions, data transformations, information input or output and a variety of other functions that would be tedious to do manually. top level trends for the which programming languages are contributing to the small business growth referenced in this work, are found in the chart immediately below. As you can see, PHP leads JavaScript by roughly 6% points. The two combined account for roughly 80% of the language activity on Bluehost.
+The presence of a programming language being used indicates a more sophisticated SMB website. Languages typically mean there is some sort of dynamic action happening on the site or there is a need to handle more complex transactions, data transformations, information input or output and a variety of other functions that would be tedious to do manually. top level trends for the which programming languages are contributing to the small business growth referenced in this work, are found in the chart immediately below. As you can see, PHP leads JavaScript by roughly 6% points. The two combined account for roughly 80% of the language activity on Bluehost.
 
 image::images/languageChoice.jpg[scalewidth="90%"]
 
