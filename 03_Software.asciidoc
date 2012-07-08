@@ -124,13 +124,16 @@ Although the costs to set up and maintain a CMS may vary widely from the table a
 
 
 == What Languages Mean to SMBs
-The presence of a programming language use indicates a more sophisticated SMB website. Languages typically mean there is some sort of dynamic action going on on the site or there is a need to handle more complex transactions, data transformations, information input or output and a variety of other functions that would be tedious to do manually. top level trends for the which programming languages are contributing to the small business growth referenced in this work, are found in the chart immediately below. As you can see, PHP leads JavaScript by roughly 6% points. The two combined account for roughly 80% of the language activity on Bluehost.
+
+The presence of a programming language use indicates a more sophisticated SMB website. Languages typically mean there is some sort of dynamic action going on on the site or there is a need to handle more complex transactions, data transformations, information input or output and a variety of other functions that would be tedious to do manually. Perl is still well represented even though activity has tailed off quite a bit the past few years. At one time it was referred to as the Duct Tape of the Web because it was extremely useful as a language because you could make it do about anything we related. 
+
+Top level trends for the which programming languages are contributing to the small business growth referenced in this work, are found in the chart immediately below. As you can see, PHP leads JavaScript by roughly 6% points. The two combined account for roughly 80% of the language activity on Bluehost. As mentioned, the only other language with a double-digit representation is Perl.
 
 image::images/languageChoice.jpg[scalewidth="90%"]
 
-In addition to choice of Language, the chart below shows a logarithmic view of the programming languages and their growth for the years between 2001-01 and 2012-06.  The most notable spike was in 2004 and Python's sudden burst up the scale. Javascript had a similar spike around the same time, but start at a higher level and did not spike as significantly. Python grew by a magnitude of 10 during the first few months and Javascript kept doubling its size every couple of months. This could be to Bluehost acquiring smaller hosting companies that had particular language orientations. It does not look like organic growth, but rather engineered growth. One other language stands out a bit. Perl seems to have hit a wall, *pun-intended,* round 2007 and has been flat or on a slight trend down.
+In addition to choice of Language, the chart below shows a logarithmic view of the programming languages and their growth for the years between 2001-01 and 2012-06.  The most notable spike was in 2004 and Python's sudden burst up the scale. Javascript had a similar spike around the same time, but start at a higher level and did not spike as significantly. Python grew by a magnitude of 10 during the first few months and Javascript kept doubling its size every couple of months. This could be to Bluehost acquiring smaller hosting companies that had particular language orientations. It does not look like organic growth, but rather engineered growth. One other language stands out a bit. Perl seems to have hit a wall around 2007 and has been flat or on a slight trend down.
 
-image::images/languageGrowth.jpg[scalewidth="90%"]
+image::images/languagesAllYears.jpg[scalewidth="90%"]
 
 Now lets look at all the languages that are in job postings during the previous three years. You will notice that in each of these charts there is a faint green area chart behind the bars. Those green areas show the peaks and valleys of all jobs, not just tech or the specific language. This way you get a sense if the whole US economy is trending up or down and does the language mirror that trend.
 
