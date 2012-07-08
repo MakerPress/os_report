@@ -4,6 +4,16 @@
 
 Bluehost offers more than 94 different software packages and services that users can select from when signing up for a hosting plan. There are 26 categories of software and services including Backups, Blogs, Business Tools, Classifieds, Client Management, Content Management, eCommerce, Education, Forms and Surveys, Forums, Guestbooks, Help Center, Live Chat, Mailing Lists, Photo Galleries, Product Sourcing, Project Management, RSS, Security, Social Networking, Statistics, Utilities, Webmail, Website Builders, Website Design, and Wiki. Far and away the most common applications selected by customers, though, fall into two categories: Content Management Systems such as WordPress, Drupal, and Joomla, and eCommerce systems such as Magento, OScommerce, and Prestashop.
 
+So the most common tools in use are WordPress, PHP and Javascript. And the most common paired tool sets in use in our Bluehost data are, MySql and WordPress, then WordPress and PHP, then WordPress and Javascript as shown in the chart below.
+
+The fact that Javascript and PHP are so popular with Bluehost users, means there is something more than just "this is my blog" going on with the users we find in the data.
+ 
+image::images/mostUsedTools.jpg[scalewidth="90%"]
+
+Text will go here.
+
+image::images/mostUsedTools.jpg[scalewidth="90%"]
+
 // Need one or more charts here, showing the most common software used. BTW, I'm not seeing support in the
 // stack data for the idea that ecommerce platforms are common. 12% of survey respondents say they do 
 // e-commerce, but with Magento as the top tool with 1% penetration, that's not consistent.  What's more
@@ -11,18 +21,6 @@ Bluehost offers more than 94 different software packages and services that users
 // yet we don't do database analysis in the software chapter.
 
 In addition to the SMB customer profile of the typical Bluehost users, there is a technology stack that is being used regularly. The term stack here means the layers of technology you put on top of a base of Unix/Linux or Windows. For example, someone may have a stack of Linux with MySql managing a database, and PHP to insert or retrieve data from the database, and Wordpress on top for publishing blogs and informational pieces. This is a simple and somewhat sloppy stack, because you can do more with each part than I touched on, but for the purposes of illustrating a stack, it should suffice. First let's look at the underlying operating system component and the percentage of users in different countries using Linux/Unix.
-
-==== The preferred platform
-
-// Here you need to explain that BlueHost offers both Linux and Windows as a hosting platform, but that 
-// Windows is being deprecated.  As a result of that, I'm not sure that this map is worth anything. Roger, 
-// what do you think?  This seems like junk data. - TOR
-
-The map below shows the geographical distribution of users that host with Linux as their operating system between 2001 and 2012. I think it is safe to say this data is strongly Open Source-oriented when you look at the hosting platform dimension. Any country with White as a color does not have not enough data points to assign market share. Interesting to note that middle of Africa has a large swath of white indicating a lack of hosting service users. Maybe a good opportunity to help this region of the world get their SMB Web economy up and running with hosted sites.
-
-image::images/hosted_linux_unix.jpg[scalewidth="90%"] 
-
-So generally speaking, North America, Europe and especially Eastern Europe, are strongly Open Source when looking at whether a new hosted account selected Unix/Linux or Windows. South America has a couple of pockets of strong Open Source but has in general the weakest adoption of Unix or strongest adoption of Windows. Africa lacks a strong tendency either way but looks to be moving towards more Open Source than not. The countries with the largest installed Windows platform are: Macedonia, Jordan, Libya, Sierra Leone, Suriname, Guadeloupe, and Iran.
 
 == SMB's Tech Tools to Build an Online Web Presence
 
