@@ -8,6 +8,7 @@
 The assumptions, methodology and equations used to build the Open Source Cost Differential model
 
 Assumptions used to build the model
+
 * Amazon EC2 pricing provides a reasonable proxy for the difference between open source and commercial software infrastructure, i.e., operating systems and databases
 
 * Amazon is equally adept at negotiating with their open source and commercial providers
