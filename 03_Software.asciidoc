@@ -12,7 +12,7 @@ image::images/mostUsedTools.jpg[scalewidth="90%"]
 
 Text will go here.
 
-image::images/mostUsedTools.jpg[scalewidth="90%"]
+image::images/mostUsedComboTools.jpg[scalewidth="90%"]
 
 // Need one or more charts here, showing the most common software used. BTW, I'm not seeing support in the
 // stack data for the idea that ecommerce platforms are common. 12% of survey respondents say they do 
