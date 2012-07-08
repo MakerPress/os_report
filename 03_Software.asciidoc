@@ -90,19 +90,17 @@ The following image shows the number of CMS users that have a commerce solution 
 
 image::images/CMS_ecommerce.jpg[scalewidth="90%"]
 
-The following three tables show pairings with programming languages and e-commerce systems. This is helpful in seeing how many total users have a particular combination, what the typical user has (median) and which e-commerce systems have 'big" usage of a specific language. So if you look at the three tables, you see that.
-
 ==== Analysis of the CMS Tools
 
-The big three of WordPress, Joomla and Drupal remain in firm command of the market, although the category is dominated by WordPress. Whether you look at job trends, Google Trends, or Bluehost user data, WordPress is the preferred CMS tool. For may SMBs, WordPress is all they need to engage their customers, and even do some rudimentary sales where they put a phone number on their website to call/order and they take your credit card directly via the phone. This was not measured in any of our data sets, but it is quite common in practice.
+The big three CMSs are WordPress, Joomla and Drupal and they remain in firm command of the market, although the category is dominated by WordPress. Whether you look at Job trends, Google Trends, or Bluehost user data, WordPress is the leading CMS tool. For many SMBs, WordPress is all they need to engage their customers, and even do some rudimentary sales where they put a phone number on their website to call/order and they take your credit card directly via the phone. Again, this was not measured in any of our data sets, but it is quite common in practice.
 
 ==== Trends:
 
-So the interesting piece of information to take from this first image is not necessarily the dominance of WordPress, but rather that PHP and Javacript users are the typical languages used. This makes sense because if WordPress is considered the easiest of the CMSs to use, PHP and Javascript are likewise the easiest languages to use in our data set. So this pairing of WordPess and PHP and Javascript makes perfect sense. Joomla seems to benefit more equally from PHP, Javascript and Perl.
+So the interesting piece of information to take from this first image is not necessarily the dominance of WordPress, but rather that PHP and Javacript users are the typical languages used. This makes sense because if WordPress is considered the easiest of the CMSs to use, and we believe that PHP and Javascript are likewise the easiest languages to use in our data set. So this pairing of WordPress and PHP and Javascript makes perfect sense. Joomla seems to benefit more equally from PHP, Javascript and Perl even though it was created with PHP.
 
 image::images/CMS_Language.jpg[scalewidth="90%"]
 
-Because we wanted to see if there were any pairings that made sense or just happened organically, we looked to see which languages had heavy usage. We looked at file counts and determined which language paired with a CMS has the most heavy usage. Again, no surprises here except perhaps that Joomla is quite strong in heavy usage with PHP and Javascript. This makes sense because as we have said before, Joomla tends to be more for experienced developers and is likely used more often in a programatic manner.
+Because we wanted to see if there were any pairings that made sense or just happened organically, we looked to see which languages had heavy usage. Ones that make sense could be the number of Plugins that are written by a specific language so that can influence a choice. Or the language was built in a particular language, like Joomla and PHP, so there may be some organic chemistry with the tool and language. We looked at file counts and determined which language paired with a CMS has the most heavy usage. Again, no surprises here except perhaps that Joomla is quite strong in heavy usage with both PHP and Javascript. PHP is the most used language in this study. It could be much like the Cobol or C of the Web at this point in time. In other words, there are tons of legacy PHP code on websites still in use and it may be easier to maintain those files than replace with a new language. The benefits of changing may not be inline with the goals of the SMB website maintainer.
 
 image::images/CMS_Language_Heavy.jpg[scalewidth="90%"]
 
