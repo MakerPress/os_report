@@ -103,10 +103,12 @@ Keep in mind that beyond creating their own web presence, SMBs and HBBs have acc
 
 We set out to build a model to help quantify the Open Source savings differential for infrastructure software like operating systems and databases - the type of infrastructure the undergirds most applications. To access a proxy of prices for roughly comparable Open Source and commercial component, we turn to Amazon's EC2 hosted platform pricing, with its open source (Linux, MySQL) and commercial (Microsoft Windows and SQL Server) options running on the same hardware platforms in the same data centers with the same tiered pricing options. We use an analysis of Bluehost's business customers tool usage to help us determine the share of SMB users likely to need a large database - an extra cost item - based on th their use of SMB applications like ecommerce and Content Management Systems (CMS).
 
-Our model shows that for a proxy of the SMB market, the price differential for hardware/software platforms running commercial software is about 2, i.e., SMBs would pay about double for the hardware/software infrastructure they need to operate online to run on commercial platforms. For smaller SMBs, who either don't need a database or you can use free commercial options, like SQL Server Express, the differential is about 1.5.
+Our model shows that for a proxy of the SMB market, the price differential for hardware/software platforms running commercial software is about 2, i.e., SMBs would pay about double for the hardware/software infrastructure they need to operate online to run on commercial platforms. For smaller SMBs, who either don't need a database or you can use free commercial options, like SQL Server Express, the differential is about 1.5. 
 
 For the software component of the server platform alone, the price differential is likely higher.
 // optional: For example if hardware, virtualization, networks, administration and other housing costs represents half the server platform costs, the price differential rises above three, i.e., commercial software costs more than three times the Open Source infrastructure software options.
+
+In any case, the savings  created by Open Source options likely make a web presence, from a simple information web site, to full-blown e-stores, accessible to more SMBs.
 
 Here’s the high level view of the model:
 
