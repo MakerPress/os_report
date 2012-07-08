@@ -5,9 +5,8 @@
 Web hosting firms typically provide a variety of services to their customers: one or more named domains, data storage and file transfer, email, and software for building a site.  They may also offer ancillary services such as web design. Prices start as low as $4.95 a month. 
 
 // Can someone from BlueHost provide?  Or do we have other sources for this data?
-// got this from Jean.  she is getting the exact position they occupy.  i think it is 6th but we will see what she comes up with tomorrow.
 
-We are working with a unique data set provided by Bluehost and several other hosting providers associated with Endurance International Group, a web hosting company that provides hosting services to 2,004,297 million sites worldwide which in our estimation makes BlueHost the 6th largest hosting firm. For our analysis, they provided us with more than one million anonymized customer records, plus the results of a survey of approximately four thousand customers.
+BlueHost is the nth largest hosting firm, hosting approximately xx million domains for yy million customers. For our analysis, they provided us with more than one million anonymized customer records, plus the result of a survey of approximately four thousand customers.
 
 Based on our Bluehost domain analysis, we see that the average number of domains per plan is around 3. Each customer stays active for roughly 35 months at an average rate of $7.49 per month. More than 77% of the hosting plans have a database installed and most users have roughly 4 instances of their databases installed. This indicates that there is some sort of dynamic exchange likely happening on these sites whether it is a guestbook, product list or some other dynamically served/captured content. There are about two and a quarter mailboxes on average per account with more than two million overall email accounts. WordPress dominates in the Content Management category with a 55% share, and the next closest is Joomla at 9%.
 
