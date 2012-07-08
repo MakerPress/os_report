@@ -10,6 +10,10 @@ The fact that Javascript and PHP are so popular with Bluehost users, means there
  
 image::images/mostUsedTools.jpg[scalewidth="90%"]
 
+We wanted to gauge the level of programming going on with SMBs. So we looked at MySql and the number of sites that had just one instance of the DB running, and those with more than 1, and those with more than 10.  The ones with more than ten represent a fairly sophisticated user. Users who understand they need more Database instances, and not just more *tables in their Database*, have some interesting dynamics going on with their website. The following chart shows that level of engagement with MySql.
+
+image::images/MysqlHeavyUse.jpg[scalewidth="90%"]
+
 WordPress was built as a big instance of PHP and MySql so naturally there are lots of MySql and PHP files found in the Bluehost user data. And you will notice that on the WordPress.org site if you navigate to hosting, Bluehost is the first hosting provider listed and discusses the MySql databases you are provided. As you will see in the chart below, the most common pairing with the programming languages and MySql is WordPress. WordPress has hundreds of plugins that programmers can take advantage of. For instance, Slider Evolution is a JQuery plugin that lets you easily create powerful Javascript sliders with very nice transition effects, but you may need to tweak the .js code to avoid conflicts with other themes and plugins. The point is when an SMB starts using more sophisticated WordPress Plugins, they are going to start doing some Javascript, PHP or MySql work. As a SMB business evolves, typically so does their level of interaction with programming or hiring/contracting a programmer.
 
 image::images/mostUsedComboTools.jpg[scalewidth="90%"]
