@@ -10,7 +10,7 @@ The fact that Javascript and PHP are so popular with Bluehost users, means there
  
 image::images/mostUsedTools.jpg[scalewidth="90%"]
 
-We wanted to gauge the level of programming going on with SMBs. So we looked at MySql and the number of sites that had just one instance of the DB running, and those with more than 1, and those with more than 10.  The ones with more than ten represent a fairly sophisticated user. Users who understand they need more Database instances, and not just more *tables in their Database*, have some interesting dynamics going on with their website. The following chart shows that level of engagement with MySql.
+We wanted to gauge the level of programming going on with SMBs. So we looked at MySql and the number of sites that had just one instance of the DB running, and those with more than 1, and those with more than 10.  The ones with more than ten represent a fairly sophisticated user. Users who understand they need more Database instances, and not just more *tables in their Database*, have some interesting dynamics going on with their website. Those with two or more instances, roughly 55% of all MySql users, are are harder to figure out if they are truly using more instances for business, or experimenting, or truly need more than one DB as they scale. At the SMB level, we think it is fair to say those with more than ten databases are heavy users, which is 7% of all MySql users.
 
 image::images/MysqlHeavyUse.jpg[scalewidth="90%"]
 
