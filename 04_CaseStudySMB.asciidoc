@@ -4,9 +4,35 @@
  
 === Case Study 
 
-SMBs don't use tech to build - tech serves their business, not choose tech for your business
+==== SMBs don't use tech to build a Business
+
+ - tech serves their business, not choose tech for your business
 
 Viable minimal stack to get going
 
 WordPress represents smallest investment in tech knowledge
+
+We recently spoke with Julie Weisenberger. who owns Coco Knits which you can find at CocoKnits.com. Julie's main business is still selling products online where she sells hard copies of Knitting Patterns and downloadable PDF of the patterns. She also sells knitting supplies. The income from hard copy versions still have still not overtaken the online download revenue she earns.
+
+Creates and invents knitting products which she will outsource to China for manufacturing. She is strongly considering moving this business back to the US because of the logistics issues working with her offshore vendors. But when she develops a new product or kit, she is having a hard time finding local manufacturers who will do custom work. This leads her back to China to get a product made. The Chinese on the other hand are not innovative with her product manufacturing, but they just crank it out, so to speak. 
+
+Her business revenues are an average monthly take of between $4-5k directly through her online shopping cart.  This is comprised of both PDF downloads and product sales.
+
+When asked about her technology stack things were a little fuzzy. She has a contractor who does design for her and this individual also writes code. They tend to not to use standard packages but rather develop custom plugins or packages. 
+
+
+Online patterns sales: 
+	She uses Big-commerce for her shopping cart. Switched over from e-Junkie about a year ago. Finds that Big-Commerce can be very frustrating to use as a business owner.   Julie is not sure what e-commerce platform sits underneath her online shopping cart. We suspect she is not much different than other SMB owners.
+	
+Technology Stack
+
+	Big-commerce for her online shopping cart.
+	WordPress how they have the whole website laid out. She says it is in two main parts. Half is in in information served to visitors and the other is in serving products that are purchasable that goes through Big-Commerce. 
+	
+	
+	
+	
+	
+
+
 
