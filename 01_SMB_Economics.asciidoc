@@ -20,7 +20,7 @@ Constant downward cost pressures during the last 15 years from Open Source proje
 // (iii) we can infer how much of that online spend they apportion to Google Adwords
 // (iv) we calculate the value, to SMBs, of that online spend
 // (v) we calculate how much is left on the table by SMBs w/ no web presence
-// (vi) wrap up - other ad spend brings rev; 
+// (vi) wrap up - other ad spend brings rev; ref to CocoKnits interview
 
 There are a plethora of benefits for the SMBs that create a web presence: ready and mobile access to information about your business, online advertising, print advertising, email marketing, ecommerce stores, social network marketing and others. We know that SMBs are a growing part of the internet economy, and, from the McKinsey study, that those SMBs most heavily invested in web technology grow the fastest. Now we take a look at one area where we can quantify the top-line benefit to SMBs of Google Adwords online advertising.
 
