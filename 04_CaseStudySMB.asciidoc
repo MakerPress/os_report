@@ -1,37 +1,60 @@
 :bookseries: radar
 
 == Open Source and Small Business in Practice
+
+One important factor to remember with all the data and prognostication we have provided in the proceeding pages, is does Open Source make it easier for a SMB to get going. We are going to try to show an example in practice.
  
-=== Case Study 
+=== Case Study of a SMB
+
+We recently spoke with Julie Weisenberger who owns Coco Knits which you can find at CocoKnits.com. She started out not having any idea that she was going to create a self-sustaining business. She just wanted to put some knitting patterns on the Web. And now for the past five years, Julie's main business has been selling knitting products online. She sells hard copies of Knitting Patterns and downloadable PDFs of the patterns. She also sells knitting supplies. The income from hard copy versions still have still not overtaken the online download revenue she earns. Her business revenues are an average monthly take of between $4-5k directly through her online shopping cart.  This is comprised of both PDF downloads and product sales. Here business has two main components. One is physical knitting patterns that she wholesales to knitting shops. Her warehouse is in SoCal and her distributor is in Oregon. There was no discussion of inventory management or pallet shipment tracking. 
 
 ==== SMBs don't use tech to build a Business
 
- - tech serves their business, not choose tech for your business
+Unlike many startups who know they need a fast transaction system, or one that handles creating multiple accounts quickly, or has secure file transfer, most SMB startups doe not use technology to fashion their business. Rather they use what they can to accomplish what they need to keep moving forward. If you are a startup with some investment, you will wisely choose the pieces of your stack to make the most for what your investors have entrusted with you. However, if you are building a SMB or you have a business and want to have a web presence, you may choose the viable minimal stack to get going. This is often a hosted site with a few of the packages or add-ons included. Packages like we discussed earlier in this report. So we think it is fair to say that tech serves a SMB business and these owners often do not choose the tech for their business, but rather fall into it through a variety of factors. Namely, if they choose a hosting service, those services come with different plans representing tech stacks. What we have found in talking we SMB owners and looking through all the data we have collected, analyzed and reported, WordPress represents smallest investment in tech knowledge and therefore may be the best ROI for a SMB.
 
-Viable minimal stack to get going
+// Questions for Julie:  How many Unique visitors? How many last year and how many the year before? Projections (half year 2012)
+// Geography = is your customer base more than US, Australia, and Europe? Any Asia or South America or Africa?
+// What is the stack?  Linux at the base, PHP MySQL and WordPress, MailChimp Big-Commerce
+// Do you use anything for tracking your shipments of pallets to warehouses?
+// Do you have any online tools, spreadsheets, or other inventory management tool for your physical products?
 
-WordPress represents smallest investment in tech knowledge
+Julie invents and produces knitting products which she outsources to China for manufacturing. She is strongly considering moving this business back to the US because of the logistics issues working with her offshore vendors. But when she develops a new product or kit, she is having a hard time finding local manufacturers who will do custom work. This leads her back to China to get a product made. The Chinese on the other hand are not innovative with her product manufacturing, but they just crank it out, so to speak.
 
-We recently spoke with Julie Weisenberger. who owns Coco Knits which you can find at CocoKnits.com. Julie's main business is still selling products online where she sells hard copies of Knitting Patterns and downloadable PDF of the patterns. She also sells knitting supplies. The income from hard copy versions still have still not overtaken the online download revenue she earns.
+When asked about her technology stack things got a little fuzzy. We could tell she knew her site works, and that was good enough. There was no expectation of using the optimal tech stack, improving speed for her PDF downloads. She has a SMB that is working to her satisfaction. Most of the programming and tech setup is with with a contractor who does both design work and also writes code. The contractor tends to not to use standard packages but rather develop custom plugins or packages. On second thought she later said the contractor uses the tech infrastructure provided and adds onto it.
 
-Creates and invents knitting products which she will outsource to China for manufacturing. She is strongly considering moving this business back to the US because of the logistics issues working with her offshore vendors. But when she develops a new product or kit, she is having a hard time finding local manufacturers who will do custom work. This leads her back to China to get a product made. The Chinese on the other hand are not innovative with her product manufacturing, but they just crank it out, so to speak. 
+==== This SMB's Technology Stack
 
-Her business revenues are an average monthly take of between $4-5k directly through her online shopping cart.  This is comprised of both PDF downloads and product sales.
+Her technology has to support a 24 hours per day uptime as customers hit the site every hour of each day because of customers in Europe and Australia.
 
-When asked about her technology stack things were a little fuzzy. She has a contractor who does design for her and this individual also writes code. They tend to not to use standard packages but rather develop custom plugins or packages. 
+* Hosting service provider is goDaddy
+* e-Commerce is handled by Big Commerce 
+* Content Management is handled by WordPress
+* Email marketing is handled by MailChimp 
 
+** Online sales: 
 
-Online patterns sales: 
-	She uses Big-commerce for her shopping cart. Switched over from e-Junkie about a year ago. Finds that Big-Commerce can be very frustrating to use as a business owner.   Julie is not sure what e-commerce platform sits underneath her online shopping cart. We suspect she is not much different than other SMB owners.
+She uses Big-commerce for her shopping cart. Switched over from E-Junkie about a year ago. E-Junkie was $18 a month when her business started out but quickly outgrew the service because of too many products. Julie finds that Big-Commerce can be very frustrating to use as a business owner.   Julie is not sure what e-commerce platform sits underneath her online shopping cart. We suspect she is not much different than other SMB owners. Looking at the Big-commerce website, they offer a RESTful API and have sample code available in PHP, cURL and Node.js.
+
+When asked about her contractor using PHP or MySql, her response what that she had no idea. Her developer could answer that question but she could not.
 	
-Technology Stack
+	WordPress how they have the whole website laid out. She says it is in two main parts. Half is in in information served to visitors and the other is in serving products that are purchasable that goes through Big-Commerce.
+	
+	AdWords or any SEO or marketing tools. Not yet. She is going to be purchasing an Advertisement spot on a knitting site soon.
+	Has an email marketing engine that she uses to build her customer names. She currently emails to about 9,000 unique email addresses who have all opted-in to her newsletter emails. Use to run through goDaddy, but recently switched to MailChimp. Before using MailChimp the goDaddy email marketing tool provided demographics and now she needs to go in a look a log files to see why people signed up for her newsletter. When she first started her business, much of her traffic came from ravelry.com which is like a Facebook for knitters. But lately she has not needed to advertise or jockey for a top placement on ravelry. 
+	
+	Distributor in Oregon.
+	 
+	
+==== How do you Manage the costs?
+Her contractor uses the hosting infrastructure, WordPress and Big Commerce for keeping costs low, while still being able to customize the look, behavior and capabilities of their online store and site. The only thing she has spent money on is the fonts used on the site. When asked about spending $1 on Google AdWords to produce $8 in return, she was intrigued but not ready to jump. She has not felt the need to put together all her costs to determine what level of profit she is making or if there are potential opportunities to scale.
 
-	Big-commerce for her online shopping cart.
-	WordPress how they have the whole website laid out. She says it is in two main parts. Half is in in information served to visitors and the other is in serving products that are purchasable that goes through Big-Commerce. 
-	
-	
-	
-	
+To start she paid her contractor about $5k to get things up and running. She now estimates that she spends, a back of the envelope estimation, $500 per month to run her business online. Show now has these as her cost of doing business:
+
+* GoDaddy
+* Big Commerce 
+* WordPress
+* MailChimp 
+* Contractor/programmer - Doug.
 	
 
 
