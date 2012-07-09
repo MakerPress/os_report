@@ -8,7 +8,7 @@ One important factor to remember with all the data and prognostication we have p
 
 image::images/cocoknits-logo-home.png[scalewidth="90%"]
 
-We recently spoke with Julie Weisenberger who owns http://CocoKnits.com[Coco Knits] (CocoKnits.com). She started just wanting to put some knitting patterns on the web. She did not intend to create a self-sustaining business. And now for the past five years, Julie's main business has been selling knitting products online. She sells both hard copies of Knitting Patterns and downloadable PDFs of the patterns. She also sells knitting supplies. The income from hard copy versions still have still not overtaken the online download revenue she earns. Her business revenues are an average monthly take of between $4-5k directly through her online shopping cart. This is comprised of both PDF downloads and product sales. Her business has two main components. One is physical knitting patterns that she wholesales to knitting shops. For the physical products, her warehouse is in SoCal and her distributor is in Oregon. There was no mention of inventory management or pallet and shipment tracking. 
+We recently spoke with Julie Weisenberger, who owns http://CocoKnits.com[Coco Knits] (CocoKnits.com). She started just wanting to put some knitting patterns on the web. She did not intend to create a self-sustaining business. And now for the past five years, Julie's main business has been selling knitting products online. She sells both hard copies of knitting patterns and downloadable PDFs of the patterns. She also sells knitting supplies. The income from hard copy versions still have still not overtaken the online download revenue she earns. Her business revenues are a monthly average of between $4-5k directly through her online shopping cart. This is comprised of both PDF downloads and product sales. Her business has two main components. One is physical knitting patterns that she wholesales to knitting shops. For the physical products, her warehouse is in Southern California and her distributor is in Oregon. 
 
 ==== SMBs don't use tech to build a Business
 
@@ -38,6 +38,8 @@ Her technology has to support a 24 hours per day uptime as customers hit the sit
 
 She uses Big-commerce for her shopping cart. Switched over from E-Junkie about a year ago. E-Junkie was $18 a month when her business started out but quickly outgrew the service because of too many products. Julie finds that Big-Commerce can be very frustrating to use as a business owner.   Julie is not sure what e-commerce platform sits underneath her online shopping cart. We suspect she is not much different than other SMB owners. Looking at the Big-commerce website, they offer a RESTful API and have sample code available in PHP, cURL and Node.js.
 
+
+
 ===== Programming languages and tools
 
 When asked about her contractor using PHP or MySql, her response what that she had no idea what was being used. Her developer could answer that question but she could not. A quick inspection (view source) of her website reveals that both Javascript and PHP are being used.
@@ -57,12 +59,10 @@ To start she paid her contractor about $5k to get things up and running. She now
 
 She now has these as her cost of doing business:
 
-// these will be filled in when I get her data. I will likely use percentages.
-
 [options="header"]
 |======= 
 |Item   |Provider |Monthly Cost 
-|Hosting Service|goDaddy|13% 
+|Hosting Service|GoDaddy|13% 
 |Online Commerce|Big Commerce|5.7% 
 |Content Management|WordPress|26% 
 |Marketing tool|MailChimp|1.8% 
