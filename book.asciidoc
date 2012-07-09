@@ -1,10 +1,10 @@
 include::00_Executive_Summary.asciidoc[]
 
-include::00_BlueHostCustomerSurvey.asciidoc[]
+include::00_Introduction.asciidoc[]
 
 include::infoGraphic0.asciidoc[]
 
-include::00_Introduction.asciidoc[]
+include::00_BlueHostCustomerSurvey.asciidoc[]
 
 include::InfoGraphic_01.asciidoc[]
 
