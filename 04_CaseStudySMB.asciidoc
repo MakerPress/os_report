@@ -2,7 +2,7 @@
 
 == Open Source and Small Business in Practice
 
-One important factor to remember with all the data and prognostication we have provided in the proceeding pages, is does Open Source make it easier for a SMB to get going. We are going to try to show an example in practice.
+One important factor to remember with all the data and prognostication we have provided in the proceeding pages, is does Open Source make it easier for a SMB to get going. We are going to try to show an example in practice. This is an example of someone who did not have the intention to *go big* but rather did something she love to do, and decided to make some money doing it. There were no patent attorneys, trademark lawyers, big events in San Francisco or New York, but rather her choices and costs were a reflection of this more conservative mode of a SMB. She seems happy with where she is with her business. Happiness is one part of the metrics game that does not show up on a balance sheet.
  
 === Case Study of a SMB
 
@@ -17,6 +17,7 @@ Unlike many startups who know they need a fast transaction system, or one that h
 // What is the stack?  Linux at the base, PHP MySQL and WordPress, MailChimp Big-Commerce
 // Do you use anything for tracking your shipments of pallets to warehouses?
 // Do you have any online tools, spreadsheets, or other inventory management tool for your physical products?
+// Can we get the average monthly costs of *GoDaddy Big Commerce WordPress  MailChimp and her Contractor/programmer - Doug.
 
 Julie invents and produces knitting products which she outsources to China for manufacturing. She is strongly considering moving this business back to the US because of the logistics issues working with her offshore vendors. But when she develops a new product or kit, she is having a hard time finding local manufacturers who will do custom work. This leads her back to China to get a product made. The Chinese on the other hand are not innovative with her product manufacturing, but they just crank it out, so to speak.
 
@@ -31,24 +32,27 @@ Her technology has to support a 24 hours per day uptime as customers hit the sit
 * Content Management is handled by WordPress
 * Email marketing is handled by MailChimp 
 
-** Online sales: 
+===== Online sales 
 
 She uses Big-commerce for her shopping cart. Switched over from E-Junkie about a year ago. E-Junkie was $18 a month when her business started out but quickly outgrew the service because of too many products. Julie finds that Big-Commerce can be very frustrating to use as a business owner.   Julie is not sure what e-commerce platform sits underneath her online shopping cart. We suspect she is not much different than other SMB owners. Looking at the Big-commerce website, they offer a RESTful API and have sample code available in PHP, cURL and Node.js.
 
 When asked about her contractor using PHP or MySql, her response what that she had no idea. Her developer could answer that question but she could not.
+
+===== CMS
 	
-	WordPress how they have the whole website laid out. She says it is in two main parts. Half is in in information served to visitors and the other is in serving products that are purchasable that goes through Big-Commerce.
+WordPress is how they have their whole website laid out. She says it is in two main parts. Half is in in information served to visitors and the other is in serving products that are purchasable and goes through Big Commerce.
+
+===== Marketing and Sales
 	
-	AdWords or any SEO or marketing tools. Not yet. She is going to be purchasing an Advertisement spot on a knitting site soon.
+AdWords or any SEO or marketing tools. Not yet. She is going to be purchasing an Advertisement spot on a knitting site soon.
 	Has an email marketing engine that she uses to build her customer names. She currently emails to about 9,000 unique email addresses who have all opted-in to her newsletter emails. Use to run through goDaddy, but recently switched to MailChimp. Before using MailChimp the goDaddy email marketing tool provided demographics and now she needs to go in a look a log files to see why people signed up for her newsletter. When she first started her business, much of her traffic came from ravelry.com which is like a Facebook for knitters. But lately she has not needed to advertise or jockey for a top placement on ravelry. 
-	
-	Distributor in Oregon.
-	 
 	
 ==== How do you Manage the costs?
 Her contractor uses the hosting infrastructure, WordPress and Big Commerce for keeping costs low, while still being able to customize the look, behavior and capabilities of their online store and site. The only thing she has spent money on is the fonts used on the site. When asked about spending $1 on Google AdWords to produce $8 in return, she was intrigued but not ready to jump. She has not felt the need to put together all her costs to determine what level of profit she is making or if there are potential opportunities to scale.
 
-To start she paid her contractor about $5k to get things up and running. She now estimates that she spends, a back of the envelope estimation, $500 per month to run her business online. Show now has these as her cost of doing business:
+To start she paid her contractor about $5k to get things up and running. She now estimates that she spends, a back of the envelope estimation, $500 per month to run her business online. She indicated that if she had been presented with more substantial start up costs, and a web designer who told here to purchase this and that, she would have been scared off and not started her business.
+
+She now has these as her cost of doing business:
 
 * GoDaddy
 * Big Commerce 
