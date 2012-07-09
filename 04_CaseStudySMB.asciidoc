@@ -57,10 +57,12 @@ To start she paid her contractor about $5k to get things up and running. She now
 
 She now has these as her cost of doing business:
 
+// these will be filled in when I get her data. I will likely use percentages.
+
 [options="header"]
 |======= 
 |Item   |Provider |Monthly Cost 
-|Hosting Service|GoDaddy|13% 
+|Hosting Service|goDaddy|13% 
 |Online Commerce|Big Commerce|5.7% 
 |Content Management|WordPress|26% 
 |Marketing tool|MailChimp|1.8% 
