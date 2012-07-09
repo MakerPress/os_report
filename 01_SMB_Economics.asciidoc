@@ -2,7 +2,8 @@
 
 == Economic Impact of Open Source
 
-SMBs are faced with a dizzying array of Open Source and commercial options whe choosing the software they need to run and grow their business. And, the segment is huge, US SMB IT investments are expected to exceed $138B in 2012 (footnote: http://biztechreports.com/analyst_news__views/analys_news__views_archive_4132012, IDC, Justin Jaffe).
+SMBs are faced with a dizzying array of Open Source and commercial options whe choosing the software they need to run and grow their business. And, the segment is huge, US SMB IT investments are expected to exceed $138B in 2012 (footnote: http://biztechreports.com/analyst_news__views/analys_news__views_archive_4132012, IDC, Justin Jaffe). SMBs that invest most heavily in Web technologies were show to grow fastest in a McKinsey survey, more than twice as fast as companies who make the lowest level of investments (Internet matters: The Net's sweeping impact on growth and prosperity, by Matthieu Pelissie du Rausas, James Manyika, Eric Hazan, Jacques Bughin, Michael Chui, Remi Said, May 2011). McKinsey found that the increased productivity of the SMB market in mature economies had a significant impact of overall GNP growth in those countries.
+// rm: I'm not sure much detail to go into here, the McKinsey study mentions that, for the 13 countries they studies, 11% of GNP growth in the last five years is due to the internet, and that the SMEs (their term for SMBs) contributed to this growth without providing any numbers - hence the broadbrush prose
 
 SMBs receive many benefits from a web/online presence - benefits enabled by the low-cost Open Source infrastructure that girds the technology behind that presence. In this report, we'll look at how SMBs gain top-line customers and revenue from their web/online presence and how Open Source helps keep the web accessible for SMBs, including the growing Home-Based Business (HBB) segments.
 
