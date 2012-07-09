@@ -1,23 +1,23 @@
 include::00_Executive_Summary.asciidoc[]
 
+include::00_Introduction.asciidoc[]
+
 include::infoGraphic0.asciidoc[]
 
-include::00_Introduction.asciidoc[]
+include::00_BlueHostCustomerSurvey.asciidoc[]
 
 include::InfoGraphic_01.asciidoc[]
 
-include::00_Web_Hosting_Context.asciidoc[]
+include::03_Software.asciidoc[]
 
 include::InfoGraphic_02.asciidoc[]
 
-include::03_Stack_Comparisons.asciidoc[]
+include::01_SMB_Economics.asciidoc[]
 
 include::InfoGraphic_03.asciidoc[]
 
-include::01_SMB_Economics.asciidoc[]
+include::04_CaseStudySMB.asciidoc[]
 
 include::InfoGraphic_04.asciidoc[]
-
-include::04_CaseStudySMB.asciidoc[]
 
 include::Appendix.asciidoc[]

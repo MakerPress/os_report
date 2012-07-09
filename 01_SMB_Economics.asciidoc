@@ -2,6 +2,9 @@
 
 == Economic Impact of Open Source
 
+SMBs are faced with a dizzying array of Open Source and commercial options whe choosing the software they need to run and grow their business. And, the segment is huge, US SMB IT investments are expected to exceed $138B in 2012 (footnote: http://biztechreports.com/analyst_news__views/analys_news__views_archive_4132012, IDC, Justin Jaffe). SMBs that invest most heavily in Web technologies were show to grow fastest in a McKinsey survey, more than twice as fast as companies who make the lowest level of investments (Internet matters: The Net's sweeping impact on growth and prosperity, by Matthieu Pelissie du Rausas, James Manyika, Eric Hazan, Jacques Bughin, Michael Chui, Remi Said, May 2011). McKinsey found that the increased productivity of the SMB market in mature economies had a significant impact of overall GNP growth in those countries.
+// rm: I'm not sure much detail to go into here, the McKinsey study mentions that, for the 13 countries they studies, 11% of GNP growth in the last five years is due to the internet, and that the SMEs (their term for SMBs) contributed to this growth without providing any numbers - hence the broadbrush prose
+
 SMBs receive many benefits from a web/online presence - benefits enabled by the low-cost Open Source infrastructure that girds the technology behind that presence. In this report, we'll look at how SMBs gain top-line customers and revenue from their web/online presence and how Open Source helps keep the web accessible for SMBs, including the growing Home-Based Business (HBB) segments.
 
 // as alt to next two paragraphs
@@ -89,8 +92,6 @@ While we estimate the overall impact of one online ad channel, we know that SMBs
 
 === Open Source Cost Differential
 
-SMBs are faced with a dizzying array of Open Source and commercial options whe choosing the software they need to run and grow their business. And, the segment is huge, US SMB IT investments are expected to exceed $138B in 2012 (footnote: http://biztechreports.com/analyst_news__views/analys_news__views_archive_4132012, IDC, Justin Jaffe).
-
 The price for a web presence has been driven down for more than a decade by a number of factors, including resource sharing, enabled by virtualization, Moore's Law lowering the cost and increasing the power of compute resources, data center economies of scale, and, as we cover below, the availability and adoption of no-cost/low-cost Open Source projects as key web presence components. These lower costs have made a web presence, and all the benefits that a web presence provides, available to a wide swath of SMBs, including the growing HBB segment.
 
 Open Source projects and vendoes provide low-cost/no-cost options for business consumers, and, often, help keep the price of competing commercial products in check. For some tools relevant to SMBs, for example ecommerce and CMS, (rm note 2012-07-05: not sure where first reference and explanation of CMS resides in doc, I assume it's before this section end rm note) open source projects and vendors dominate the market.
@@ -103,9 +104,12 @@ Keep in mind that beyond creating their own web presence, SMBs and HBBs have acc
 
 We set out to build a model to help quantify the Open Source savings differential for infrastructure software like operating systems and databases - the type of infrastructure the undergirds most applications. To access a proxy of prices for roughly comparable Open Source and commercial component, we turn to Amazon's EC2 hosted platform pricing, with its open source (Linux, MySQL) and commercial (Microsoft Windows and SQL Server) options running on the same hardware platforms in the same data centers with the same tiered pricing options. We use an analysis of Bluehost's business customers tool usage to help us determine the share of SMB users likely to need a large database - an extra cost item - based on th their use of SMB applications like ecommerce and Content Management Systems (CMS).
 
-Our model shows that for a proxy of the SMB market, the price differential for hardware/software platforms running commercial software is about 2, i.e., SMBs would pay about double for the hardware/software infrastructure they need to operate online to run on commercial platforms. For smaller SMBs, who either don't need a database or you can use free commercial options, like SQL Server Express, the differential is about 1.5.
+Our model shows that for a proxy of the SMB market, the price differential for hardware/software platforms running commercial software is about 2, i.e., SMBs would pay about double for the hardware/software infrastructure they need to operate online to run on commercial platforms. For smaller SMBs, who either don't need a database or you can use free commercial options, like SQL Server Express, the differential is about 1.5. 
 
-For the software component alone, the price differential is likely higher
+For the software component of the server platform alone, the price differential is likely higher.
+// optional: For example if hardware, virtualization, networks, administration and other housing costs represents half the server platform costs, the price differential rises above three, i.e., commercial software costs more than three times the Open Source infrastructure software options.
+
+In any case, the savings  created by Open Source options likely make a web presence, from a simple information web site, to full-blown e-stores, accessible to more SMBs.
 
 Here’s the high level view of the model:
 
