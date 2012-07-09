@@ -28,19 +28,19 @@ When asked about her technology stack things got a little fuzzy. We could tell s
 Her technology has to support a 24 hours per day uptime as customers hit the site every hour of each day because of customers in Europe and Australia. Here are the components of the minimal tech stack that she uses to run her business.
 
 * Use a Hosting service provider with a Linux base. 
-* e-Commerce is handled by Big Commerce 
-* Content Management is handled by WordPress
-* Email marketing is handled by MailChimp 
+* e-Commerce is handled by Big Commerce. 
+* Content Management is handled by WordPress with a few plugins tuned to her particular needs.
+* Email marketing/newsletter fulfillment is handled by MailChimp.
 
 ===== Online sales 
 
 She uses Big-commerce for her shopping cart. Switched over from E-Junkie about a year ago. E-Junkie was $18 a month when her business started out but quickly outgrew the service because of too many products. Julie finds that Big-Commerce can be very frustrating to use as a business owner.   Julie is not sure what e-commerce platform sits underneath her online shopping cart. We suspect she is not much different than other SMB owners. Looking at the Big-commerce website, they offer a RESTful API and have sample code available in PHP, cURL and Node.js.
 
-When asked about her contractor using PHP or MySql, her response what that she had no idea. Her developer could answer that question but she could not.
+
 
 ===== Programming languages and tools
 
-Julie was not aware of what tools or languages her contractor used, but a quick inspection (view source) of her website reveals that both Javascript and PHP are being used.
+When asked about her contractor using PHP or MySql, her response what that she had no idea what was being used. Her developer could answer that question but she could not. A quick inspection (view source) of her website reveals that both Javascript and PHP are being used.
 
 ===== CMS
 
