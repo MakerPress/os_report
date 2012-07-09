@@ -2,11 +2,11 @@
 
 == Open Source and Small Business in Practice
 
-One important factor to remember with all the data and prognostication we have provided in the proceeding pages, is does Open Source make it easier for a SMB to get going. We are going to try to show an example in practice. This is an example of someone who did not have the intention to *go big* but rather did something she love to do, and decided to make some money doing it. There were no patent attorneys, trademark lawyers, big events in San Francisco or New York, but rather her choices and costs were a reflection of this more conservative mode of a SMB. She seems happy with where she is with her business. Happiness is one part of the metrics game that does not show up on a balance sheet.
- 
+One important factor to remember with all the data and prognostication we have provided in the proceeding pages, does Open Source make it easier for a SMB to get going? We are going to show an example in practice. This is an example of someone who did not have the intention to *go big* but rather did something she loved to do, and decided to make some money doing it. There were no patent attorneys, trademark lawyers, big events in San Francisco or New York, but rather her choices and costs were a reflection of her more conservative mode of a SMB. She seems very happy with where her business is today and where she is going with it. And happiness is one part of the metrics game that does not show up on a balance sheet.
+
 === Case Study of a SMB
 
-We recently spoke with Julie Weisenberger who owns Coco Knits which you can find at CocoKnits.com. She started out not having any idea that she was going to create a self-sustaining business. She just wanted to put some knitting patterns on the Web. And now for the past five years, Julie's main business has been selling knitting products online. She sells hard copies of Knitting Patterns and downloadable PDFs of the patterns. She also sells knitting supplies. The income from hard copy versions still have still not overtaken the online download revenue she earns. Her business revenues are an average monthly take of between $4-5k directly through her online shopping cart.  This is comprised of both PDF downloads and product sales. Here business has two main components. One is physical knitting patterns that she wholesales to knitting shops. Her warehouse is in SoCal and her distributor is in Oregon. There was no discussion of inventory management or pallet shipment tracking. 
+We recently spoke with Julie Weisenberger who owns Coco Knits which you can find at CocoKnits.com. She started out not having any idea that she was going to create a self-sustaining business. She just wanted to put some knitting patterns on the Web. And now for the past five years, Julie's main business has been selling knitting products online. She sells hard copies of Knitting Patterns and downloadable PDFs of the patterns. She also sells knitting supplies. The income from hard copy versions still have still not overtaken the online download revenue she earns. Her business revenues are an average monthly take of between $4-5k directly through her online shopping cart.  This is comprised of both PDF downloads and product sales. Her business has two main components. One is physical knitting patterns that she wholesales to knitting shops. For the physical products, her warehouse is in SoCal and her distributor is in Oregon. There was no mention of inventory management or pallet and shipment tracking. 
 
 ==== SMBs don't use tech to build a Business
 
@@ -25,7 +25,7 @@ When asked about her technology stack things got a little fuzzy. We could tell s
 
 ==== This SMB's Technology Stack
 
-Her technology has to support a 24 hours per day uptime as customers hit the site every hour of each day because of customers in Europe and Australia.
+Her technology has to support a 24 hours per day uptime as customers hit the site every hour of each day because of customers in Europe and Australia. Here are the components of the minimal tech stack that she uses to run her business.
 
 * Hosting service provider is goDaddy
 * e-Commerce is handled by Big Commerce 
