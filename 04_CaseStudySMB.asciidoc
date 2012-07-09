@@ -39,14 +39,13 @@ She uses Big-commerce for her shopping cart. Switched over from E-Junkie about a
 When asked about her contractor using PHP or MySql, her response what that she had no idea. Her developer could answer that question but she could not.
 
 ===== CMS
-	
+
 WordPress is how they have their whole website laid out. She says it is in two main parts. Half is in in information served to visitors and the other is in serving products that are purchasable and goes through Big Commerce.
 
 ===== Marketing and Sales
-	
-AdWords or any SEO or marketing tools. Not yet. She is going to be purchasing an Advertisement spot on a knitting site soon.
-	Has an email marketing engine that she uses to build her customer names. She currently emails to about 9,000 unique email addresses who have all opted-in to her newsletter emails. Use to run through goDaddy, but recently switched to MailChimp. Before using MailChimp the goDaddy email marketing tool provided demographics and now she needs to go in a look a log files to see why people signed up for her newsletter. When she first started her business, much of her traffic came from ravelry.com which is like a Facebook for knitters. But lately she has not needed to advertise or jockey for a top placement on ravelry. 
-	
+
+Julie uses an email marketing engine to build her customer names. She currently emails to about 9,000 unique email addresses who have all opted-in to her newsletter emails. She use to run through goDaddy, but recently switched to MailChimp. Before using MailChimp the goDaddy email marketing tool provided demographics and now she needs to go in a look a log files to see why people signed up for her newsletter. When she first started her business, much of her traffic came from ravelry.com which is like a Facebook for knitters. But lately she has not needed to advertise or jockey for a top placement on ravelry. She currently does not use AdWords or any SEO or marketing tools. She is going to be purchasing an Advertisement spot on a knitting site soon.
+
 ==== How do you Manage the costs?
 Her contractor uses the hosting infrastructure, WordPress and Big Commerce for keeping costs low, while still being able to customize the look, behavior and capabilities of their online store and site. The only thing she has spent money on is the fonts used on the site. When asked about spending $1 on Google AdWords to produce $8 in return, she was intrigued but not ready to jump. She has not felt the need to put together all her costs to determine what level of profit she is making or if there are potential opportunities to scale.
 
